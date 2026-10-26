@@ -1,0 +1,2694 @@
+[
+  {
+    "id": 1,
+    "subject": 1,
+    "passage": "",
+    "stem": "01 Followings are the clauses frequently used for a sales contract. Which of the following clauses LEAST represent ‘Entire Agreement’ between the seller and the buyer?",
+    "options": [
+      "This Agreement together with the Plan supersedes any and all other prior understandings and agreements, either oral or in writing, between the parties with respect to the subject matter hereof and constitutes the sole and only agreement between the parties with respect to the said subject matter.",
+      "This Agreement alone fully and completely expresses the agreement of the parties relating to the subject matter hereof. There are no other courses of dealing, understanding, agreements, representations or warranties, written or oral, except as set forth herein.",
+      "The failure of any party to require the performance of any term or obligation of this Agreement, or the waiver by any party of any breach of this Agreement, shall not prevent any subsequent enforcement of such term or obligation or be deemed a waiver of any subsequent breach.",
+      "This Agreement is intended by the parties as a final expression of their agreement and intended to be a complete and exclusive statement of the agreement and understanding of the parties hereto in respect of the subject matter contained herein."
+    ],
+    "answer": 2,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 14쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        14
+      ],
+      "fragments": [
+        {
+          "page": 14,
+          "viewport": [
+            0.07226891,
+            0.67695962,
+            0.41092437,
+            0.25831354
+          ]
+        },
+        {
+          "page": 14,
+          "viewport": [
+            0.50168067,
+            0.03859857,
+            0.39327731,
+            0.4412114
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 2,
+    "subject": 1,
+    "passage": "<p>Dear Mr. Mike,</p>\n<p>We have organized a series of online coaching clinic for middle schools’ table tennis coaches this winter. For the virtual training, we would like to provide all registered participants with a tablet PC for interactive real-time communication. I saw a catalogue with my colleague showing your company’s ranges of tablets. We are planning to make an order for more than 1,000 sets at a time. Is there a discount package available for a bulk purchase? I will also like to know the minimum price if we order for 15 or more desktop PCs with webcam.</p>",
+    "stem": "02 What is the purpose of the following correspondence?",
+    "options": [
+      "Request for Proposal (RFP)",
+      "Request for Quotation (RFQ)",
+      "Purchase Order",
+      "Firm Offer"
+    ],
+    "answer": 1,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 14쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        14
+      ],
+      "fragments": [
+        {
+          "page": 14,
+          "viewport": [
+            0.50168067,
+            0.48099762,
+            0.39327731,
+            0.45427553
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 3,
+    "subject": 1,
+    "passage": "",
+    "stem": "03 Select the wrong explanation of definitions under the UCP 600.",
+    "options": [
+      "Advising bank means the bank that advises the credit at the request of the issuing bank.",
+      "Applicant means the party on whose request the credit is issued.",
+      "Beneficiary means the party in whose favour a credit is issued.",
+      "Honour means to incur a deferred payment undertaking and pay at maturity if the credit is available by sight payment."
+    ],
+    "answer": 3,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 15쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        15
+      ],
+      "fragments": [
+        {
+          "page": 15,
+          "viewport": [
+            0.07983193,
+            0.05997625,
+            0.3907563,
+            0.34976247
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 4,
+    "subject": 1,
+    "passage": "",
+    "stem": "04 Which documentary credit enables a beneficiary to obtain pre-shipment financing without impacting his banking facility?",
+    "options": [
+      "Standby L/C",
+      "Red clause L/C",
+      "Revolving L/C",
+      "Back-to-back L/C"
+    ],
+    "answer": 1,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 15쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        15
+      ],
+      "fragments": [
+        {
+          "page": 15,
+          "viewport": [
+            0.07983193,
+            0.41092637,
+            0.3907563,
+            0.25296912
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 5,
+    "subject": 1,
+    "passage": "<p>A documentary credit for USD 160,000 calls for instalment ships of fertilizer in February, March, April and May. Each shipment is to be for about 500 tonnes. Shipments were effected as follows: a. 450 tonnes sent 24 February for value USD 36,000. b. 550 tonnes sent 12 April for value USD 44,000. c. 460 tonnes sent 30 April for value USD 36,800. d. 550 tonnes sent 04 June for value USD 44,000.</p>",
+    "stem": "05 Under the UCP 600, which of the below shipments will be honoured on presentation?",
+    "options": [
+      "a only",
+      "a and b only",
+      "a, b, and c only",
+      "none"
+    ],
+    "answer": 0,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 15쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        15
+      ],
+      "fragments": [
+        {
+          "page": 15,
+          "viewport": [
+            0.07983193,
+            0.66508314,
+            0.3907563,
+            0.27019002
+          ]
+        },
+        {
+          "page": 15,
+          "viewport": [
+            0.48907563,
+            0.03859857,
+            0.39327731,
+            0.25712589
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 6,
+    "subject": 1,
+    "passage": "",
+    "stem": "06 Which of the following statement about a B/L is LEAST correct?",
+    "options": [
+      "A straight B/L is a NEGOTIABLE DOCUMENT.",
+      "An order B/L is one of the most popular and common form of bill of lading issued.",
+      "When a straight bill of lading is issued, the cargo may be released ONLY to the named consignee and upon surrender of at least 1 of the original bills issued.",
+      "A straight B/L could be used in international transaction between headquarter and branch."
+    ],
+    "answer": 0,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 15쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        15
+      ],
+      "fragments": [
+        {
+          "page": 15,
+          "viewport": [
+            0.48907563,
+            0.29691211,
+            0.39327731,
+            0.28859857
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 7,
+    "subject": 1,
+    "passage": "<p>Premium means the ( A ) or sum of money, paid by the ( B ) to the ( C ) in return for which the insurer agrees to indemnify the assured in the event of loss from an insured peril. The insurer is not bound to issue a ( D ) until the premium is paid. (A) (B) (C) (D)</p>",
+    "stem": "07 Select the best answer suitable for the blank.",
+    "options": [
+      "consideration assured insurer policy",
+      "consideration insurer assured policy",
+      "fees insurer assured certificate",
+      "fees assured insured certificate"
+    ],
+    "answer": 0,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 15, 16쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        15,
+        16
+      ],
+      "fragments": [
+        {
+          "page": 15,
+          "viewport": [
+            0.48907563,
+            0.58669834,
+            0.39327731,
+            0.34857482
+          ]
+        },
+        {
+          "page": 16,
+          "viewport": [
+            0.10420168,
+            0.03859857,
+            0.40672269,
+            0.10748219
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 8,
+    "subject": 1,
+    "passage": "<p>Chartering term whereby the charterer of a vessel under voyage charter agrees to pay the costs of loading and discharging the cargo.</p>\n",
+    "stem": "08 Select the best answer suitable for the following passage.",
+    "options": [
+      "FI",
+      "FO",
+      "FIO",
+      "FIOST"
+    ],
+    "answer": 2,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 16쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        16
+      ],
+      "fragments": [
+        {
+          "page": 16,
+          "viewport": [
+            0.10420168,
+            0.14726841,
+            0.40672269,
+            0.24049881
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 9,
+    "subject": 1,
+    "passage": "<p>The beneficiary usually <span class=\"answer-blank\" aria-label=\"빈칸\">&nbsp;</span> after loading the goods on board to tender documentary drafts to the negotiating bank within expiry date.</p>",
+    "stem": "09 Select the best answer suitable for the blank under letter of credit operation.",
+    "options": [
+      "looks for business connection abroad",
+      "dispatches to the importer Trade Circulars including catalogue",
+      "applies for the issuance of a Letter of Credit",
+      "prepares shipping documents and draws a draft for negotiation"
+    ],
+    "answer": 3,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 16쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        16
+      ],
+      "fragments": [
+        {
+          "page": 16,
+          "viewport": [
+            0.10420168,
+            0.38895487,
+            0.40672269,
+            0.31888361
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 10,
+    "subject": 1,
+    "passage": "<p>The shipping documents are surrendered to the consignee by the presenting bank upon acceptance of the time draft. The consignee obtaining possession of the goods is thereby enabled to dispose of them before the actual payment falls due.</p>",
+    "stem": "10 Select the best one which explains well the following passage.",
+    "options": [
+      "D/A",
+      "D/P",
+      "Collection",
+      "Open Account"
+    ],
+    "answer": 0,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 16쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        16
+      ],
+      "fragments": [
+        {
+          "page": 16,
+          "viewport": [
+            0.10420168,
+            0.70902613,
+            0.40672269,
+            0.22624703
+          ]
+        },
+        {
+          "page": 16,
+          "viewport": [
+            0.52941176,
+            0.03859857,
+            0.39327731,
+            0.1763658
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 11,
+    "subject": 1,
+    "passage": "<p>( A ) transaction is a sale where the goods are shipped and delivered before payment is due. This option is the most advantageous for the importer in terms of cash flow and cost, but it is consequently the highest risky option for an exporter. However, the exporter can offer competitive ( A ) terms while substantially mitigating the risk of non-payment by using one or more of the appropriate trade finance techniques, such as export credit insurance.</p>",
+    "stem": "11 Which of the followings is APPROPRIATE for (A)?",
+    "options": [
+      "Telegraphic transfer",
+      "Cash with order",
+      "Open account",
+      "Letter of credit"
+    ],
+    "answer": 2,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 16쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        16
+      ],
+      "fragments": [
+        {
+          "page": 16,
+          "viewport": [
+            0.52941176,
+            0.21615202,
+            0.39327731,
+            0.3824228
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 12,
+    "subject": 1,
+    "passage": "<p>A. Thank you for taking time out of your busy schedule to write us and express your grievances on how our products and services do not meet up with your expectations.<br/><br/>B. This is to confirm that I have seen your email.</p>\n<p>I look forward to receiving my consignment next week as you promised.<br/><br/>C. However, we can neither receive the return nor refund you as you demanded. This is because of our company’s policy. We make refunds only for orders whose complaints are received within two weeks of purchase.<br/><br/>D. Despite our effort to deliver your order on time using Skynet Express Delivery Service, it’s quite unfortunate that we didn’t meet up with the time allotted for the delivery of those products.</p>",
+    "stem": "12 Followings are the replies to customer complaints. Which of the following is NOT appropriate?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": 1,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 16, 17쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        16,
+        17
+      ],
+      "fragments": [
+        {
+          "page": 16,
+          "viewport": [
+            0.52941176,
+            0.59976247,
+            0.39327731,
+            0.33551069
+          ]
+        },
+        {
+          "page": 17,
+          "viewport": [
+            0.07310924,
+            0.03859857,
+            0.38655462,
+            0.14133017
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 13,
+    "subject": 1,
+    "passage": "<p>We are ( A ) of being able to send you the ( B ) by the end of this week. We shall do ( C ) in our power to see that such an irregularity is not ( D ). (A) (B) (C) (D)</p>",
+    "stem": "13 Select the best answer suitable for the blank.",
+    "options": [
+      "convinced substitute all replace",
+      "convinced substitution all replace",
+      "confident substitution everything replaced",
+      "confident substitute everything repeated"
+    ],
+    "answer": 3,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 17쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        17
+      ],
+      "fragments": [
+        {
+          "page": 17,
+          "viewport": [
+            0.07310924,
+            0.18111639,
+            0.38655462,
+            0.40855107
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 14,
+    "subject": 1,
+    "passage": "<p>Lee : Hello, Mr. Jung. Jack Lee speaking.<br/><br/>Jung: Hello, Mr. Lee. I'm with SRG Electronics. And I was hoping to talk to you about our line of electronic parts.<br/><br/>Lee : Oh, yes, I've heard of SRG. How are things going in Korea?<br/><br/>Jung: Good, thanks. In fact, recently there's been a lot of demand for our parts, so we've been very busy.<br/><br/>Lee : Glad to hear that. I'd certainly be interested in your prices.<br/><br/>Jung: Well, I'm going to be in San Francisco next week and wondering if you have time to get together.<br/><br/>Lee : When will you be here?<br/><br/>Jung: Next Wednesday and Thursday. What does your schedule look like?<br/><br/>Lee : Um... Let me check my calendar. Let's see, I have a meeting on Wednesday morning. How about Wednesday afternoon at about two o'clock?<br/><br/>Jung: That is fine.</p>",
+    "stem": "14 Which of the following is LEAST correct according to the discourse?",
+    "options": [
+      "Jung works for SRG Electronics.",
+      "Jung and Lee will meet in San Francisco.",
+      "Jung and Lee already know each other before this phone call.",
+      "There are few customers in SRG Electronics."
+    ],
+    "answer": 3,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 17쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        17
+      ],
+      "fragments": [
+        {
+          "page": 17,
+          "viewport": [
+            0.07310924,
+            0.59085511,
+            0.38655462,
+            0.34441805
+          ]
+        },
+        {
+          "page": 17,
+          "viewport": [
+            0.47815126,
+            0.03859857,
+            0.39327731,
+            0.27137767
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 15,
+    "subject": 1,
+    "passage": "<p>In international trade, export credit insurance agencies sometimes act as bridges between the banks and exporters. In emerging economies where the financial sector is yet to be developed, governments often take over the role of the export credit insurance agencies.</p>",
+    "stem": "15 Who is doing export credit insurance agencies in Korea?",
+    "options": [
+      "Korea International Trade Association",
+      "K-Sure",
+      "Kotra",
+      "Korcham"
+    ],
+    "answer": 1,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 17쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        17
+      ],
+      "fragments": [
+        {
+          "page": 17,
+          "viewport": [
+            0.47815126,
+            0.3111639,
+            0.39327731,
+            0.33254157
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 16,
+    "subject": 1,
+    "passage": "<p><span class=\"answer-blank\" aria-label=\"빈칸\">&nbsp;</span> letter of credit states : \"Credit available with any bank, by negotiation for payment of beneficiary's draft at sight. The L/C is subject to UCP600\".</p>",
+    "stem": "16 Select the best answer suitable for the blank.",
+    "options": [
+      "Irrevocable Open",
+      "Revocable Open",
+      "Irrevocable Special",
+      "Revocable Special"
+    ],
+    "answer": 0,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 17쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        17
+      ],
+      "fragments": [
+        {
+          "page": 17,
+          "viewport": [
+            0.47815126,
+            0.64489311,
+            0.39327731,
+            0.29038005
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 17,
+    "subject": 1,
+    "passage": "",
+    "stem": "17 Which of the followings is NOT appropriate for the reply to a claim letter?",
+    "options": [
+      "Upon investigation, we have discovered that defective goods sometimes filter despite rigorous inspection before shipment.",
+      "Ten cases of T.V. Set for our order No. 10 per m/s \"Chosun\" have reached here, but we immensely regret to have to inform you that six units in C/N 10 are different in quality from the specifications of our Order.",
+      "As a settlement, we have arranged to reship the whole goods by the first ship available, with a special discount of 3% off the invoice amount.",
+      "After careful investigation, we could not find any errors on our part, because we took every effort to fill your order as evident from the enclosed certificate of packing inspection."
+    ],
+    "answer": 1,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 18쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        18
+      ],
+      "fragments": [
+        {
+          "page": 18,
+          "viewport": [
+            0.09663866,
+            0.05700713,
+            0.40672269,
+            0.44774347
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 18,
+    "subject": 1,
+    "passage": "<p>Documents presented under an L/C issued by Roori Bank are fully complied. The applicant has already made payment to his bank and then the issuing bank pays the negotiating bank. Some days after, the applicant finds that the goods are not in good quality. He goes to the issuing bank and requests the bank to refund such payment for him.</p>",
+    "stem": "18 Select the right one in regard to the situation.",
+    "options": [
+      "Roori Bank has to refund payment to the applicant.",
+      "Roori Bank has to ask for the opinion of the beneficiary.",
+      "Roori Bank shall ask refund of money to the beneficiary.",
+      "Roori Bank has no obligation to refund payment."
+    ],
+    "answer": 3,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 18쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        18
+      ],
+      "fragments": [
+        {
+          "page": 18,
+          "viewport": [
+            0.09663866,
+            0.50593824,
+            0.40672269,
+            0.42933492
+          ]
+        },
+        {
+          "page": 18,
+          "viewport": [
+            0.52184874,
+            0.03859857,
+            0.39327731,
+            0.08966746
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 19,
+    "subject": 1,
+    "passage": "<p>A commercial invoice:<br/><br/>A. that appears to have been issued by the beneficiary.<br/><br/>B. that is made out in the name of the applicant.<br/><br/>C. that is made out in the different currency as the credit.<br/><br/>D. for which the beneficiary did not sign.</p>",
+    "stem": "19 A credit requires an 'invoice' without further definition. Which of the following MUST be considered to be a discrepancy under UCP600?",
+    "options": [
+      "A only",
+      "A+B only",
+      "C only",
+      "D only"
+    ],
+    "answer": 2,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 18쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        18
+      ],
+      "fragments": [
+        {
+          "page": 18,
+          "viewport": [
+            0.52184874,
+            0.12945368,
+            0.39327731,
+            0.49406176
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 20,
+    "subject": 1,
+    "passage": "<p>[20~21] Read the following and answer.</p>\n<p>Thank you for your letter regarding opening an account with our company for trading our goods. Please fill in the enclosed <u>financial information</u> form for 3 years and provide us with two or more trade references as well as one bank reference.</p>\n<p>Of course, all information will be kept in strict confidence.</p>\n<p>Thank you very much for your cooperation.</p>\n<p>Your sincerely,</p>",
+    "stem": "20 Who is likely to be the writer?",
+    "options": [
+      "banker",
+      "seller",
+      "buyer",
+      "collector"
+    ],
+    "answer": 1,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 18쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        18
+      ],
+      "fragments": [
+        {
+          "page": 18,
+          "viewport": [
+            0.52184874,
+            0.62470309,
+            0.39327731,
+            0.17458432
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 21,
+    "subject": 1,
+    "passage": "<p>[20~21] Read the following and answer.</p>\n<p>Thank you for your letter regarding opening an account with our company for trading our goods. Please fill in the enclosed <u>financial information</u> form for 3 years and provide us with two or more trade references as well as one bank reference.</p>\n<p>Of course, all information will be kept in strict confidence.</p>\n<p>Thank you very much for your cooperation.</p>\n<p>Your sincerely,</p>",
+    "stem": "21 What would NOT be included in the financial information?",
+    "options": [
+      "cash flow",
+      "profit and loss account",
+      "balance sheet",
+      "draft"
+    ],
+    "answer": 3,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 18, 19쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        18,
+        19
+      ],
+      "fragments": [
+        {
+          "page": 18,
+          "viewport": [
+            0.52184874,
+            0.80047506,
+            0.39327731,
+            0.1347981
+          ]
+        },
+        {
+          "page": 19,
+          "viewport": [
+            0.07142857,
+            0.03859857,
+            0.39495798,
+            0.4388361
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 22,
+    "subject": 1,
+    "passage": "<p>[22~23] Read the following and answer.</p>\n<p>Dear Peter Park,</p>\n<p>I intend to place a substantial order with you in the next few months.</p>\n<p>As you know, over the past two years I have placed a number of orders with you and settled promptly, so I hope this has established my reputation with your company. Nevertheless, if necessary, I am willing to supply references.</p>\n<p>I would like, if possible, to settle future accounts every three months with payments against quarterly statements.</p>",
+    "stem": "22 Which is LEAST similar to settled promptly?",
+    "options": [
+      "debited per schedule",
+      "paid punctually",
+      "cleared punctually",
+      "paid on schedule"
+    ],
+    "answer": 0,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 19쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        19
+      ],
+      "fragments": [
+        {
+          "page": 19,
+          "viewport": [
+            0.07142857,
+            0.47862233,
+            0.39495798,
+            0.20130641
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 23,
+    "subject": 1,
+    "passage": "<p>[22~23] Read the following and answer.</p>\n<p>Dear Peter Park,</p>\n<p>I intend to place a substantial order with you in the next few months.</p>\n<p>As you know, over the past two years I have placed a number of orders with you and settled promptly, so I hope this has established my reputation with your company. Nevertheless, if necessary, I am willing to supply references.</p>\n<p>I would like, if possible, to settle future accounts every three months with payments against quarterly statements.</p>",
+    "stem": "23 What can be inferred from the above?",
+    "options": [
+      "Peter Park is a buyer.",
+      "The writer wants to place an initial order with the seller.",
+      "References are to be provided if the buyer is afraid of seller’s credit.",
+      "The seller may send invoices for settlement on a quarterly basis provided that the request is accepted."
+    ],
+    "answer": 3,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 19쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        19
+      ],
+      "fragments": [
+        {
+          "page": 19,
+          "viewport": [
+            0.07142857,
+            0.68111639,
+            0.39495798,
+            0.25415677
+          ]
+        },
+        {
+          "page": 19,
+          "viewport": [
+            0.48487395,
+            0.03859857,
+            0.39327731,
+            0.11638955
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 24,
+    "subject": 1,
+    "passage": "<p>I am sorry to inform you that, due to an (A) <u>expected price increase from our manufacturers in USA</u>, (B) <u>we have no option but to raise the prices of</u> all our imported shoes by 4% from 6 May, 2020. However (C) <u>orders received before this date will be invoiced</u> at the present price levels. (D) <u>We sincerely regret the need for the increase.</u> However, we know you will understand that this increase is beyond our control.</p>",
+    "stem": "24 Choose the awkward one from the following underlined parts.",
+    "options": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)"
+    ],
+    "answer": 0,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 19쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        19
+      ],
+      "fragments": [
+        {
+          "page": 19,
+          "viewport": [
+            0.48487395,
+            0.15617577,
+            0.39327731,
+            0.34976247
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 25,
+    "subject": 1,
+    "passage": "<p>Protection and Indemnity (P&amp;I) insurance contained in an ocean marine policy covers:</p><p><span aria-label=\"빈칸\" class=\"answer-blank\"> </span></p>",
+    "stem": "25 Choose the right one for the next underlined part.",
+    "options": [
+      "Ordinary loss or damage in the voyage",
+      "Loss of the shipper fees",
+      "Marine legal liability for third party damages caused by the ship",
+      "Damage to another vessel caused by collision"
+    ],
+    "answer": 2,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 19, 20쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        19,
+        20
+      ],
+      "fragments": [
+        {
+          "page": 19,
+          "viewport": [
+            0.48487395,
+            0.50712589,
+            0.39327731,
+            0.42814727
+          ]
+        },
+        {
+          "page": 20,
+          "viewport": [
+            0.09495798,
+            0.03859857,
+            0.41092437,
+            0.0611639
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 26,
+    "subject": 2,
+    "passage": "<p>The more geographic reach your company has, the more important this clause will become. For example, if you’re a small local business dealing 100% exclusively with locals, you may not really need a clause telling your customers which law applies. Everyone will expect it to be the law of whatever state that little local business is in. Now, take a big corporation with customers and offices in numerous countries around the world. If a customer in Korea wants to sue over an issue with the product, would Korean law apply or would the law from any of the other countries take over? Or, what if you’re an American business that has customers from Europe. In both cases, a/an <span class=\"answer-blank\" aria-label=\"빈칸\">&nbsp;</span> clause will declare which laws will apply and can keep both companies from having to hire international lawyers.</p>",
+    "stem": "26 Which of the following words is not suitable for the blank below?",
+    "options": [
+      "controlling law",
+      "governing law",
+      "applicable law",
+      "proper law"
+    ],
+    "answer": 0,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 20쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        20
+      ],
+      "fragments": [
+        {
+          "page": 20,
+          "viewport": [
+            0.09495798,
+            0.10095012,
+            0.41092437,
+            0.83432304
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 27,
+    "subject": 2,
+    "passage": "<p>[27~28] Read the following and answer.</p>\n<p>The most common negotiable document is the bill of lading. The bill of lading is a receipt given by the shipping company to the shipper. A bill of lading serves as a document of title and specifies who is to receive the merchandise at the designated port. In a straight bill of lading, the seller consigns the goods directly to the buyer. This type of bill is usually not desirable in a letter of credit transaction, because <span class=\"answer-blank\" aria-label=\"빈칸\">&nbsp;</span>.</p>\n<p>With an order bill of lading the shipper can consign the goods to the bank. This method is preferred in letter of credit transactions. The bank maintains control of the merchandise until the buyer pays the documents.</p>",
+    "stem": "27 What is nature of straight bill of lading?",
+    "options": [
+      "non-negotiable bill of lading",
+      "negotiable bill of lading",
+      "foul bill of lading",
+      "order bill of lading"
+    ],
+    "answer": 0,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 20쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        20
+      ],
+      "fragments": [
+        {
+          "page": 20,
+          "viewport": [
+            0.52436975,
+            0.0611639,
+            0.39327731,
+            0.20249406
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 28,
+    "subject": 2,
+    "passage": "<p>[27~28] Read the following and answer.</p>\n<p>The most common negotiable document is the bill of lading. The bill of lading is a receipt given by the shipping company to the shipper. A bill of lading serves as a document of title and specifies who is to receive the merchandise at the designated port. In a straight bill of lading, the seller consigns the goods directly to the buyer. This type of bill is usually not desirable in a letter of credit transaction, because <span class=\"answer-blank\" aria-label=\"빈칸\">&nbsp;</span>.</p>\n<p>With an order bill of lading the shipper can consign the goods to the bank. This method is preferred in letter of credit transactions. The bank maintains control of the merchandise until the buyer pays the documents.</p>",
+    "stem": "28 What is best for the blank?",
+    "options": [
+      "it allows the buyer to obtain possession of the goods directly.",
+      "the shipper can consign the goods to the bank.",
+      "the bank maintains control of goods until the buyer pays the documents.",
+      "the bank can releases the bill of lading to the buyer."
+    ],
+    "answer": 0,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 20쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        20
+      ],
+      "fragments": [
+        {
+          "page": 20,
+          "viewport": [
+            0.52436975,
+            0.26484561,
+            0.39327731,
+            0.31591449
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 29,
+    "subject": 2,
+    "passage": "",
+    "stem": "29 Which of the followings has a different meaning with others?",
+    "options": [
+      "We will give you a special discount if you order by May 12.",
+      "You will be given a special discount if you take order until May 12.",
+      "If you order on or before May 12, you will get a special discount.",
+      "A special discount is available for your order being received on or before May 12."
+    ],
+    "answer": 1,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 20쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        20
+      ],
+      "fragments": [
+        {
+          "page": 20,
+          "viewport": [
+            0.52436975,
+            0.58194774,
+            0.39327731,
+            0.35332542
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 30,
+    "subject": 2,
+    "passage": "<p>In comparison with lawsuit case in a court, arbitration has advantages of the speedy decision, lower costs, nomination of specialized arbitrators, and <span class=\"answer-blank\" aria-label=\"빈칸\">&nbsp;</span>.</p>",
+    "stem": "30 Which of the following is appropriate for the blank?",
+    "options": [
+      "international effect of judgement",
+      "mandatory publication of arbitral award",
+      "legal approach by government",
+      "higher legal stability"
+    ],
+    "answer": 0,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 21쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        21
+      ],
+      "fragments": [
+        {
+          "page": 21,
+          "viewport": [
+            0.06302521,
+            0.05463183,
+            0.39243697,
+            0.29750594
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 31,
+    "subject": 2,
+    "passage": "<p>Types of marine insurance can be differentiated as follows:<br><br>( A ) caters specifically to the marine cargo carried by ship and also pertains to the belongings of a ship's voyagers.<br><br>( B ) is mostly taken out by the owner of the ship to avoid any loss to the vessel in case of any mishaps occurring.<br><br>( C ) is that type of marine insurance where compensation is sought to be provided to any liability occurring on account of a ship crashing or colliding and on account of any other induced attacks.<br><br>( D ) offers and provides protection to merchant vessels’ corporations which stand a chance of losing money in the form of freight in case the cargo is lost due to the ship meeting with an accident.</p>",
+    "stem": "31 Which of the following is NOT appropriate for the blank below?",
+    "options": [
+      "(A) : voyage insurance",
+      "(B) : hull insurance",
+      "(C) : liability insurance",
+      "(D) : freight insurance"
+    ],
+    "answer": 0,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 21쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        21
+      ],
+      "fragments": [
+        {
+          "page": 21,
+          "viewport": [
+            0.06302521,
+            0.35332542,
+            0.39243697,
+            0.58194774
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 32,
+    "subject": 2,
+    "passage": "<p>Thank you for your order of February 23, 2020. We are pleased to inform you that (A)<u>your order No.3634 has been loaded on the M/S Ventura</u>, (B)<u>leaving for Busan on March 10, 2020</u>, and (C)<u>arriving at Genoa around April 3, 2020</u>. (D)<u>The packing was carefully carried out</u> according to your instructions, and we are sure that all goods will reach you in good condition.</p>",
+    "stem": "32 Which is NOT grammatically correct?",
+    "options": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)"
+    ],
+    "answer": 1,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 21쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        21
+      ],
+      "fragments": [
+        {
+          "page": 21,
+          "viewport": [
+            0.47394958,
+            0.05344418,
+            0.39327731,
+            0.33016627
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 33,
+    "subject": 2,
+    "passage": "<p>(A)<u>Average adjuster is an expert in loss adjustment in marine insurance, particular with regard to hulls and hull interest.</u> (B)<u>He is more particularly concerned with all partial loss adjustments.</u> (C)<u>He is usually appointed to carry out general average adjustments for the shipowner on whom falls the onus to have the adjustment drawn up.</u> (D)<u>His charges and expenses form part of the adjustment.</u></p>",
+    "stem": "33 Select the wrong part in the following passage.",
+    "options": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)"
+    ],
+    "answer": 1,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 21쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        21
+      ],
+      "fragments": [
+        {
+          "page": 21,
+          "viewport": [
+            0.47394958,
+            0.3847981,
+            0.39327731,
+            0.31947743
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 34,
+    "subject": 2,
+    "passage": "<p>(A)<u>Sea Waybill is a transport document for maritime shipment, which serves as prima-facie evidence of the contract of carriage</u> (B)<u>and as a receipt of the goods being transported, and a document of title.</u> (C)<u>To take delivery of the goods, presentation of the sea waybill is not required;</u> (D)<u>generally, the receiver is only required to identify himself, doing so can speed up processing at the port of destination.</u></p>",
+    "stem": "34 Select the wrong part in the following passage.",
+    "options": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)"
+    ],
+    "answer": 1,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 21, 22쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        21,
+        22
+      ],
+      "fragments": [
+        {
+          "page": 21,
+          "viewport": [
+            0.47394958,
+            0.70546318,
+            0.39327731,
+            0.22980998
+          ]
+        },
+        {
+          "page": 22,
+          "viewport": [
+            0.10420168,
+            0.03859857,
+            0.40420168,
+            0.16152019
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 35,
+    "subject": 2,
+    "passage": "<p>(A)<u>All disputes, controversies or differences</u> <u>which may raise</u> (B)<u>between the parties out of or in relation to or</u> (C)<u>in connection with contract, for the breach thereof</u> (D)<u>shall be finally settled by arbitration in Seoul.</u></p><u>\n</u>",
+    "stem": "35 Which is NOT grammatically correct?",
+    "options": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)"
+    ],
+    "answer": 0,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 22쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        22
+      ],
+      "fragments": [
+        {
+          "page": 22,
+          "viewport": [
+            0.10420168,
+            0.20130641,
+            0.40420168,
+            0.28622328
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 36,
+    "subject": 2,
+    "passage": "",
+    "stem": "36 Which of the following is LEAST correctly written in English?",
+    "options": [
+      "당사는 귀사에게 당사의 늦은 답장에 대해 사과드리고 싶습니다. - We would like to apologize you to our late reply.",
+      "귀사의 담당자는 당사의 어떤 이메일에도 답을 하지 않았습니다. - The person in charge at your company did not respond to any of our emails.",
+      "귀사의 제안은 다음 회의에서 다루어질 것입니다. - Your suggestion will be dealt with at the next meeting.",
+      "신상품 라인에 대하여 설명해 주시겠습니까? - Would you account for the new product line?"
+    ],
+    "answer": 0,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 22쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        22
+      ],
+      "fragments": [
+        {
+          "page": 22,
+          "viewport": [
+            0.10420168,
+            0.48871734,
+            0.40420168,
+            0.44655582
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 37,
+    "subject": 2,
+    "passage": "",
+    "stem": "37 Which of the following is LEAST correctly written in English?",
+    "options": [
+      "이 계약서의 조건을 몇 가지 수정하고 싶습니다. - I'd like to amend some of the terms of this contract.",
+      "가격을 원래보다 20달러 더 낮출 수 있을 것 같네요. - I think I can lower the price of $20.",
+      "계약 기간은 2년입니다. - The contract is valid for two years.",
+      "3년간 이 소프트웨어 독점 사용권을 제공해 드릴 수 있습니다. - We can offer you an exclusive license to this software for three years."
+    ],
+    "answer": 1,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 22쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        22
+      ],
+      "fragments": [
+        {
+          "page": 22,
+          "viewport": [
+            0.52689076,
+            0.05997625,
+            0.39327731,
+            0.33669834
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 38,
+    "subject": 2,
+    "passage": "",
+    "stem": "38 Which of the following is LEAST correctly written in English?",
+    "options": [
+      "제품 No.105와 106호의 즉시 선적이 불가능하다면, 제품 No.107과 108호를 대신 보내주십시오. - If Nos.105 and 106 are not available for immediate shipment, please send Nos.107 and 108 instead.",
+      "이 가격이 귀사에게 괜찮다면 우리는 주문양식을 보내 드리고자 합니다. - If this price is acceptable to you, we would like to send you an order form.",
+      "귀사가 제품을 공급해줄 수 없다면, 이유를 알려주시기 바랍니다. - If you cannot supply us with the products, please let us have your explanation.",
+      "당사의 송장은 주문한 안락의자들을 7월 12일 오후 5시 까지 설치해줄 것을 구체적으로 명시하고 있습니다. - Our invoice specifically is stated that the armchairs ordering should be furnished until 5:00 p.m. on July 12."
+    ],
+    "answer": 3,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 22쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        22
+      ],
+      "fragments": [
+        {
+          "page": 22,
+          "viewport": [
+            0.52689076,
+            0.39786223,
+            0.39327731,
+            0.53741093
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 39,
+    "subject": 2,
+    "passage": "<p><span class=\"answer-blank\" aria-label=\"빈칸\">&nbsp;</span> are taxes assessed for countering the effect of subsidies provided by exporting governments on goods that are exported to other countries.</p>",
+    "stem": "39 Select the best answer suitable for the blank.",
+    "options": [
+      "Retaliatory duties",
+      "Countervailing duties",
+      "Dumping duties",
+      "Anti-dumping duties"
+    ],
+    "answer": 1,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 23쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        23
+      ],
+      "fragments": [
+        {
+          "page": 23,
+          "viewport": [
+            0.05966387,
+            0.05166271,
+            0.40252101,
+            0.49524941
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 40,
+    "subject": 2,
+    "passage": "<p>[40~41] Read the following and answer.</p>\n<p>As we wrote you previously about the delays in the delivery of your order, the situation is still the same, the trade union strike is on-going. We apologize for this occurrence, but there is not much that we can do to <span class=\"answer-blank\" aria-label=\"빈칸\">&nbsp;</span> this, as it is out of our hands.</p>\n<p>We again apologize and regret the delay in delivery of your order.</p>\n<p>Yours faithfully,</p>",
+    "stem": "40 What situation is excused in the above letter?",
+    "options": [
+      "late payment",
+      "force majeure",
+      "non payment",
+      "early delivery"
+    ],
+    "answer": 1,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 23쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        23
+      ],
+      "fragments": [
+        {
+          "page": 23,
+          "viewport": [
+            0.05966387,
+            0.54809976,
+            0.40252101,
+            0.1912114
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 41,
+    "subject": 2,
+    "passage": "<p>[40~41] Read the following and answer.</p>\n<p>As we wrote you previously about the delays in the delivery of your order, the situation is still the same, the trade union strike is on-going. We apologize for this occurrence, but there is not much that we can do to <span class=\"answer-blank\" aria-label=\"빈칸\">&nbsp;</span> this, as it is out of our hands.</p>\n<p>We again apologize and regret the delay in delivery of your order.</p>\n<p>Yours faithfully,</p>",
+    "stem": "41 Fill in the blank with suitable word.",
+    "options": [
+      "rectify",
+      "examine",
+      "arrange",
+      "file"
+    ],
+    "answer": 0,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 23쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        23
+      ],
+      "fragments": [
+        {
+          "page": 23,
+          "viewport": [
+            0.05966387,
+            0.74049881,
+            0.40252101,
+            0.19477435
+          ]
+        },
+        {
+          "page": 23,
+          "viewport": [
+            0.48067227,
+            0.03859857,
+            0.39327731,
+            0.33847981
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 42,
+    "subject": 2,
+    "passage": "<p>[42~43] Below is part of shipping letter of guarantee. Answer to each question.</p>\n<p>Whereas (A)<u>you</u> have issued a bill of lading covering the above shipment and the above cargo has been arrived at the above port of discharge, we hereby request you to give delivery of the said cargo to the above mentioned party without presentation of the original bill of lading.</p>\n<p>In consideration of your complying with our above request, we hereby agree to indemnify you as follows:</p>\n<p>Expenses which you may sustain by reason of delivering the cargo in accordance with our request, provided that the undersigned Bank shall be exempt from liability for freight, demurrage or expenses in respect of the contract of carriage.</p>\n<p>As soon as the original bill of lading corresponding to the above cargo comes into our possession, we shall surrender the (B)<u>same</u> to you, whereupon our liability hereunder shall cease.</p>",
+    "stem": "42 Which is the right match for A and B?",
+    "options": [
+      "(A)carrier - (B)Letter of Guarantee",
+      "(A)carrier - (B)Bill of Lading",
+      "(A)buyer - (B)Bill of Lading",
+      "(A)seller - (B)Letter of Guarantee"
+    ],
+    "answer": 1,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 23쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        23
+      ],
+      "fragments": [
+        {
+          "page": 23,
+          "viewport": [
+            0.48067227,
+            0.37826603,
+            0.39327731,
+            0.22209026
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 43,
+    "subject": 2,
+    "passage": "<p>[42~43] Below is part of shipping letter of guarantee. Answer to each question.</p>\n<p>Whereas (A)<u>you</u> have issued a bill of lading covering the above shipment and the above cargo has been arrived at the above port of discharge, we hereby request you to give delivery of the said cargo to the above mentioned party without presentation of the original bill of lading.</p>\n<p>In consideration of your complying with our above request, we hereby agree to indemnify you as follows:</p>\n<p>Expenses which you may sustain by reason of delivering the cargo in accordance with our request, provided that the undersigned Bank shall be exempt from liability for freight, demurrage or expenses in respect of the contract of carriage.</p>\n<p>As soon as the original bill of lading corresponding to the above cargo comes into our possession, we shall surrender the (B)<u>same</u> to you, whereupon our liability hereunder shall cease.</p>",
+    "stem": "43 Which is similar to the word indemnify?",
+    "options": [
+      "register",
+      "reimburse",
+      "recourse",
+      "surrender"
+    ],
+    "answer": 1,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 23, 24쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        23,
+        24
+      ],
+      "fragments": [
+        {
+          "page": 23,
+          "viewport": [
+            0.48067227,
+            0.60154394,
+            0.39327731,
+            0.33372922
+          ]
+        },
+        {
+          "page": 24,
+          "viewport": [
+            0.11932773,
+            0.03859857,
+            0.39411765,
+            0.14726841
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 44,
+    "subject": 2,
+    "passage": "<p>[44~45] Read the following and answer.</p>\n<p>Blank endorsement is an act that the (A)<u>endorser</u> signs on the back of Bill of Lading (B)<u>with</u> bearing a specific person when a bill of lading is made out (C) <u>to order or shipper’s order</u>. The bill of lading then becomes a bearer instrument and the (D)<u>holder</u> can present it to the shipping company to take delivery of the goods.</p>",
+    "stem": "44 Which is WRONG in the explanation of blank endorsement?",
+    "options": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)"
+    ],
+    "answer": 1,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 24쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        24
+      ],
+      "fragments": [
+        {
+          "page": 24,
+          "viewport": [
+            0.11932773,
+            0.18705463,
+            0.39411765,
+            0.14133017
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 45,
+    "subject": 2,
+    "passage": "<p>[44~45] Read the following and answer.</p>\n<p>Blank endorsement is an act that the (A)<u>endorser</u> signs on the back of Bill of Lading (B)<u>with</u> bearing a specific person when a bill of lading is made out (C) <u>to order or shipper’s order</u>. The bill of lading then becomes a bearer instrument and the (D)<u>holder</u> can present it to the shipping company to take delivery of the goods.</p>",
+    "stem": "45 What is correct about the bearer?",
+    "options": [
+      "Bearer is someone who owns or possesses a B/L.",
+      "Bearer is not able to assign the B/L to others.",
+      "Bearer is normally bank in negotiable B/L operation.",
+      "Bearer can not hold the B/L but endorse it to third party for assignment."
+    ],
+    "answer": 0,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 24쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        24
+      ],
+      "fragments": [
+        {
+          "page": 24,
+          "viewport": [
+            0.11932773,
+            0.32957245,
+            0.39411765,
+            0.49228029
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 46,
+    "subject": 2,
+    "passage": "<p>[46~47] Read the following and answer.</p>\n<p>All risks is an insurance term to denote the conditions covered by the insurance.</p>\n<p>(A) <u>It is to be construed that the insurance covers each and every loss all the times.</u> In cargo insurance, the term embraces all fortuitous losses such as <span class=\"answer-blank\" aria-label=\"빈칸\">&nbsp;</span> occurring during transit and (B) <u>the term incorporates a number of excluded perils.</u></p>\n<p>In other words, all risks insurance is a type of property or casualty insurance policy that (C) <u>covers any peril, as long as the contract does not specifically exclude it from coverage.</u> This means that, (D) <u>as long as a peril is not listed as an exclusion, it is covered.</u></p>",
+    "stem": "46 Which is NOT suitable in the explanation of all risks insurance?",
+    "options": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)"
+    ],
+    "answer": 0,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 24쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        24
+      ],
+      "fragments": [
+        {
+          "page": 24,
+          "viewport": [
+            0.11932773,
+            0.82304038,
+            0.39411765,
+            0.11223278
+          ]
+        },
+        {
+          "page": 24,
+          "viewport": [
+            0.53193277,
+            0.03859857,
+            0.39327731,
+            0.10748219
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 47,
+    "subject": 2,
+    "passage": "<p>[46~47] Read the following and answer.</p>\n<p>All risks is an insurance term to denote the conditions covered by the insurance.</p>\n<p>(A) <u>It is to be construed that the insurance covers each and every loss all the times.</u> In cargo insurance, the term embraces all fortuitous losses such as <span class=\"answer-blank\" aria-label=\"빈칸\">&nbsp;</span> occurring during transit and (B) <u>the term incorporates a number of excluded perils.</u></p>\n<p>In other words, all risks insurance is a type of property or casualty insurance policy that (C) <u>covers any peril, as long as the contract does not specifically exclude it from coverage.</u> This means that, (D) <u>as long as a peril is not listed as an exclusion, it is covered.</u></p>",
+    "stem": "47 Which is NOT appropriate for the blank?",
+    "options": [
+      "inherent vice",
+      "fire",
+      "earthquake",
+      "jettison"
+    ],
+    "answer": 0,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 24쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        24
+      ],
+      "fragments": [
+        {
+          "page": 24,
+          "viewport": [
+            0.53193277,
+            0.14726841,
+            0.39327731,
+            0.45961995
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 48,
+    "subject": 2,
+    "passage": "<p>[48~49] Read the following and answer.</p>\n<p>Compared to other payment type, the role of banks is substantial in documentary Letter of Credit (L/C) transactions.</p>\n<p>The banks provide additional security for both parties in a trade transaction by playing the role of intermediaries. The banks assure the seller that he would be paid if he provides the necessary documents to the issuing bank through the nominated bank.</p>\n\n<p>The banks also assure the buyer that their money would not be released unless the shipping documents such as <span class=\"answer-blank\" aria-label=\"빈칸\">&nbsp;</span> are presented.</p>\n",
+    "stem": "48 What expression is normally stated for nominated bank in L/C?",
+    "options": [
+      "available with",
+      "available for",
+      "available by",
+      "claims at"
+    ],
+    "answer": 0,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 24쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        24
+      ],
+      "fragments": [
+        {
+          "page": 24,
+          "viewport": [
+            0.53193277,
+            0.60807601,
+            0.39327731,
+            0.18824228
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 49,
+    "subject": 2,
+    "passage": "<p>[48~49] Read the following and answer.</p>\n<p>Compared to other payment type, the role of banks is substantial in documentary Letter of Credit (L/C) transactions.</p>\n<p>The banks provide additional security for both parties in a trade transaction by playing the role of intermediaries. The banks assure the seller that he would be paid if he provides the necessary documents to the issuing bank through the nominated bank.</p>\n\n<p>The banks also assure the buyer that their money would not be released unless the shipping documents such as <span class=\"answer-blank\" aria-label=\"빈칸\">&nbsp;</span> are presented.</p>\n",
+    "stem": "49 Which is NOT suitable for the blank?",
+    "options": [
+      "packing list",
+      "bill of exchange",
+      "invoice",
+      "inspection certificate"
+    ],
+    "answer": 1,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 24, 25쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        24,
+        25
+      ],
+      "fragments": [
+        {
+          "page": 24,
+          "viewport": [
+            0.53193277,
+            0.79750594,
+            0.39327731,
+            0.13776722
+          ]
+        },
+        {
+          "page": 25,
+          "viewport": [
+            0.07815126,
+            0.03859857,
+            0.37983193,
+            0.18942993
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 50,
+    "subject": 2,
+    "passage": "<p>It must be remembered that the Letter of Credit is a contract between the issuing bank and the ( A ), regardless of any intermediary facilitating banks. Therefore, regardless of a place of presentation different from that of the issuing bank as stated on the Letter of Credit, the beneficiary is at liberty to make a ( B ) presentation to the issuing bank and the issuing bank is obliged to honour if the presentation is compliant.</p>",
+    "stem": "50 Fill in the blanks with right words.",
+    "options": [
+      "(A)beneficiary - (B)direct",
+      "(A)applicant - (B)direct",
+      "(A)beneficiary - (B)indirect",
+      "(A)applicant - (B)indirect"
+    ],
+    "answer": 0,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 25쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        25
+      ],
+      "fragments": [
+        {
+          "page": 25,
+          "viewport": [
+            0.07815126,
+            0.22921615,
+            0.37983193,
+            0.46199525
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 51,
+    "subject": 3,
+    "passage": "",
+    "stem": "51 UN 국제물품매매에 관한 협약(CISG)의 적용 대상인 것은?",
+    "options": [
+      "sales of goods bought for personal, family and household use",
+      "sales by auction",
+      "sales of ships, vessels, hovercraft or aircraft",
+      "contracts for the supply of goods to be produced"
+    ],
+    "answer": 3,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 25쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        25
+      ],
+      "fragments": [
+        {
+          "page": 25,
+          "viewport": [
+            0.07815126,
+            0.69239905,
+            0.37983193,
+            0.11935867
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 52,
+    "subject": 3,
+    "passage": "",
+    "stem": "52 계약형태의 진출방식인 국제라이센스(international license)에 대한 설명으로 옳지 않은 것은?",
+    "options": [
+      "해외시장에서 특허나 상표를 보호하는 동시에 크로스 라이센스를 통해 상호교환을 기대할 수 있다.",
+      "노하우가 라이센스의 대상이 되기 위해서는 공공연히 알려진 유용한 경영상의 정보이어야 한다.",
+      "현지국에서 외환통제를 실시할 경우, 해외자회사에서 라이센스를 통해서 본국으로 과실송금이 어느 정도 가능하다.",
+      "비독점적 라이센스는 기술제공자가 특정인에게 허락한 것과 동일한 내용의 권리를 제3자에게 허락할 수 있는 조건이다."
+    ],
+    "answer": 1,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 25쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        25
+      ],
+      "fragments": [
+        {
+          "page": 25,
+          "viewport": [
+            0.07815126,
+            0.81294537,
+            0.37983193,
+            0.12232779
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 53,
+    "subject": 3,
+    "passage": "",
+    "stem": "53 인코텀즈(Incoterms) 2020의 CIF조건에 대한 설명으로 옳지 않은 것은?",
+    "options": [
+      "매도인이 부담하는 물품의 멸실 또는 손상의 위험은 물품이 선박에 적재된 때 이전된다.",
+      "물품이 컨테이너터미널에서 운송인에게 교부되는 경우에 사용하기 적절한 규칙은 CIF가 아니라 CIP이다.",
+      "매도인은 물품이 제3국을 통과할 때에는 수입관세를 납부하거나 수입통관절차를 수행할 의무가 있다.",
+      "매도인은 목적항에 물품이 도착할 때까지 운송 및 보험 비용을 부담하여야 한다."
+    ],
+    "answer": 2,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 25쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        25
+      ],
+      "fragments": [
+        {
+          "page": 25,
+          "viewport": [
+            0.47647059,
+            0.0564133,
+            0.39327731,
+            0.10273159
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 54,
+    "subject": 3,
+    "passage": "",
+    "stem": "54 관세법 상 외국물품으로 보기 어려운 것은?",
+    "options": [
+      "수출신고 수리된 물품",
+      "우리나라 선박이 공해에서 채집한 수산물",
+      "외국에서 우리나라에 반입된 물품으로서 수입신고 수리 되기 전의 물품",
+      "보세구역으로부터 우리나라에 반입된 물품으로서 수입 신고 수리되기 전의 물품"
+    ],
+    "answer": 1,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 25쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        25
+      ],
+      "fragments": [
+        {
+          "page": 25,
+          "viewport": [
+            0.47647059,
+            0.16033254,
+            0.39327731,
+            0.10332542
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 55,
+    "subject": 3,
+    "passage": "<p>+Insurance Policy in duplicate issued to Beneficiary's order and blank endorsed for the invoice value plus 10 pct.</p>",
+    "stem": "55 한국의 ㈜Haiyang은 베트남의 Hochimin Co., Ltd.로 Chemical 제품 15톤을 수출하기로 하였다. 거래조건은 CIP, 결제조건은 sight L/C이다. Hochimin Co., Ltd.가 거래은행을 통하여 발행한 신용장 상에 다음과 같은 문구가 있다. 이에 대한 설명으로 옳지 않은 것은?",
+    "options": [
+      "보험증권의 피보험자란에 ㈜Haiyang이 기재된다.",
+      "보험증권 상에 Hochimin Co., Ltd.의 백지배서가 필요 하다.",
+      "보험부보금액은 송장금액의 110%이다.",
+      "보험증권은 총 2부가 발행된다."
+    ],
+    "answer": 1,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 25쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        25
+      ],
+      "fragments": [
+        {
+          "page": 25,
+          "viewport": [
+            0.47647059,
+            0.26484561,
+            0.39327731,
+            0.11876485
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 56,
+    "subject": 3,
+    "passage": "",
+    "stem": "56 신용장 양도 시 확인사항으로 옳지 않은 것은?",
+    "options": [
+      "당해 신용장이 양도가능(Transferable) 신용장인지의 여부",
+      "개설은행이 신용장 상에 지급, 인수 또는 매입을 하도록 수권받은 은행인지의 여부",
+      "분할양도의 경우 원수출신용장 상에 분할선적을 허용 하고 있는지의 여부",
+      "제시된 원수출신용장에 의하여 기 취급한 금융이 없는지의 여부"
+    ],
+    "answer": 1,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 25쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        25
+      ],
+      "fragments": [
+        {
+          "page": 25,
+          "viewport": [
+            0.47647059,
+            0.3847981,
+            0.39327731,
+            0.11995249
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 57,
+    "subject": 3,
+    "passage": "",
+    "stem": "57 신용장의 기능에 대한 설명으로 옳지 않은 것은?",
+    "options": [
+      "개설은행의 지급 확약을 임의로 취소 또는 변경할 수 없으므로 대금회수의 확실성을 높일 수 있다.",
+      "수출업자는 대금지급에 대한 은행의 약속에 따라 안심 하고 상품을 선적할 수 있다.",
+      "수출업자는 신용장을 담보로 하여 대도(T/R)에 의해 수출금융의 혜택을 누릴 수 있다.",
+      "수입업자는 선적서류를 통해 계약 물품이 선적기간 및 신용장 유효기간 내에 선적되었는지를 알 수 있다."
+    ],
+    "answer": 2,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 25쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        25
+      ],
+      "fragments": [
+        {
+          "page": 25,
+          "viewport": [
+            0.47647059,
+            0.50593824,
+            0.39327731,
+            0.13420428
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 58,
+    "subject": 3,
+    "passage": "",
+    "stem": "58 화물의 형태나 성질에 관계없이 컨테이너1개당 얼마라는 식으로 운송거리를 기준으로 일률적으로 책정된 운임은?",
+    "options": [
+      "ad valorem freight",
+      "minimum all kinds rate",
+      "freight all kinds rate",
+      "revenue ton"
+    ],
+    "answer": 2,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 25쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        25
+      ],
+      "fragments": [
+        {
+          "page": 25,
+          "viewport": [
+            0.47647059,
+            0.64133017,
+            0.39327731,
+            0.10273159
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 59,
+    "subject": 3,
+    "passage": "",
+    "stem": "59 성격이 다른 계약서의 조항을 고르면?",
+    "options": [
+      "품질조건",
+      "수량조건",
+      "결제조건",
+      "중재조건"
+    ],
+    "answer": 3,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 25쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        25
+      ],
+      "fragments": [
+        {
+          "page": 25,
+          "viewport": [
+            0.47647059,
+            0.74524941,
+            0.39327731,
+            0.19002375
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 60,
+    "subject": 3,
+    "passage": "",
+    "stem": "60 추심결제방식에 대한 설명으로 옳지 않은 것은?",
+    "options": [
+      "환어음의 지급인이 선적서류를 영수함과 동시에 대금을 결제하는 것은 지급도(D/P)방식이다.",
+      "추심결제는 수출상이 환어음을 발행하여 선적서류를 첨부하여 은행을 통해 송부하는 방식이다.",
+      "은행에 추심업무를 위탁하는 자는 지급인(drawee)이다.",
+      "‘URC’라는 국제규칙이 적용되며 신용장거래와 비교하면 은행수수료 부담이 적다."
+    ],
+    "answer": 2,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 26쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        26
+      ],
+      "fragments": [
+        {
+          "page": 26,
+          "viewport": [
+            0.10168067,
+            0.05463183,
+            0.40168067,
+            0.08669834
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 61,
+    "subject": 3,
+    "passage": "",
+    "stem": "61 전자선하증권이 사용될 경우 사용이 감소될 문서는?",
+    "options": [
+      "Letter of Indemnity",
+      "Manifest",
+      "Letter of Guarantee",
+      "Delivery Order"
+    ],
+    "answer": 2,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 26쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        26
+      ],
+      "fragments": [
+        {
+          "page": 26,
+          "viewport": [
+            0.10168067,
+            0.14251781,
+            0.40168067,
+            0.1347981
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 62,
+    "subject": 3,
+    "passage": "",
+    "stem": "62 선하증권의 기능에 대한 설명으로 옳지 않은 것은?",
+    "options": [
+      "선하증권은 권리증권의 기능이 있기 때문에 정당한 소지인이 화물인도를 청구할 수 있다.",
+      "선하증권은 수취증 기능을 하므로 목적지에서 동일한 물품이 인도되어야 한다.",
+      "선하증권이 일단 양도되면 그 기재내용은 양수인에 대해 확정적 증거력을 가진다.",
+      "선하증권은 운송계약의 추정적 증거가 되며 운송계약서 라고 할 수 있다."
+    ],
+    "answer": 3,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 26쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        26
+      ],
+      "fragments": [
+        {
+          "page": 26,
+          "viewport": [
+            0.10168067,
+            0.27850356,
+            0.40168067,
+            0.08729216
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 63,
+    "subject": 3,
+    "passage": "",
+    "stem": "63 항해용선계약에 대한 설명으로 옳지 않은 것은?",
+    "options": [
+      "GENCON 1994 서식이 이용되고 있다.",
+      "선복에 대하여 일괄하여 운임을 결정하는 용선계약을 lumpsum charter라고 한다.",
+      "약정된 정박기간 내에 하역을 완료하지 못한 경우에 demurrage가 발생한다.",
+      "용선자는 약정된 정박기간을 전부 사용할 수 있도록 하역작업을 수행하는 것이 바람직하다."
+    ],
+    "answer": 3,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 26쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        26
+      ],
+      "fragments": [
+        {
+          "page": 26,
+          "viewport": [
+            0.10168067,
+            0.36698337,
+            0.40168067,
+            0.08729216
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 64,
+    "subject": 3,
+    "passage": "",
+    "stem": "64 보험에 대한 설명으로 옳지 않은 것은?",
+    "options": [
+      "일부 보험의 경우 보험금액의 보험가액에 대한 비율로 비례보상한다.",
+      "초과보험은 초과된 부분에 대해서는 무효이다.",
+      "피보험이익은 보험계약 체결 시에 존재하여야 한다.",
+      "해상적하보험의 보험가액은 보험기간 중 불변인 것이 원칙이다."
+    ],
+    "answer": 2,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 26쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        26
+      ],
+      "fragments": [
+        {
+          "page": 26,
+          "viewport": [
+            0.10168067,
+            0.45546318,
+            0.40168067,
+            0.1347981
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 65,
+    "subject": 3,
+    "passage": "",
+    "stem": "65 청약의 효력이 소멸되는 경우가 아닌 것은?",
+    "options": [
+      "피청약자의 청약거절",
+      "유효기간 경과",
+      "당사자의 사망",
+      "청약조건의 조회"
+    ],
+    "answer": 3,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 26쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        26
+      ],
+      "fragments": [
+        {
+          "page": 26,
+          "viewport": [
+            0.10168067,
+            0.59144893,
+            0.40168067,
+            0.08729216
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 66,
+    "subject": 3,
+    "passage": "",
+    "stem": "66 청약의 유인에 대한 설명으로 옳지 않은 것은?",
+    "options": [
+      "피청약자가 승낙하여도 청약자의 확인이 있어야 계약이 성립한다.",
+      "청약자는 피청약자의 승낙만으로는 구속되지 않으려는 의도를 가진다.",
+      "불특정인, 불특정집단을 대상으로 이루어진다.",
+      "Sub-con Offer와는 전혀 다른 성격을 지닌다."
+    ],
+    "answer": 3,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 26쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        26
+      ],
+      "fragments": [
+        {
+          "page": 26,
+          "viewport": [
+            0.10168067,
+            0.67992874,
+            0.40168067,
+            0.08788599
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 67,
+    "subject": 3,
+    "passage": "",
+    "stem": "67 해상보험에 대한 설명으로 옳지 않은 것은?",
+    "options": [
+      "해상보험은 가입대상에 따라 선박보험과 적하보험 으로 나눌 수 있다.",
+      "해상적하보험은 우리나라 상법 상 손해보험에 해당된다.",
+      "추정전손은 현실전손이 아니지만 현실적, 경제적으로 구조가 어려운 상태이다.",
+      "현실전손인 경우에는 반드시 위부통지를 해야 한다."
+    ],
+    "answer": 3,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 26쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        26
+      ],
+      "fragments": [
+        {
+          "page": 26,
+          "viewport": [
+            0.10168067,
+            0.76900238,
+            0.40168067,
+            0.16627078
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 68,
+    "subject": 3,
+    "passage": "",
+    "stem": "68 매도인이 계약을 위반했을 때 매수인의 권리구제 방법으로 볼 수 없는 것은?",
+    "options": [
+      "매도인이 계약을 이행하지 않는 경우에 매수인은 원칙적 으로 계약대로의 이행을 청구할 수 있다.",
+      "매수인은 매도인의 의무이행을 위하여 합리적인 추가 기간을 지정할 수 있다.",
+      "계약상 매도인이 합의된 기일 내에 물품의 명세를 확정 하지 아니한 때에는 매수인이 물품 명세를 확정할 수 있다.",
+      "물품이 계약에 부적합한 경우에 모든 상황에 비추어 불합리하지 않는 한, 매수인은 매도인에 대하여 하자 보완을 청구할 수 있다."
+    ],
+    "answer": 2,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 26쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        26
+      ],
+      "fragments": [
+        {
+          "page": 26,
+          "viewport": [
+            0.52184874,
+            0.054038,
+            0.39327731,
+            0.07066508
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 69,
+    "subject": 3,
+    "passage": "",
+    "stem": "69 우리나라 중재법 상 임시적 처분의 주요 내용으로 옳지 않은 것은?",
+    "options": [
+      "분쟁의 해결에 관련성과 중요성이 있는 증거의 보전",
+      "본안(本案)에 대한 중재판정이 있을 때까지 현상의 유지 또는 복원",
+      "중재판정의 집행 대상이 되는 부채에 대한 보전 방법의 제공",
+      "중재절차 자체에 대한 현존하거나 급박한 위험이나 영향을 방지하는 조치 또는 그러한 위험이나 영향을 줄 수 있는 조치의 금지"
+    ],
+    "answer": 2,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 26쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        26
+      ],
+      "fragments": [
+        {
+          "page": 26,
+          "viewport": [
+            0.52184874,
+            0.12589074,
+            0.39327731,
+            0.22921615
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 70,
+    "subject": 3,
+    "passage": "",
+    "stem": "70 비용의 분기가 선적지에서 이뤄지는 Incoterms 2020 조건으로 옳은 것은?",
+    "options": [
+      "FOB",
+      "DAP",
+      "DDP",
+      "CIF"
+    ],
+    "answer": 0,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 26쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        26
+      ],
+      "fragments": [
+        {
+          "page": 26,
+          "viewport": [
+            0.52184874,
+            0.35629454,
+            0.39327731,
+            0.10391924
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 71,
+    "subject": 3,
+    "passage": "",
+    "stem": "71 중재계약에 대한 설명으로 옳지 않은 것은?",
+    "options": [
+      "중재조항은 직소금지의 효력이 있다.",
+      "중재계약은 주된 계약에 대하여 독립성을 갖는다.",
+      "중재계약에는 계약자유의 원칙이 적용되지 않는다.",
+      "중재는 단심제이다."
+    ],
+    "answer": 2,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 26쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        26
+      ],
+      "fragments": [
+        {
+          "page": 26,
+          "viewport": [
+            0.52184874,
+            0.46140143,
+            0.39327731,
+            0.16686461
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 72,
+    "subject": 3,
+    "passage": "",
+    "stem": "72 대리점의 권한과 관련 본인으로부터 권한을 부여받지는 못하였으나 법률의 규정에 의하여 본인의 동의 여부를 불문하고 대리점이 권한을 소유하는 것을 무슨 권한이라 고 하는가?",
+    "options": [
+      "actual authority",
+      "apparent authority",
+      "presumed authority",
+      "doctrine of ratification"
+    ],
+    "answer": 1,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 26쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        26
+      ],
+      "fragments": [
+        {
+          "page": 26,
+          "viewport": [
+            0.52184874,
+            0.62945368,
+            0.39327731,
+            0.30581948
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 73,
+    "subject": 3,
+    "passage": "",
+    "stem": "73 신용장 조건 점검 시 성격이 다른 하나는?",
+    "options": [
+      "검사증명서에 공식검사기관이 아닌 자의 서명을 요구 하는 경우",
+      "화주의 책임과 계량이 표시된 운송서류는 수리되지 않는 다는 조건",
+      "개설의뢰인의 수입승인을 신용장 유효조건으로 하는 경우",
+      "매매계약의 내용과 불일치한 조건이 있는지의 여부"
+    ],
+    "answer": 3,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 27쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        27
+      ],
+      "fragments": [
+        {
+          "page": 27,
+          "viewport": [
+            0.0605042,
+            0.05522565,
+            0.38487395,
+            0.21733967
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 74,
+    "subject": 3,
+    "passage": "",
+    "stem": "74 전자무역에 대한 설명으로 옳지 않은 것은?",
+    "options": [
+      "무역의 일부 또는 전부가 전자무역문서로 처리되는 거래를 말한다.",
+      "전자무역은 글로벌B2C이다.",
+      "신용장에서 전자서류가 이용될 때 eUCP가 적용될 수 있다.",
+      "선하증권의 위기를 해결하기 위해 CMI에서 해상운송 장과 전자선하증권에 관한 규칙을 각각 제정하였다."
+    ],
+    "answer": 1,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 27쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        27
+      ],
+      "fragments": [
+        {
+          "page": 27,
+          "viewport": [
+            0.0605042,
+            0.27375297,
+            0.38487395,
+            0.13598575
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  },
+  {
+    "id": 75,
+    "subject": 3,
+    "passage": "<p>All the goods sold shall be shipped within the time stipulated in each contract. The date of bills of lading shall be taken as a conclusive proof of the date of shipment. Unless specially arranged, the port of shipment shall be at Seller's option.</p>",
+    "stem": "75 다음은 일반거래조건협정서의 어느 조건에 해당하는가?",
+    "options": [
+      "품질조건",
+      "선적조건",
+      "정형거래조건",
+      "수량조건"
+    ],
+    "answer": 1,
+    "explanation": "교재 원문 정답 및 해설: 제118회 PDF 27쪽",
+    "explanationSource": {
+      "round": 118,
+      "url": "https://drive.google.com/file/d/1Ve4OTDr8hu5q5XgbnXpTDH81CihEthqB/view?usp=drivesdk",
+      "fileName": "기출 118회.pdf",
+      "pages": [
+        27
+      ],
+      "fragments": [
+        {
+          "page": 27,
+          "viewport": [
+            0.0605042,
+            0.41092637,
+            0.38487395,
+            0.52434679
+          ]
+        }
+      ]
+    },
+    "formatVersion": "20261026-format2"
+  }
+]

@@ -1,0 +1,1052 @@
+window.EXAM_112 = [
+  {
+    "id": 1,
+    "subject": 1,
+    "passage": "",
+    "stem": "01 What is WRONG in Incoterms 2010 explanation?",
+    "options": [
+      "CIF: Seller is not responsible for the condition of the goods while they are in pre-carriage transit.",
+      "CIF: Same as CFR, except for the insurance coverage.",
+      "CPT: Direct extension of the FCA Incoterm. It switches the contract of main-carriage task from the buyer to the seller.",
+      "CPT: Seller is not responsible for the condition of the goods during vessel loading when the loading takes place after the goods have been delivered to the previous carrier."
+    ],
+    "answer": 0,
+    "explanation": "[01 Not/True 문제]\n해석: Incoterms 2010에 대한 설명으로 틀린 것은 무엇인가?\n① CIF: 매도인은 물품이 사전운송이 되는 동안 그 상태에 책임이 없다.\n② CIF: CFR과 동일하나, 보험부보를 제외한다.\n③ CPT: FCA Incoterms의 직접적인 확장이다. 이것은 계약상의 주운송 업무가 매수인에게서 매도인으로 옮겨진다.\n④ CPT: 매도인은 물품들이 이전 운송인에게 인도된 이후에 선적이 이루어질 때 본선 적재 동안의 물품 상태에 책임이 없다.\n해설: 주어진 보기 중 틀린 것을 찾는 유형이다. CIF에서는 매도인이 본선에 물품을 적재한 때에 매수인에게 위험이 이전되므로, 매도인이 본선 적재 이전의 사전운송 중 물품 상태에 대한 책임이 없다는 것은 틀리다. 따라서 답은 ①번이다.\n어휘: be responsible for 책임이 있다 / condition 상태 / in transit 운송 중에 / except for ~을 제외하고 / insurance coverage 보험담보 / extension 확장, 연장 / contract 계약 / vessel 본선, 선박 / loading 적재, 선적 / deliver 인도하다 / carrier 운송인"
+  },
+  {
+    "id": 2,
+    "subject": 1,
+    "passage": "",
+    "stem": "02 Which has a different topic from others?",
+    "options": [
+      "We are pleased to say that we can deliver the goods by November 1, so you will have stock for the Christmas sales period.",
+      "As there are regular sailings from Busan to New York, we are sure that the goods will reach you well within the time you specified.",
+      "We have the materials in stock and will ship them immediately on receipt of your order.",
+      "All list prices are quoted FOB Busan and are subject to a 25% trade discount with payment by letter of credit."
+    ],
+    "answer": 3,
+    "explanation": "[02 목적/주제 찾기 문제]\n해석: 다음 중 나머지와 다른 주제를 가지는 것은 무엇인가?\n① 11월 1일까지 물품을 인도할 수 있다는 말씀을 드리게 되어 기쁘며, 귀하께서는 크리스마스 판매 기간을 위한 재고를 보유하실 수 있습니다.\n② 부산에서 뉴욕까지의 정기 항해가 있기 때문에, 당사는 귀하께서 명시하신 시간 내에 물품이 귀하께 잘 도달할 수 있을 것이라고 확신합니다.\n③ 당사는 그 재료의 재고를 보유하고 있으며, 귀하의 주문을 받는 대로 즉시 그것들을 선적해드리겠습니다.\n④ 모든 표시 가격은 FOB 부산으로 견적이 내어졌고 신용장에 의해 결제되는 경우 25% 거래 할인 대상입니다.\n해설: 주어진 보기 중 다른 주제를 가진 것을 찾는 유형이다. 나머지는 주문에 대한 인도가 가능하다는 내용이므로, 견적과 할인에 대해 이야기하는 내용은 주제가 다르다. 따라서 답은 ④번이다.\n어휘: regular 정규의, 정기적인 / specify 명시하다 / on receipt of ~을 받는 대로 / list price 표시 가격, 정가 / quote 견적을 내다 / be subject to ~의 대상이다 / letter of credit 신용장"
+  },
+  {
+    "id": 3,
+    "subject": 1,
+    "passage": "<strong>[03-04] Read the following and answer.</strong>\nDear Mr Han,\nWe are pleased to tell you that the above order has been shipped on the SS Marconissa and should reach you in the next 30 days. Meanwhile, our bank has forwarded the <u>relevant documents</u> and draft for USD 3,000,000 which includes the agreed trade and quantity discounts, to HSBC Seoul for your acceptance of the draft.\nWe are sure you will be very satisfied with the consignment and look forward to your next order.\nBest wishes,\nWilliam Cox Daffodil Computer",
+    "stem": "03 What payment method can be inferred?",
+    "options": [
+      "COD",
+      "CAD",
+      "D/P",
+      "D/A"
+    ],
+    "answer": 3,
+    "explanation": "[03 추론 문제]\n[03~04 지문 해석]: Mr. Han께, 당사는 상기 주문이 SS Marconissa선에 선적되어 귀사에 30일 이내에 도달할 것이라는 말씀을 드리게 되어 기쁩니다. 그동안에, 당사의 은행은 관련 서류와 합의된 거래 및 수량 할인을 포함하는 미화 3,000,000달러의 환어음을 귀사의 인수를 위해 서울 HSBC로 발송하였습니다. 당사는 귀사가 화물에 매우 만족해하실 것이라 확신하며 귀사의 다음 주문을 기대합니다. 행운을 빕니다. William Cox 드림, Daffodil 컴퓨터\n해석: 결제방식으로 추론할 수 있는 것은 무엇인가?\n① 현품인도지급방식(COD) ② 서류상환지급방식(CAD) ③ 서류지급인도조건(D/P) ④ 서류인수인도조건(D/A)\n해설: 주어진 서신에서 추론할 수 있는 것을 찾는 유형이다. 본문에서 은행을 통해 서류와 환어음을 송부하였고 매수인의 인수(acceptance)를 요구하고 있으므로 서류인수인도조건(D/A) 방식이다. 따라서 답은 ④번이다."
+  },
+  {
+    "id": 4,
+    "subject": 1,
+    "passage": "<strong>[03-04] Read the following and answer.</strong>\nDear Mr Han,\nWe are pleased to tell you that the above order has been shipped on the SS Marconissa and should reach you in the next 30 days. Meanwhile, our bank has forwarded the <u>relevant documents</u> and draft for USD 3,000,000 which includes the agreed trade and quantity discounts, to HSBC Seoul for your acceptance of the draft.\nWe are sure you will be very satisfied with the consignment and look forward to your next order.\nBest wishes,\nWilliam Cox Daffodil Computer",
+    "stem": "04 Which document is most far from the underlined '<u>relevant documents</u>'?",
+    "options": [
+      "bill of exchange",
+      "commercial invoice",
+      "packing list",
+      "bill of lading"
+    ],
+    "answer": 0,
+    "explanation": "[04 Not/True 문제]\n해석: 다음 중 밑줄 친 '관련 서류'와 가장 거리가 먼 서류는 무엇인가?\n① 환어음 ② 상업송장 ③ 포장명세서 ④ 선하증권\n해설: 주어진 서신을 바탕으로 적절하지 않은 것을 찾는 유형이다. 무역거래에서 수출자가 수입자에게 제시해야 하는 서류에는 선하증권, 포장명세서, 상업송장 등이 있다(본문에서도 relevant documents and draft로 구분함). 따라서 답은 ①번이다.\n어휘: forward 발송하다 / relevant 관련된 / draft 환어음 / quantity 수량, 양 / acceptance 인수 / consignment 화물 / bill of exchange 환어음 / commercial invoice 상업송장 / packing list 포장명세서 / bill of lading 선하증권"
+  },
+  {
+    "id": 5,
+    "subject": 1,
+    "passage": "",
+    "stem": "05 Which is most far from usage of export credit insurance?",
+    "options": [
+      "It protects against financial cost of non-payment by buyer.",
+      "It enables exporters to offer buyers competitive payment terms.",
+      "It helps to obtain working capital loans from banks.",
+      "It protects against losses from damage of goods in transit."
+    ],
+    "answer": 3,
+    "explanation": "[05 Not/True 문제]\n해석: 다음 중 수출신용보험의 관행과 가장 거리가 먼 것은 무엇인가?\n① 매수인에 의한 미지급의 재정적 비용을 보호한다.\n② 수출자들이 매수인에게 경쟁력 있는 결제조건을 제공할 수 있게 한다.\n③ 은행으로부터 기업운전자금대출을 얻도록 도와준다.\n④ 운송 중의 물품 손상으로 인한 손실을 보호한다.\n해설: 주어진 보기 중 일치하지 않는 것을 찾는 유형이다. 수출신용보험은 매도인이 대금을 받지 못하여 발생되는 손실을 보상하는 보험이다. 따라서 답은 ④번이다.\n어휘: export credit insurance 수출신용보험 / enable ~할 수 있게 하다 / competitive 경쟁력 있는 / payment terms 결제조건 / obtain 얻다, 획득하다 / working capital loan 기업운전자금대출"
+  },
+  {
+    "id": 6,
+    "subject": 1,
+    "passage": "Transport documents are required both to assure that the goods are being properly transported and for the <span class=\"blank-line\">A</span> to claim possession of the goods at destination.",
+    "stem": "06 Who might be <u>A</u>?",
+    "options": [
+      "buyer",
+      "seller",
+      "carrier",
+      "banks"
+    ],
+    "answer": 0,
+    "explanation": "[06 추론 문제]\n해석: A는 누구인가? 운송서류는 물품이 제대로 운송되고 있다는 것을 보장하는 것과 A를 위해 목적지에서 물품의 점유를 청구하는 것 모두 요구된다.\n① 매수인 ② 매도인 ③ 운송인 ④ 은행\n해설: 주어진 지문에서 추론할 수 있는 것을 찾는 유형이다. 운송서류는 수하인이 목적지에서 운송인에게 화물의 인도를 청구할 수 있도록 한다. 매수인이 수하인이 되는 경우가 일반적이므로 답은 ①번이다.\n어휘: assure 보장하다, 확인하다 / properly 제대로, 적절하게 / claim 주장하다, 요구하다 / possession 점유, 소유(권) / destination 목적지"
+  },
+  {
+    "id": 7,
+    "subject": 1,
+    "passage": "A credit requiring an \"invoice\" without further definition will be satisfied by any type of invoice presented except: <span class=\"blank-line\">(A)</span>",
+    "stem": "07 Which is MOST suitable for (A)?",
+    "options": [
+      "customs invoice",
+      "tax invoice",
+      "consular invoice",
+      "pro-forma invoice"
+    ],
+    "answer": 3,
+    "explanation": "[07 빈칸에 적절한 것 찾기 문제]\n해석: (A)에 들어갈 말로 가장 적절한 것은 무엇인가? 추가 정의 없이 \"송장\"을 요구하는 신용장은 (A)를 제외한 모든 유형의 송장의 제시로 충족될 것이다.\n① 세관송장 ② 세금송장 ③ 영사송장 ④ 견적송장\n해설: 주어진 지문의 빈칸에 적절한 것을 찾는 유형이다. 견적송장은 계약체결 전에 수입가격을 계산하거나 수입허가 또는 외화배정을 받기 위해서 수출자에게 견적을 요청하는 경우 송장의 형식으로 발행한 견적서이기 때문에 정식의 유효한 송장이 아니다. 따라서 답은 ④번이다.\n어휘: definition 정의 / customs invoice 세관송장 / tax invoice 세금송장, 세금계산서 / consular invoice 영사송장 / pro-forma invoice 견적송장"
+  },
+  {
+    "id": 8,
+    "subject": 1,
+    "passage": "On 1 July Seller delivered an offer, which is valid until 30 Sep 2018, to Buyer. On 15 July Buyer sent letter \"I do not accept your offer because the price is too high\" but on 10 August the Buyer sent again \"I hereby accept your prior offer of 1 July\". Seller immediately responded that he could not treat this \"acceptance\" because of Buyer's earlier rejection.",
+    "stem": "08 Which is correct according to CISG?",
+    "options": [
+      "Buyer can not insist his last acceptance.",
+      "Seller shall accommodate the buyer's acceptance.",
+      "As long as the offer is valid, buyer can claim his last acceptance.",
+      "Buyer is able to withdraw his first acceptance."
+    ],
+    "answer": 0,
+    "explanation": "[08 Not/True 문제]\n해석: 국제물품매매계약에 관한 UN협약(CISG)에 따르면 맞는 것은 무엇인가?\n7월 1일에 매도인이 매수인에게 청약하였는데, 이는 2018년 9월 30일까지 유효한 것이다. 7월 15일에 매수인은 \"가격이 너무 높기 때문에 귀사의 제안을 승낙할 수 없습니다\"라는 서신을 보냈지만 8월 10일에 매수인은 다시 \"7월 1일 자의 귀사의 이전 청약을 승낙합니다\"라고 보냈다. 매도인은 매수인의 이전 거절 때문에 이 \"승낙\"을 처리할 수 없다고 즉시 답신했다.\n① 매수인은 자신의 마지막 승낙을 주장할 수 없다.\n② 매도인은 매수인의 승낙을 수용하여야 한다.\n③ 청약이 유효한 한, 매수인은 그의 마지막 승낙을 주장할 수 있다.\n④ 매수인은 그의 첫 번째 승낙을 철회할 수 있다.\n해설: 주어진 지문과 일치하는 것을 찾는 유형이다. 청약은 거절의 통지가 청약자에게 도달한 때에는 그 효력이 상실된다. 따라서 답은 ①번이다.\n어휘: valid 유효한 / accept 승낙하다 / rejection 거절 / insist 주장하다 / accommodate 수용하다 / withdraw 철회하다"
+  },
+  {
+    "id": 9,
+    "subject": 1,
+    "passage": "<u>(a) We</u> have drawn a draft at sight for US$35,000 on <u>(b) the Bank of New York, N.Y.</u> under the L/C No. 089925 and negotiated it through <u>(c) the Korea Exchange Bank, Seoul, Korea</u>.\nPlease note that all documents required in the Letter of Credit were forwarded to our <u>(d) negotiating bank</u> as per copies attached.",
+    "stem": "09 Choose one which describes BEST for (a) ~ (d).",
+    "options": [
+      "(a) is an applicant of the Credit.",
+      "(b) is a drawee of the Bill of Exchange.",
+      "(c) is a drawer of the Bill of Exchange.",
+      "(d) is Bank of New York."
+    ],
+    "answer": 1,
+    "explanation": "[09 추론 문제]\n해석: (a)~(d)를 가장 잘 묘사한 것을 고르시오.\n(a) 당사는 뉴욕주 (b) 뉴욕은행으로 신용장 089925번 하에서 미화 35,000달러의 일람불 환어음을 발행하였고 그것을 한국 서울의 (c) 한국외환은행을 통해 매입 의뢰했습니다. 첨부된 사본과 같이 신용장에 필요한 모든 서류는 당사의 (d) 매입은행으로 송부되었다는 것을 유념해주시기 바랍니다.\n① (a)는 신용장의 개설의뢰인이다. ② (b)는 환어음의 지급인이다. ③ (c)는 환어음의 발행인이다. ④ (d)는 뉴욕은행이다.\n해설: 주어진 지문에서 추론할 수 있는 것을 찾는 유형이다. 뉴욕은행으로 환어음을 발행하였다고 했으므로 환어음의 지급인은 뉴욕은행이다. 따라서 답은 ②번이다.\n어휘: draw 발행하다, 인출하다 / draft at sight 일람불 환어음 / Letter of Credit(L/C) 신용장 / negotiate 매입하다 / negotiating bank 매입은행 / applicant 개설의뢰인 / Bill of Exchange 환어음 / drawee (환어음의) 지급인 / drawer (환어음의) 발행인"
+  },
+  {
+    "id": 10,
+    "subject": 1,
+    "passage": "An exporter is willing to release the shipping documents directly to the buyer, but wishes to retain some guarantee of payment should the buyer fail to pay on the due date.",
+    "stem": "10 In the following situation, which BEST suits the exporter's needs?",
+    "options": [
+      "Red Clause L/C",
+      "Transferable L/C",
+      "Confirmed L/C",
+      "Standby L/C"
+    ],
+    "answer": 3,
+    "explanation": "[10 Not/True 문제]\n해석: 다음 상황에서, 수출자의 요구에 가장 맞는 것은 무엇인가? 수출자는 매수인에게 선적서류를 직접 인도할 의향이 있지만, 매수인이 만기일에 지급하지 않는 경우 보증을 보유하기를 원한다.\n① 선대신용장 ② 양도가능신용장 ③ 확인신용장 ④ 보증신용장\n해설: 주어진 지문에서 맞는 것을 찾는 유형이다. 채무자의 개설 의뢰를 받은 은행이 채권자 앞으로 개설하여 채권자에게 지급을 보증하는 신용장은 보증신용장(Standby L/C)이다. 따라서 답은 ④번이다.\n어휘: shipping document 선적서류 / retain 보유하다 / Red Clause L/C 선대신용장 / Transferable L/C 양도가능신용장 / Confirmed L/C 확인신용장 / Standby L/C 보증신용장"
+  },
+  {
+    "id": 11,
+    "subject": 1,
+    "passage": "A beneficiary receives an irrevocable documentary credit for which USD 20,000 may be drawn during each month of the documentary credit's one year validity. The documentary credit also indicates that reinstatement is on a cumulative basis. Full monthly drawings were made during the first, second, fourth, fifth and seventh months and there have been no other drawings. In the last month of the documentary Credit's validity, the beneficiary expects to make a final shipment.",
+    "stem": "11 What is the maximum value available for this final drawing?",
+    "options": [
+      "USD 80,000",
+      "USD 100,000",
+      "USD 120,000",
+      "USD 140,000"
+    ],
+    "answer": 3,
+    "explanation": "[11 추론 문제]\n해석: 이 최종 청구에 대해 가능한 최고 금액은 얼마인가?\n수익자는 화환신용장의 1년의 유효기간 중 매월 미화 20,000달러를 청구할 수 있는 취소불능 화환신용장을 받았다. 그 화환신용장은 또한 회복이 누적적 기준에 의한 것임을 나타낸다. 총액의 월간 청구는 첫 번째, 두 번째, 네 번째, 다섯 번째, 그리고 일곱 번째 달 동안 이루어졌으며 이외 다른 청구는 없었다. 화환신용장 유효기간의 마지막 달에는, 수익자가 최종 선적을 하는 것으로 기대된다.\n① 미화 80,000달러 ② 미화 100,000달러 ③ 미화 120,000달러 ④ 미화 140,000달러\n해설: 주어진 지문에서 추론할 수 있는 것을 찾는 유형이다. 매월 2만 달러 금액을 청구할 수 있는 회전신용장(Revolving L/C)이 개설되었고, 매월 총 청구가능금액에 미달한 경우 잔액이 다음 달로 이월되는 누적적 방식이다. 총 1년의 유효기간 동안 매달 2만 달러를 청구할 수 있고, 실제 청구는 5개월에 대해 이루어졌으므로 최종 월에 나머지 7개월 × 2만 달러 = 14만 달러에 대한 청구를 할 수 있다. 따라서 답은 ④번이다.\n어휘: beneficiary 수익자 / irrevocable documentary credit 취소불능화환신용장 / validity 효력, 유효성 / reinstatement 복구, 회복 / cumulative 누적적의, 누적의"
+  },
+  {
+    "id": 12,
+    "subject": 1,
+    "passage": "Bailment of goods to another (bailee) for sale under agreement that bailee will pay bailor for any sold goods and will return any unsold goods.",
+    "stem": "12 What kind of contract is the below?",
+    "options": [
+      "contract of sale",
+      "offer on approval",
+      "sole agent agreement",
+      "consignment contract"
+    ],
+    "answer": 3,
+    "explanation": "[12 추론 문제]\n해석: 아래는 어떤 종류의 계약인가? 수탁자는 판매된 물품에 대해 위탁자에게 돈을 지급하고 팔리지 않은 물품을 반환할 것이라는 합의 하에 판매를 위해 물품을 다른 사람(수탁자)에게 위탁하는 것.\n① 매매계약 ② 점검매매조건부청약 ③ 독점대리점계약 ④ 위탁판매계약\n해설: 주어진 지문에서 추론할 수 있는 용어를 찾는 유형이다. 지문은 상품 판매를 위탁하기 위해 상호 간 협의 사항을 작성하여 계약관계를 체결하는 위탁판매계약을 설명하고 있다. 따라서 답은 ④번이다.\n어휘: bailment 위탁 / bailee 수탁자 / bailor 위탁자 / offer on approval 승인조건부청약 / sole agent 독점대리점 / consignment contract 위탁판매계약"
+  },
+  {
+    "id": 13,
+    "subject": 1,
+    "passage": "Thank you for your interest in our solutions at Bespoke Solutions Inc. We are a leading software development firm with an impressive track record creating responsive solutions to support organizational objectives. We offer a broad range of website development solutions. Attached is our comprehensive price list, please find.",
+    "stem": "13 Below is a reply to a letter. Which of the following is the MOST appropriate title for the previous letter?",
+    "options": [
+      "Request for Acceptance",
+      "Request for Quotation(RFQ)",
+      "Purchase Order(P/O)",
+      "Shipment Notice"
+    ],
+    "answer": 1,
+    "explanation": "[13 추론 문제]\n해석: 아래는 서신에 대한 답신이다. 다음 중 이전 서신에 가장 적절한 제목은 무엇인가?\nBespoke Solutions사에 대한 당사의 솔루션에 관심을 보여주셔서 감사합니다. 당사는 조직의 목표를 지원하기 위해 대응력 있는 솔루션을 개발하여 인상적인 실적을 보유한 선도적인 소프트웨어 개발 회사입니다. 당사는 광범위한 웹사이트 개발 솔루션을 제공합니다. 첨부된 것은 당사의 종합 가격표이니, 확인해주십시오.\n① 승낙요청 ② 견적요청 ③ 구매주문 ④ 선적통지\n해설: 주어진 서신의 이전 서신에서 찾을 수 있는 것을 추론하는 유형이다. 종합 가격표를 전달하고 있으므로, 이전 서신은 견적요청에 관한 것임을 추론할 수 있다. 따라서 답은 ②번이다.\n어휘: leading 선도적인 / track record 실적 / responsive 대응력 있는 / broad 광범위한 / comprehensive 종합의, 전체의"
+  },
+  {
+    "id": 14,
+    "subject": 1,
+    "passage": "<strong>[14-15] Read the following and answer the questions.</strong>\nDear Chapman,\nWe were pleased to receive your order of 15th April for a further supply of transistor sets, but as the balance of your account now stands at over USD400,000, we hope you will be able to reduce it before we grant credit for further supplies. We should therefore be grateful if you could send us your check for, say, half the amount you owe us. We could then arrange to supply the goods you now ask for and <u>charge</u> them to your account.\nYours faithfully, Brown Kim",
+    "stem": "14 Which is MOST similar to the underlined '<u>charge</u>'?",
+    "options": [
+      "remove",
+      "allow",
+      "credit",
+      "debit"
+    ],
+    "answer": 3,
+    "explanation": "[14 다른 문장/같은 문장 찾기 문제]\n[14~15 지문 해석]: Chapman씨께, 당사는 트랜지스터 세트의 추가 공급을 위한 귀사의 4월 15일 자 주문을 받게 되어 기쁘지만, 현재 귀사의 잔액이 미화 400,000달러 이상인 것으로 나타나서, 당사가 추가 공급품에 대한 신용 승인을 하기 전에 귀사가 그것을 줄이실 수 있기를 바랍니다. 귀사가 당사에 빚진 금액의 절반에 해당하는 수표를 보내주실 수 있다면 감사하겠습니다. 당사는 그런 다음에 귀사가 현재 요청하신 물품들을 공급하기 위해 준비할 수 있고 귀사의 계정에 그것들을 청구하겠습니다. Brown Kim 드림\n해석: 다음 중 밑줄 친 '청구하다'와 가장 비슷한 것은 무엇인가?\n① 삭제하다 ② 허락하다 ③ 입금하다, 대변에 기재하다 ④ 인출하다, 차변에 기재하다\n해설: 주어진 단어와 같은 단어를 찾는 유형이다. 외상으로 장부에 기재하다와 인출하다는 대금을 요청하다는 의미이다. 따라서 답은 ④번이다."
+  },
+  {
+    "id": 15,
+    "subject": 1,
+    "passage": "<strong>[14-15] Read the following and answer the questions.</strong>\nDear Chapman,\nWe were pleased to receive your order of 15th April for a further supply of transistor sets, but as the balance of your account now stands at over USD400,000, we hope you will be able to reduce it before we grant credit for further supplies. We should therefore be grateful if you could send us your check for, say, half the amount you owe us. We could then arrange to supply the goods you now ask for and <u>charge</u> them to your account.\nYours faithfully, Brown Kim",
+    "stem": "15 Which is LEAST correct about the letter?",
+    "options": [
+      "Chapman placed an order with Brown.",
+      "The writer is reluctant to extend credit.",
+      "The action of this letter resulted from the previous account which remains unpaid.",
+      "Brown Kim wants the overdue to be reduced at least by USD 200,000 this time."
+    ],
+    "answer": 3,
+    "explanation": "[15 Not/True 문제]\n해석: 다음 중 서신에 대해 가장 적절하지 않은 것은 무엇인가?\n① Chapman은 Brown에게 주문했다.\n② 필자는 신용(외상)제공을 연장하는 것을 꺼린다.\n③ 이 서신의 행위는 미납된 이전 계정으로부터 초래되었다.\n④ Brown Kim은 이번에 미납금액이 최소한 미화 200,000달러까지 줄여지기를 원한다.\n해설: 주어진 서신과 일치하지 않는 것을 찾는 유형이다. 미화 400,000달러 이상(over USD400,000)인 잔액을 줄이기를 바란다고 하였고 빚진 금액의 절반에 해당하는 수표를 보내라고 하였지만 정확한 빚진 금액 총액은 알 수 없다. 따라서 답은 ④번이다.\n어휘: balance 잔액 / account (거래)계정 / stand at 나타나다, 보여 주다 / grant 주다, 허용하다 / check 수표, 청구서 / charge 청구하다 / remove 삭제하다, 제거하다 / be reluctant to ~하는 것을 꺼리다"
+  },
+  {
+    "id": 16,
+    "subject": 1,
+    "passage": "<u>(a) I am afraid I have noticed</u> there is a word missing <u>(b) in the final version</u> of our contract. <u>(c) I would like you to take a look at it</u> and determine <u>(d) whether it is enough big</u> to cause a dispute. Once again, I give you my sincerest apologies for the inconvenience.",
+    "stem": "16 Which of the following is grammatically INCORRECT?",
+    "options": [
+      "(a)",
+      "(b)",
+      "(c)",
+      "(d)"
+    ],
+    "answer": 3,
+    "explanation": "[16 Not/True 문제]\n해석: 다음 중 문법적으로 옳지 않은 것은 무엇인가?\n저는 (b) 저희 계약서의 최종 버전에서 누락된 단어가 있다는 것을 (a) 알아차리게 되어 유감입니다. (c) 저는 귀하께서 그것을 한번 살펴보시기를 바라고 (d) 그것이 논쟁을 일으키기에 충분히 중대한지 결정해주시기 바랍니다. 다시 한번, 불편함을 드려 진심으로 사과드립니다.\n해설: 주어진 서신에서 틀린 것을 찾는 유형이다. 충분히 중대한지라는 의미가 되어야 하므로 big enough가 되어야 한다. 따라서 답은 ④번이다.\n어휘: determine 결정하다 / dispute 논쟁, 분쟁"
+  },
+  {
+    "id": 17,
+    "subject": 1,
+    "passage": "<strong>[17~18] Read the following and answer the questions.</strong>\nDear Mr. Edwards,\nThank you for letting us know about the roses that arrived at your company in less perfect condition. I enclose a check refunding your full purchase price.\nAn unexpected delay in the repair of our loaded delivery van, coupled with an unusual rise in temperatures last Thursday, caused the deterioration of your roses. Please accept our apology and our assurance that steps will be taken to prevent this from happening again.\nDuring the past fifteen years, it has been our pleasure to number you among our valued customers, whose satisfaction is the goal we are constantly striving to achieve. I sincerely hope you will continue to count on us for your needs.\nYours very truly, Thomas Sagarino",
+    "stem": "17 Which is LEAST correct about the letter?",
+    "options": [
+      "Mr. Edwards is a longtime customer.",
+      "Thomas believes that Edwards has a legitimate complaint.",
+      "Mr. Edwards asked for an exchange because some of the roses were missing.",
+      "Thomas Sagarino is a supplier."
+    ],
+    "answer": 2,
+    "explanation": "[17 Not/True 문제]\n[17~18 지문 해석]: Mr. Edwards씨께, 귀하의 회사에 완벽하지 않은 상태로 도착한 장미꽃에 대해 제게 알려주셔서 감사합니다. 귀하의 구입가 전액에 대한 환불 수표를 동봉 드립니다. 물품을 실은 당사의 배송 밴이 지난 목요일 이례적인 기온 상승과 결부되어 수리에서 예상치 못한 지연이 있어서, 귀하의 장미꽃의 품질 저하를 유발했습니다. 당사의 사과와 이런 일이 다시 생기는 것을 예방하기 위한 조치들이 취해질 것이라는 확약을 받아들여 주시기 바랍니다. 지난 15년간, 귀중한 고객 중에 귀하를 포함할 수 있어 기뻤고, 그분들의 만족은 당사가 달성하기 위해 끊임없이 노력하는 목표입니다. 저는 귀하의 요구사항을 위해 계속해서 당사를 믿어주시기를 진심으로 바랍니다. Thomas Sagarino 드림\n해석: 서신에 대해 가장 맞지 않은 것은 무엇인가?\n① Mr. Edwards는 오랜 고객이다. ② Thomas는 Edwards가 정당한 불평을 했다고 생각한다. ③ Mr. Edwards는 장미꽃 일부가 누락되었기 때문에 교환을 요청했다. ④ Thomas Sagarino는 공급자이다.\n해설: 주어진 서신에 대해 틀린 것을 찾는 유형이다. 장미꽃이 완벽하지 않은 상태로 도착했다고 했으므로, 장미꽃 일부가 누락되었다는 내용은 맞지 않는다. 따라서 답은 ③번이다."
+  },
+  {
+    "id": 18,
+    "subject": 1,
+    "passage": "<strong>[17~18] Read the following and answer the questions.</strong>\nDear Mr. Edwards,\nThank you for letting us know about the roses that arrived at your company in less perfect condition. I enclose a check refunding your full purchase price.\nAn unexpected delay in the repair of our loaded delivery van, coupled with an unusual rise in temperatures last Thursday, caused the deterioration of your roses. Please accept our apology and our assurance that steps will be taken to prevent this from happening again.\nDuring the past fifteen years, it has been our pleasure to number you among our valued customers, whose satisfaction is the goal we are constantly striving to achieve. I sincerely hope you will continue to count on us for your needs.\nYours very truly, Thomas Sagarino",
+    "stem": "18 What is the main purpose of the letter?",
+    "options": [
+      "Goodwill with the customers",
+      "Confirming the order",
+      "Apology for damaged goods",
+      "Appreciation for the business"
+    ],
+    "answer": 2,
+    "explanation": "[18 목적/주제 찾기 문제]\n해석: 서신의 주요 목적은 무엇인가?\n① 고객에 대한 선의 ② 주문 확인 ③ 손상된 물품에 대한 사과 ④ 거래에 대한 감사\n해설: 주어진 서신의 목적을 찾는 유형이다. 장미꽃의 품질 저하를 유발한 점에 대해 사과하고 있으므로, 손상된 물품에 대해 사과하기 위한 서신이다. 따라서 답은 ③번이다.\n어휘: enclose 동봉하다 / deterioration 품질 저하, (가치) 하락 / assurance 확약, 보증 / valued 귀중한, 소중한 / constantly 끊임없이, 계속해서 / strive 노력하다, 애쓰다 / count on ~을 믿다, ~을 확신하다 / legitimate 정당한, 합법적인 / goodwill 선의, 호의 / confirm 확인하다 / appreciation 감사"
+  },
+  {
+    "id": 19,
+    "subject": 1,
+    "passage": "",
+    "stem": "19 Which is most WRONG about the difference between EXW and FCA under Incoterms 2010?",
+    "options": [
+      "In terms of EXW, the obligation of delivery of goods by the seller is only limited to arrange goods at his premises.",
+      "In terms of FCA, the export cleared goods are delivered by the seller to the carrier at the named and defined location mentioned in the contract.",
+      "In terms of FCA, the delivery of goods also can be at the seller's premises, if mutually agreed between buyer and seller.",
+      "If the buyer can not carry out the export formalities, either directly or indirectly, EXW terms are opted in such business transactions."
+    ],
+    "answer": 3,
+    "explanation": "[19 Not/True 문제]\n해석: 다음 중 Incoterms 2010 하에서 EXW와 FCA의 차이점에 대해 가장 틀린 것은 무엇인가?\n① EXW에 있어, 매도인에 의한 물품 인도의 의무가 매도인의 영업구내에서 물품을 준비하는 것으로만 제한된다.\n② FCA에 있어, 수출통관을 마친 물품이 매도인에 의해 계약서에 언급된 지정되고 정의된 장소에서 운송인에게 인도된다.\n③ FCA에 있어, 매수인과 매도인 사이에 상호간 동의가 있었다면, 물품의 인도는 또한 매도인의 영업구내에서 행해질 수 있다.\n④ 매수인이 직접적으로든 간접적으로든, 수출 통관절차를 이행할 수 없다면, EXW 조건은 그러한 사업상 계약에서 채택된다.\n해설: 주어진 보기 중 틀린 것을 찾는 유형이다. EXW 조건에서는 매수인이 수출통관을 모두 이행하고 모든 비용과 위험을 부담하므로, 매수인이 수출통관을 이행할 수 없다면 EXW 조건이 채택된다는 내용은 틀리다. 따라서 답은 ④번이다.\n어휘: obligation 의무, 책무 / premise 부지, 구내 / cleared 통관된 / mutually 상호적으로 / export formalities 수출 통관절차 / opt 채택하다"
+  },
+  {
+    "id": 20,
+    "subject": 1,
+    "passage": "<strong>[20~21] Read the following and answer the questions.</strong>\nWe have received your letter of 23rd May enclosing your Debit Note No. 123. We are sorry not to have paid your account earlier by <span class=\"blank-line\">(a)</span>. In payment of these accounts, we enclose a check for USD 5,000,000 <u>(b) covering your invoice up to the end of May 2018</u>.\nWe shall be obliged if you will send us a receipt by return of post.",
+    "stem": "20 Which of the following is MOST appropriate for (a)?",
+    "options": [
+      "an oversight",
+      "a request",
+      "a credit",
+      "an order"
+    ],
+    "answer": 0,
+    "explanation": "[20 빈칸에 적절한 것 찾기 문제]\n[20~21 지문 해석]: 당사는 귀사의 차변표 123번을 동봉한 5월 23일 자 서신을 받았습니다. 당사는 (a)에 의해 귀사의 지난 계정이 지급되지 않았음에 유감입니다. 이런 계정들에 대한 결제로서, 당사는 (b) 2018년 5월 말까지 귀사의 송장에 대한 미화 5,000,000달러의 수표를 동봉합니다. 당사는 귀사가 우편 회신으로 저희에게 영수증을 보내주신다면 감사히 여기겠습니다.\n해석: 다음 중 (a)에 가장 적절한 것은 무엇인가? ① 실수 ② 요청 ③ 신용 ④ 주문\n해설: 주어진 서신의 빈칸에 적절한 것을 찾는 유형이다. 실수에 의해 지난 계정이 지급되지 않아서 유감이라는 내용이 와야 적절하다. 따라서 답은 ①번이다."
+  },
+  {
+    "id": 21,
+    "subject": 1,
+    "passage": "<strong>[20~21] Read the following and answer the questions.</strong>\nWe have received your letter of 23rd May enclosing your Debit Note No. 123. We are sorry not to have paid your account earlier by <span class=\"blank-line\">(a)</span>. In payment of these accounts, we enclose a check for USD 5,000,000 <u>(b) covering your invoice up to the end of May 2018</u>.\nWe shall be obliged if you will send us a receipt by return of post.",
+    "stem": "21 What is the MOST accurate Korean translation on <u>(b)</u>?",
+    "options": [
+      "2018년 5월말까지 보내올 송장을 해결하기 위하여",
+      "2018년 5월말까지 귀사의 송장 대금을 결제하는",
+      "2018년 5월말에 보낼 귀사의 송장에 포함시키기 위하여",
+      "2018년 5월말에 보내 주신 송장을 처리하기 위하여"
+    ],
+    "answer": 1,
+    "explanation": "[21 다른 문장/같은 문장 찾기 문제]\n해석: (b)에 대한 한글 번역이 가장 적절한 것은 무엇인가?\n해설: 주어진 문장과 같은 내용을 찾는 유형이다. 'cover your invoice'는 당신의 송장 대금을 결제한다는 뜻이다. 따라서 답은 ②번이다.\n어휘: Debit Note 차변표 / cover 다루다, (대금 등을) 감당하다, (보험에) 부보하다 / oblige 감사히 여기게 하다 / oversight 실수"
+  },
+  {
+    "id": 22,
+    "subject": 1,
+    "passage": "Dear Alice,\nThank you for your call this afternoon and your interest in my business development services. It was great talking to you and discussing your business concept and expansion plans for Alize Catering.\nAs discussed during our telephone conversation:\nYou would like me to develop a detailed business plan for Alize Catering.\nThe business plan will set out guidelines for Alize Catering operations in terms of the: Organizational plan, Production plan, Marketing Plan, and Financial plan.\nThe total cost for the development of the business plan is USD 3,000 payable in 3 installments, with the first installment due immediately as confirmation of this engagement, the 2nd due on receipt of the draft document, and the 3rd due on delivery of the final document.",
+    "stem": "22 Which of the following is the MOST appropriate purpose of the letter below?",
+    "options": [
+      "To confirm a verbal agreement",
+      "To inform about a new product",
+      "To request free product samples",
+      "To cancel the order"
+    ],
+    "answer": 0,
+    "explanation": "[22 목적/주제 찾기 문제]\n해석: 다음 중 아래 서신의 가장 적절한 목적은 무엇인가?\n① 구두 계약을 확인하기 위해 ② 새로운 상품에 대해 알리기 위해 ③ 상품의 무료 견본을 요청하기 위해 ④ 주문을 취소하기 위해\n해설: 주어진 서신의 목적을 찾는 유형이다. 유선 대화 중에 논의된 세부적인 사업 계획의 비용과 지급 기한을 언급하고 있으므로, 구두 계약을 확인하고 있다. 따라서 답은 ①번이다.\n어휘: expansion 확장 / set out 세우다, 준비하다 / guideline 지침 / installment 할부 / engagement 계약, 약속 / on receipt of ~을 받는 즉시 / verbal 구두의"
+  },
+  {
+    "id": 23,
+    "subject": 1,
+    "passage": "A <u>(a) forwarder</u> booked 2×20' containers with <u>(b) a shipping line</u> to Doha on behalf of <u>(c) his client</u>.\nDue to a mistake of the shipping line staff, the shipping line shipped 1×20' to Doha and put the other 1×20' with some other clients' container and shipped it to Bremerhaven. By the time the forwarder found this mistake out, the container was already on its way to <u>(d) Bremerhaven</u>. The shipping line has advised that this container will be rerouted but the container will take about 60 days to reach Doha instead of the original transit time of 20 days if it had gone directly.",
+    "stem": "23 Which is a LEAST appropriate match?",
+    "options": [
+      "(a) is a NVOCC",
+      "(b) is a VOCC",
+      "(c) is an exporter",
+      "(d) is an original destination"
+    ],
+    "answer": 3,
+    "explanation": "[23 Not/True 문제]\n해석: 가장 적절하지 않은 연결은 무엇인가?\n① (a)는 무선박운송인(NVOCC)이다. ② (b)는 실제 운송인(VOCC)이다. ③ (c)는 수출자이다. ④ (d)는 원래 도착지이다.\n해설: 주어진 문장 중 틀린 것을 찾는 유형이다. 운송업자가 컨테이너를 도하행 해운 회사에 예약했지만, 해운 회사 직원의 실수로 브레머하펜행에 선적되었다고 했으므로, 브레머하펜이 원래 도착지라는 내용은 맞지 않는다. 따라서 답은 ④번이다.\n어휘: forwarder 운송업자 / shipping line 해운 회사 / reroute 항로를 변경하다, 다른 길로 수송하다 / transit 운송 / NVOCC 무선박운송인 / VOCC 실제 운송인"
+  },
+  {
+    "id": 24,
+    "subject": 1,
+    "passage": "",
+    "stem": "24 Which of the following has a different intention from others?",
+    "options": [
+      "They deserve your confidence and credit in the sum you mentioned.",
+      "The company enjoys an excellent reputation among the business circles here.",
+      "You may run the least risk in granting the said credit in this deal.",
+      "After three months' experience of delay, we were obliged to withdraw credit privileges from them."
+    ],
+    "answer": 3,
+    "explanation": "[24 다른 의도 찾기 문제]\n해석: 다음 중 다른 것들과 의도가 다른 것은 무엇인가?\n① 그들은 귀하의 신뢰와 귀하께서 언급하신 총액의 신용을 가질 자격이 있습니다.\n② 그 회사는 이곳 사업 분야에서 훌륭한 명성이 자자합니다.\n③ 귀하께서는 이 계약에서 전술한 신용을 승인하는 데 위험이 거의 없을 것입니다.\n④ 석 달의 지연 경험 이후에, 당사는 그들로부터 신용 특권을 어쩔 수 없이 철회했습니다.\n해설: 주어진 보기 중 다른 의도를 가진 것을 찾는 유형이다. 회사의 신용이 높다는 내용이므로, 신용 특권을 철회했다는 내용은 의도가 다르다. 따라서 답은 ④번이다.\n어휘: deserve 가질 자격이 있다, 받을 만하다 / reputation 명성 / grant 승인하다 / be obliged to 어쩔 수 없이 ~하다, 부득이 ~하다 / withdraw 철회하다 / credit privilege 신용 특권"
+  },
+  {
+    "id": 25,
+    "subject": 1,
+    "passage": "",
+    "stem": "25 What is LEAST likely to be the one which the seller writes?",
+    "options": [
+      "A batten-reinforced case would meet your needs and be much lower in price than a solid wooden case.",
+      "The 1lb. size cans of chemicals will be shipped in strong cartons, each containing 24 cans.",
+      "When all items of the order are collected at our factory, we will pack them into suitable sizes for delivery.",
+      "Overall measurements of each case must not exceed 80cm(L)×50cm(W)×40cm(D)."
+    ],
+    "answer": 3,
+    "explanation": "[25 추론 문제]\n해석: 다음 중 매도인이 가장 작성한 것 같지 않은 것은 무엇인가?\n① 강화 널빤지 케이스는 귀하의 요구를 충족할 것이고 순수한 나무 케이스보다 가격이 훨씬 더 낮을 것입니다.\n② 1파운드짜리 캔의 화학제품은 각각 24개의 캔이 들어가는 튼튼한 상자에 담겨 선적될 것입니다.\n③ 주문의 모든 물품이 당사의 공장에서 모아질 때, 당사는 인도를 위해 그것들을 적당한 크기로 담을 것입니다.\n④ 각 케이스의 총 용적은 80cm(길이)×50cm(너비)×40cm(깊이)를 초과해서는 안 됩니다.\n해설: 주어진 보기에서 추론할 수 없는 것을 찾는 유형이다. 제한의 내용이므로 매도인이 아닌 운송인이 작성한 운송조건 등의 일부인 것을 추론할 수 있다. 따라서 답은 ④번이다.\n어휘: batten-reinforced 강화 널빤지 / chemical 화학물질 / carton 상자 / measurement 용적"
+  },
+  {
+    "id": 26,
+    "subject": 2,
+    "passage": "<strong>[26-28] Read the following and answer.</strong>\nA sight draft is used when the exporter wishes to retain title to the shipment until it reaches its destination and payment is made.\nIn actual practice, the ocean bill of lading is endorsed by the exporter and sent via the exporter's bank to the buyer's bank. It is accompanied by the sight draft, invoices, and other supporting documents that are specified by either the buyer or the buyer's country. The foreign bank notifies the buyer when it has received these documents. As soon as the draft is paid, the <u>(A) foreign bank</u> turns over the bill of lading thereby enabling the buyer to obtain the shipment.\nThere is still some risk when a sight draft is used to control transferring the title of a shipment. The buyer's ability or willingness to pay might change from the time the goods are shipped until the time the drafts are presented for payment; <span class=\"blank-line\" style=\"min-width:160px;\">(B)</span>.",
+    "stem": "26 What is suitable payment method for the above transaction?",
+    "options": [
+      "D/P",
+      "D/A",
+      "Sight L/C",
+      "Usance L/C"
+    ],
+    "answer": 0,
+    "explanation": "[26 Not/True 문제]\n[26~28 지문 해석]: 일람불 환어음은 화물이 목적지에 도달하여 결제가 이루어질 때까지 수출자가 화물에 대한 권리를 보유하기를 원할 때 사용된다. 실제 관행에서, 해양선하증권은 수출자에 의해 배서되어 수출자의 은행을 거쳐 매수인의 은행으로 발송된다. 이는 매수인 또는 그 매수인의 국가에 의해 명시된 일람불 환어음, 상업송장, 그리고 다른 증빙서류를 수반한다. 그 외국은행은 이러한 서류를 받았을 때 매수인에게 통지한다. 환어음이 지급되자마자, 그 (A) 외국은행은 선하증권을 넘김으로써 매수인이 화물을 획득할 수 있게 한다. 일람불 환어음이 화물의 소유권을 양도하는 것을 제어하는 데 사용될 때에 여전히 어떤 위험이 있다. 매수인의 능력과 결제 의향이 제품이 선적되는 시점으로부터 환어음이 결제를 위해 제시되는 시점까지 변할지도 모르는데, (B).\n해석: 상기 거래를 위한 적절한 결제방식은 무엇인가?\n① 서류지급인도조건(D/P) ② 서류인수인도조건(D/A) ③ 일람지급신용장(Sight L/C) ④ 기한부신용장(Usance L/C)\n해설: 주어진 지문에서 추론할 수 있는 결제방식을 찾는 유형이다. 수출자가 물품을 선적한 후 일람불 환어음을 발행하여 추심의뢰은행(수출자 거래은행)에 추심을 의뢰하고, 추심의뢰은행은 환어음을 추심은행(수입자 거래은행)에게 송부하여 추심을 의뢰하는 결제방식은 서류지급인도조건(D/P)이다. 따라서 답은 ①번이다."
+  },
+  {
+    "id": 27,
+    "subject": 2,
+    "passage": "<strong>[26-28] Read the following and answer.</strong>\nA sight draft is used when the exporter wishes to retain title to the shipment until it reaches its destination and payment is made.\nIn actual practice, the ocean bill of lading is endorsed by the exporter and sent via the exporter's bank to the buyer's bank. It is accompanied by the sight draft, invoices, and other supporting documents that are specified by either the buyer or the buyer's country. The foreign bank notifies the buyer when it has received these documents. As soon as the draft is paid, the <u>(A) foreign bank</u> turns over the bill of lading thereby enabling the buyer to obtain the shipment.\nThere is still some risk when a sight draft is used to control transferring the title of a shipment. The buyer's ability or willingness to pay might change from the time the goods are shipped until the time the drafts are presented for payment; <span class=\"blank-line\" style=\"min-width:160px;\">(B)</span>.",
+    "stem": "27 Who is <u>(A)</u>?",
+    "options": [
+      "collecting bank",
+      "remitting bank",
+      "issuing bank",
+      "nego bank"
+    ],
+    "answer": 0,
+    "explanation": "[27 추론 문제]\n해석: (A)는 누구인가? ① 추심은행 ② 추심의뢰은행 ③ 개설은행 ④ 매입은행\n해설: 주어진 지문에서 추론할 수 있는 것을 찾는 유형이다. 수출지의 추심의뢰은행(Remitting Bank)으로부터 서류를 받은 수입지의 은행을 추심은행(Collecting Bank)이라고 하므로, 외국은행은 추심은행임을 추론할 수 있다. 따라서 답은 ①번이다."
+  },
+  {
+    "id": 28,
+    "subject": 2,
+    "passage": "<strong>[26-28] Read the following and answer.</strong>\nA sight draft is used when the exporter wishes to retain title to the shipment until it reaches its destination and payment is made.\nIn actual practice, the ocean bill of lading is endorsed by the exporter and sent via the exporter's bank to the buyer's bank. It is accompanied by the sight draft, invoices, and other supporting documents that are specified by either the buyer or the buyer's country. The foreign bank notifies the buyer when it has received these documents. As soon as the draft is paid, the <u>(A) foreign bank</u> turns over the bill of lading thereby enabling the buyer to obtain the shipment.\nThere is still some risk when a sight draft is used to control transferring the title of a shipment. The buyer's ability or willingness to pay might change from the time the goods are shipped until the time the drafts are presented for payment; <span class=\"blank-line\" style=\"min-width:160px;\">(B)</span>.",
+    "stem": "28 What is a most proper sentence for blank <u>(B)</u>?",
+    "options": [
+      "there is no bank promise to pay on behalf of the buyer.",
+      "the presenting bank is liable for the buyer's payment.",
+      "the seller shall ask the presenting bank to ship back the goods.",
+      "the carrier asks the buyer to provide indemnity for release of the goods."
+    ],
+    "answer": 0,
+    "explanation": "[28 빈칸에 적절한 것 찾기 문제]\n해석: 빈칸(B)에 가장 적절한 문장은 무엇인가?\n① 매수인을 대신해서 결제하겠다는 은행약속이 없다. ② 제시은행은 매수인의 결제에 대해 책임이 있다. ③ 매도인은 제시은행에 물품을 반송하기를 요청해야 할 것이다. ④ 운송인은 매수인에게 상품의 인도를 위한 보상을 제공하도록 요청한다.\n해설: 주어진 지문의 빈칸에 적절한 것을 찾는 유형이다. 서류지급인도조건(D/P)방식 추심의 한 종류이므로 매수인을 대신해서 결제를 약속하는 은행은 없다는 내용이 적절하다. 따라서 답은 ①번이다.\n어휘: sight draft 일람불 환어음 / retain 보유하다 / title 소유권, 권리 / practice 관행 / ocean bill of lading 해양선하증권 / endorse 배서하다 / invoice 상업송장 / turn over 넘기다, 주다 / transfer 양도하다"
+  },
+  {
+    "id": 29,
+    "subject": 2,
+    "passage": "Dear team,\nOur company is facing <u>regular</u> shipments to East Asian countries so that we will need to review cost scheme in relation to transportation and insurance.\nPlease note that meeting will be held on next week Monday 9:00 A.M. in my office.\nTony Han\nGeneral Manager",
+    "stem": "29 Which is NOT proper replacement for the underlined?",
+    "options": [
+      "customary",
+      "usual",
+      "normal",
+      "punctual"
+    ],
+    "answer": 3,
+    "explanation": "[29 다른 문장/같은 문장 찾기 문제]\n해석: 밑줄 친 부분을 대체하기에 적절하지 않은 것은 무엇인가?\n① 관습적인 ② 통상적인 ③ 일반적인 ④ 시간을 지키는\n해설: 주어진 단어와 다른 단어를 찾는 유형이다. 정기 선적을 앞두고 있어서, 운송과 보험 비용을 검토해야 한다고 했으므로, 시간을 지킨다는 것은 맞지 않는다. 따라서 답은 ④번이다.\n어휘: cost scheme 비용 계획 / in relation to ~에 관하여"
+  },
+  {
+    "id": 30,
+    "subject": 2,
+    "passage": "<u>㉠ The Incoterms 2010 rules are standard shipment term designed to assist traders when goods are sold and transported.</u>\n<u>㉡ Each Incoterms rule specifies the obligations of each party(e.g. who is responsible for services such as transport; import and export clearance etc), and the point in the journey where risk transfers from the seller to the buyer.</u>\n<u>㉢ By agreeing on an Incoterms rule and incorporating it into the sales contract, the buyer and seller can achieve a precise understanding of what each party is obliged to do,</u> and <u>㉣ where responsibility lies in event of loss, damage or other mishap.</u>",
+    "stem": "30 Which of the following statements on INCOTERMS 2010 is NOT correct?",
+    "options": [
+      "㉠",
+      "㉡",
+      "㉢",
+      "㉣"
+    ],
+    "answer": 0,
+    "explanation": "[30 Not/True 문제]\n해석: 다음 중 Incoterms 2010에 대한 진술 중 맞지 않는 것은 무엇인가?\n해설: 주어진 보기 중 틀린 것을 찾는 유형이다. Incoterms 2010 규칙은 물품매매거래의 당사자들 간의 인도 위험 비용, 운송, 보험, 수출입통관 등에 대한 의무를 규정하고 있으므로 \"표준선적조건(standard shipment term)\"이라는 표현은 적합하지 않다(매매계약의 정형거래조건임). 따라서 답은 ①번이다.\n어휘: specify 명시하다 / clearance 통관 / incorporate 포함시키다 / be obliged to 의무를 부담하다 / in event of ~의 경우에 / mishap 작은 사고"
+  },
+  {
+    "id": 31,
+    "subject": 2,
+    "passage": "<strong>[31~32] Read the following and answer.</strong>\nDear Mr. Cho,\nYour name was given to us <span class=\"blank-line\">(A)</span> Mr. L. Crane, the chief buyer of F. Lynch &amp; Co. Ltd, who have asked us to allow them to settle their account by 90-day Bill of Exchange.\nWe would be grateful if you could confirm that this company settles promptly on due dates, and are sound enough to <span class=\"blank-line\">(B)</span> credits of up to USD 50,000 in transactions.\nThank you in advance for the information.",
+    "stem": "31 Who is MOST likely to be Mr. Cho?",
+    "options": [
+      "referee",
+      "seller",
+      "broker",
+      "drawee"
+    ],
+    "answer": 0,
+    "explanation": "[31 추론 문제]\n[31~32 지문 해석]: Mr. Cho께, 당사는 귀하의 성함을 F. Lynch & Co. Ltd사의 선임바이어인 Mr. L. Crane (A) 전달받았고, 그분께서는 당사가 그들의 청구서를 90일 환어음으로 결제할 수 있도록 요청하셨습니다. 귀하께서 이 회사가 만기일에 즉각적으로 결제하는지, 거래에서 미화 50,000달러까지의 신용을 (B)하기에 충분히 견실한지 확인해주시면 감사하겠습니다. 정보에 대해 미리 감사드립니다.\n해석: Mr. Cho는 가장 누구인 것 같은가? ① 신용조회인 ② 매도인 ③ 중개인 ④ 지급인\n해설: 주어진 서신에서 추론할 수 있는 것을 찾는 유형이다. 회사가 만기일에 결제를 잘하고 있는지 등을 묻고 있으므로, Mr. Cho는 신용조회인임을 알 수 있다. 따라서 답은 ①번이다."
+  },
+  {
+    "id": 32,
+    "subject": 2,
+    "passage": "<strong>[31~32] Read the following and answer.</strong>\nDear Mr. Cho,\nYour name was given to us <span class=\"blank-line\">(A)</span> Mr. L. Crane, the chief buyer of F. Lynch &amp; Co. Ltd, who have asked us to allow them to settle their account by 90-day Bill of Exchange.\nWe would be grateful if you could confirm that this company settles promptly on due dates, and are sound enough to <span class=\"blank-line\">(B)</span> credits of up to USD 50,000 in transactions.\nThank you in advance for the information.",
+    "stem": "32 Fill in the blank (A) and (B) with right words.",
+    "options": [
+      "by - meet",
+      "from - fill",
+      "by - grant",
+      "from - allow"
+    ],
+    "answer": 0,
+    "explanation": "[32 빈칸에 적절한 것 찾기 문제]\n해석: 빈칸(A)와 (B)에 맞는 단어를 채우시오. ① ~에 의해 - 충족하다 ② ~로부터 - 채우다 ③ ~에 의해 - 승인하다 ④ ~로부터 - 허락하다\n해설: 주어진 서신의 빈칸에 적절한 것을 찾는 유형이다. (A)에는 수동태 표현의 대상과 함께 오는 전치사 by가 와야 하고, (B)는 신용(외상거래)을 충족하기에 충분히 견실하다는 의미이므로, 각각 '~에 의해', '충족하다'라는 내용이 와야 적절하다. 따라서 답은 ①번이다.\n어휘: chief 선임의 / settle account 청구서를 결제하다 / Bill of Exchange 환어음 / promptly 즉시 / sound 견실한, 견고한 / credit (외상거래를 위한) 신용 / referee 신용조회인 / drawee 지급인"
+  },
+  {
+    "id": 33,
+    "subject": 2,
+    "passage": "Factoring companies provide a flexible and cost effective way to free up capital and improve cash flow. Factoring is a form of <span class=\"blank-line\">( )</span> which allow business to raise funds or aid cash flow by providing funds against unpaid invoices. The banks then collect payment from the customer for you, saving you the time and hassle of chasing payments. Once payment is collected, the bank pays the balance of the invoice value, minus agreed fees.",
+    "stem": "33 Which of the following words is MOST suitable for the blank below?",
+    "options": [
+      "draft finance",
+      "invoice finance",
+      "ordering service",
+      "overdraft service"
+    ],
+    "answer": 1,
+    "explanation": "[33 빈칸에 적절한 것 찾기 문제]\n해석: 다음 중 아래 빈칸에 가장 적절한 단어는 무엇인가? ① 환어음 금융 ② 인보이스 금융 ③ 주문 서비스 ④ 당좌대월 서비스\n해설: 주어진 지문의 빈칸에 적절한 것을 찾는 유형이다. 인보이스 금융이란 기업으로부터 매출 채권을 매입하여 이를 바탕으로 자금을 빌려주는 제도로, 기업이 상거래 시 현금 대신 받은 매출 채권을 신속히 현금화할 수 있도록 하는 단기금융 제도이다. 따라서 답은 ②번이다.\n어휘: free up 확보하다 / cash flow 현금 유동성 / hassle 번거로움 / overdraft 당좌대월"
+  },
+  {
+    "id": 34,
+    "subject": 2,
+    "passage": "<strong>[34~35] Read the following and answer.</strong>\nDear Herr Kim,\nWe would like to invite you to our annual dinner on 15 February, and <u>당신이 우리의 초청 연사 중 한 분이 되어 주실지 궁금합니다</u>.\nOur theme this year is 'The effects of the USD', and we would appreciate a contribution from your field on how this is affecting exporting companies.\nPlease let us know as soon as possible if you are able to speak.\n<span class=\"blank-line\" style=\"min-width:140px;\">(A)</span> a formal invitation for yourself and a guest.\nYours sincerely,",
+    "stem": "34 What is best written for the underlined part?",
+    "options": [
+      "wonder if you would consider being one of our guest speakers.",
+      "doubt if you would be one of our inviting speaker.",
+      "want you would accept as one of our speakers.",
+      "question goes for your acceptance as one of our host speakers."
+    ],
+    "answer": 0,
+    "explanation": "[34 다른 문장/같은 문장 찾기 문제]\n[34~35 지문 해석]: Herr Kim께, 당사는 2월 15일 연례 만찬에 당신을 초대하고 싶으며, 당신이 우리의 초청 연사 중 한 분이 되어 주실지 궁금합니다. 올해 저희의 주제는 '미화의 영향'이며, 이것이 수출회사에 어떤 영향을 끼치는지에 대한 당신의 분야에서의 공헌을 잘 알고 있습니다. 당신이 연설을 하실 수 있으신지 가능한 한 빨리 알려주시기 바랍니다. 당신과 손님을 위한 공식 초청장이 (A).\n해석: 밑줄 친 부분이 가장 잘 쓰인 것은 무엇인가?\n해설: 주어진 문장과 같은 내용을 찾는 유형이다. 주어진 부분과 같은 의미가 되어야 하므로, 초청 연사가 되어 줄 수 있는지 여부를 묻는 내용의 보기가 적절하다. 따라서 답은 ①번이다."
+  },
+  {
+    "id": 35,
+    "subject": 2,
+    "passage": "<strong>[34~35] Read the following and answer.</strong>\nDear Herr Kim,\nWe would like to invite you to our annual dinner on 15 February, and <u>당신이 우리의 초청 연사 중 한 분이 되어 주실지 궁금합니다</u>.\nOur theme this year is 'The effects of the USD', and we would appreciate a contribution from your field on how this is affecting exporting companies.\nPlease let us know as soon as possible if you are able to speak.\n<span class=\"blank-line\" style=\"min-width:140px;\">(A)</span> a formal invitation for yourself and a guest.\nYours sincerely,",
+    "stem": "35 Which is best for the blank <u>(A)</u>?",
+    "options": [
+      "Enclosed you will find",
+      "Attached is our file",
+      "You may put out",
+      "We appreciate if you could sign"
+    ],
+    "answer": 0,
+    "explanation": "[35 빈칸에 적절한 것 찾기 문제]\n해석: 빈칸(A)에 가장 맞는 것은 무엇인가? ① 동봉된 것을 발견하실 것입니다. ② 첨부된 것은 우리의 파일입니다. ③ 당신은 꺼내실 수 있습니다. ④ 당신이 서명할 수 있다면 감사하겠습니다.\n해설: 주어진 서신의 빈칸에 적절한 것을 찾는 유형이다. 초청 연사로 초대하고 싶다고 했으므로, 공식 초대장이 동봉된 것을 발견할 것이라는 내용이 와야 적절하다. 따라서 답은 ①번이다.\n어휘: contribution 공헌, 기여"
+  },
+  {
+    "id": 36,
+    "subject": 2,
+    "passage": "<span class=\"blank-line\">( ⓐ )</span> Average Loss is a voluntary and deliberate loss, while <span class=\"blank-line\">( ⓑ )</span> Average Loss is purely accidental and unforeseen loss. <span class=\"blank-line\">( ⓒ )</span> Average Loss falls entirely upon the owner of the cargo. In <span class=\"blank-line\">( ⓓ )</span> Average Loss the loss shall be shared by all the owners of cargo.",
+    "stem": "36 Which of the following is the right match for blanks below?",
+    "options": [
+      "ⓐ General  |  ⓑ Particular  |  ⓒ General  |  ⓓ Particular",
+      "ⓐ General  |  ⓑ Particular  |  ⓒ Particular  |  ⓓ General",
+      "ⓐ Particular  |  ⓑ General  |  ⓒ General  |  ⓓ Particular",
+      "ⓐ Particular  |  ⓑ General  |  ⓒ Particular  |  ⓓ General"
+    ],
+    "answer": 1,
+    "explanation": "[36 빈칸에 적절한 것 찾기 문제]\n해석: (ⓑ) 해손이 순전히 돌발적이고 예측하지 못한 손해인 반면, (ⓐ) 해손은 임의적이고 의도적인 손해이다. (ⓒ) 해손은 전적으로 화주에게 귀속된다. (ⓓ) 해손에서는 모든 화주들에 의해 손해가 나누어질 것이다.\n해설: 주어진 지문의 빈칸에 적절한 것을 찾는 유형이다. 단독해손은 피보험 위험에 의해서 불의에 발생되는 것이고 손해를 입은 자가 단독으로 부담하는 손해인 반면, 공동해손은 공동의 안전을 위해 고의적이고 합리적으로 이례적인 공동해손 행위를 취하는 과정에서 발생하는 공동손해를 말하며 이해당사자가 공동으로 부담하는 손해이다. 따라서 답은 ②번이다.\n어휘: average loss (분손인) 해손 / voluntary 임의적인, 자발적인 / deliberate 의도적인 / purely 순전히 / accidental 돌발적인 / unforeseen 예측하지 못한 / fall upon ~의 책임이다 / entirely 전적으로 / cargo 화물"
+  },
+  {
+    "id": 37,
+    "subject": 2,
+    "passage": "",
+    "stem": "37 Which is NOT a difference between Institute Cargo Clause(B) and Institute Cargo Clauses(C)?",
+    "options": [
+      "Only difference between ICC(B) and ICC(C) is the additional risks covered under ICC(B) cargo insurance policies.",
+      "ICC(C) is the minimum cover cargo insurance policy available in the market.",
+      "ICC(B) covers loss of or damage to the subject-matter insured caused by entry of sea lake or river water into vessel, craft, hold, conveyance, container or place of storage but ICC(C) does not.",
+      "ICC(B) covers loss of or damage to the subject-matter insured caused by general average sacrifice but ICC(C) does not."
+    ],
+    "answer": 3,
+    "explanation": "[37 Not/True 문제]\n해석: 협회적하약관 ICC(B)와 협회적하약관 ICC(C) 간 차이점이 아닌 것은?\n④ ICC(B)는 공동해손희생에 의해 초래된 보험의 목적에 대한 손해나 손상을 담보하지만 ICC(C)는 그렇지 않다.\n해설: 주어진 보기 중 틀린 것을 찾는 유형이다. ICC(C)는 ICC(B)와 마찬가지로 공동해손을 보상한다. 따라서 답은 ④번이다.\n어휘: cargo insurance 적하 보험 / subject-matter insured 피보험 목적물, 보험의 목적 / conveyance 운송수단 / general average sacrifice 공동해손희생 손해"
+  },
+  {
+    "id": 38,
+    "subject": 2,
+    "passage": "<strong>[38~39] Read the following and answer the questions.</strong>\nThank you very much for your letter of March 20th inquiring about our model number HW-118. <u>(a) We have quoted our best prices and terms as attached price list.</u> We trust that you can figure out our eagerness <u>(b) to do business with you as we quoted special prices for you.</u>\nAs a matter of fact, <u>(c) we may have to raise our prices since</u> <u>(d) the prices of raw materials have been expensive from early this year.</u> Therefore, we would ask you to <span class=\"blank-line\" style=\"min-width:130px;\">(e)</span> without delay.",
+    "stem": "38 Which of the following is grammatically INCORRECT?",
+    "options": [
+      "(a)",
+      "(b)",
+      "(c)",
+      "(d)"
+    ],
+    "answer": 3,
+    "explanation": "[38 Not/True 문제]\n[38~39 지문 해석]: 당사의 모델명 HW-118에 대해 문의하는 3월 20일 자 귀사의 서신에 매우 감사드립니다. (a) 당사는 첨부한 가격표와 같이, 최적의 가격과 조건으로 견적을 내었습니다. (b) 당사는 귀사를 위해 특별 가격으로 견적을 내었으니 귀하와 거래하고자 하는 당사의 열의를 알아보실 것이라 믿습니다. 사실상, (d) 올해 초 원자재 가격이 비싸진 (c) 이래로 당사는 가격을 인상해야만 할지도 모릅니다. 그러므로, 당사는 귀하께서 지체 없이 (e)하시기를 요청드립니다.\n해석: 다음 중 문법적으로 틀린 것은 무엇인가?\n해설: 주어진 서신에서 틀린 것을 찾는 유형이다. 올해 초 이래로라는 의미가 되어야 하므로 from을 since로 고쳐야 한다(전치사 from은 완료시제 및 early this year과 함께 쓸 수 없어 since로 고쳐야 함). 따라서 답은 ④번이다."
+  },
+  {
+    "id": 39,
+    "subject": 2,
+    "passage": "<strong>[38~39] Read the following and answer the questions.</strong>\nThank you very much for your letter of March 20th inquiring about our model number HW-118. <u>(a) We have quoted our best prices and terms as attached price list.</u> We trust that you can figure out our eagerness <u>(b) to do business with you as we quoted special prices for you.</u>\nAs a matter of fact, <u>(c) we may have to raise our prices since</u> <u>(d) the prices of raw materials have been expensive from early this year.</u> Therefore, we would ask you to <span class=\"blank-line\" style=\"min-width:130px;\">(e)</span> without delay.",
+    "stem": "39 Which answer best fits the blank <u>(e)</u>?",
+    "options": [
+      "place a backorder",
+      "place an initial order",
+      "take a bulk order",
+      "take a volume order"
+    ],
+    "answer": 1,
+    "explanation": "[39 빈칸에 적절한 것 찾기 문제]\n해석: 다음 중 빈칸 (e)에 가장 잘 맞는 답은 무엇인가? ① 이월 주문을 하다. ② 첫 주문을 하다. ③ 대량 주문을 받다. ④ 대량 주문을 받다.\n해설: 주어진 지문의 빈칸에 적절한 것을 찾는 유형이다. 원자재 가격이 비싸진 이래로 가격을 인상해야만 할지도 모른다고 했으므로, 지연 없이 첫 주문을 하기를 요청한다는 내용이 와야 적절하다. 따라서 답은 ②번이다.\n어휘: quote 견적을 내다, 매기다 / eagerness 열의, 간절함 / do business with ~와 거래하다 / backorder 이월 주문 / bulk order 대량 주문 / volume order 대량 주문"
+  },
+  {
+    "id": 40,
+    "subject": 2,
+    "passage": "Shipment is to be made within the time stated in the contract, except in circumstances beyond the Seller's control.",
+    "stem": "40 Which has the same meaning with the following sentence?",
+    "options": [
+      "Shipment is to be made within the time without exceptions.",
+      "Shipment is allowed to be made later, if the seller is unable to secure promised materials.",
+      "The seller is not responsible for delay in shipment in the case of force majeure.",
+      "The buyer is likely to ignore whatever the seller asks for an excuse."
+    ],
+    "answer": 2,
+    "explanation": "[40 다른 문장/같은 문장 찾기 문제]\n해석: 다음 문장과 같은 의미를 가지는 것은 무엇인가? 선적은 매도인의 통제를 넘어서는 상황을 제외하고, 계약서에 규정한 기간 내에 이루어져야 한다.\n① 선적은 예외 없이 기간 내에 이루어져야 한다. ② 매도인이 약속된 자재를 확보하지 못한다면, 선적은 나중에 이루어지도록 허용된다. ③ 불가항력의 상황에서 매도인은 선적의 지연에 책임이 없다. ④ 매수인은 매도인이 어떠한 양해를 요구하든지 무시할 것이다.\n해설: 주어진 문장과 같은 내용을 찾는 유형이다. 매도인의 통제를 넘어서는 상황이란 천재지변, 전쟁 등의 불가항력을 의미한다. 따라서 답은 ③번이다.\n어휘: force majeure 불가항력 / excuse 양해, 변명"
+  },
+  {
+    "id": 41,
+    "subject": 2,
+    "passage": "Shipment not later than October 10.",
+    "stem": "41 Choose the answer which is MOST similar to the following sentence.",
+    "options": [
+      "Shipment anytime after October 10.",
+      "Shipment must be made by October 10.",
+      "Shipment must be made on October 10.",
+      "Shipment is no earlier than October 10."
+    ],
+    "answer": 1,
+    "explanation": "[41 다른 문장/같은 문장 찾기 문제]\n해석: 다음 문장과 가장 유사한 것은 무엇인지 답을 고르시오. 늦어도 10월 10일 이전까지의 선적\n① 10월 10일 이후 어느 때이든 선적 ② 선적은 10월 10일까지 이루어져야 한다. ③ 선적은 10월 10일에 이루어져야 한다. ④ 선적은 10월 10일 이후이다.\n해설: 주어진 문장과 같은 내용을 찾는 유형이다. 늦어도 10월 10일 이전까지 선적이 되어야 한다는 것은 10월 10일까지 이루어져야 한다는 것이다. 따라서 답은 ②번이다.\n어휘: not later than ~이전에"
+  },
+  {
+    "id": 42,
+    "subject": 2,
+    "passage": "Regarding your order number HW-07133, we are pleased to inform you that the goods are ready for shipment.\nOn such a short notice, please note that we made special effort to meet your required delivery date.\nWe trust that the excellent quality and the fashionable design of our products will give your customers full satisfaction.\nPlease let us have your <span class=\"blank-line\" style=\"min-width:140px;\">( )</span>.",
+    "stem": "42 Fill in the blank with the best answer.",
+    "options": [
+      "quotation about this order",
+      "letter of credit",
+      "invoice as soon as possible",
+      "shipping instructions"
+    ],
+    "answer": 3,
+    "explanation": "[42 빈칸에 적절한 것 찾기 문제]\n해석: 빈칸을 가장 적절한 답으로 채우시오.\n① 이 주문에 대한 견적서 ② 신용장 ③ 가능한 한 빠른 송장 ④ 선적지시서\n해설: 주어진 서신의 빈칸에 적절한 것을 찾는 유형이다. 선적지시서는 수출업체가 항만업체에 선적업무를 대행시킬 때에 제출하는 화물 반출·선적사항을 기재한 의뢰서이고, 제품 선적 준비를 마쳤다고 하였다. 따라서 답은 ④번이다.\n어휘: quotation 견적서 / letter of credit 신용장 / shipping instruction 선적의뢰서"
+  },
+  {
+    "id": 43,
+    "subject": 2,
+    "passage": "<strong>[43-46] Which is the most INACCURATE translation in English?</strong>",
+    "stem": "43 Which is the most INACCURATE translation in English?",
+    "options": [
+      "선적되어 온 것을 풀어보고 당사는 제품이 귀사의 견본과 품질이 동등하지 않다는 것을 발견하였습니다. → While we were unpacking the shipment, we realized that the quality of the goods is not equal to your sample.",
+      "이 지연으로 말미암아 당사는 큰 불편을 겪었습니다. 더 이상 지연되면 당사는 판매할 기회를 많이 놓친다는 점을 이해해 주십시오. → This delay has caused us great disconvenience. You will understand that you would lose much of your chance of selling them if their delivery were put off any further.",
+      "귀하께서 당사의 클레임의 타당성을 인정하실 수 있도록 동봉한 견본을 조사해 주시기 바랍니다. → We ask you to examine the sample enclosed so that you will admit the reasonableness of our claim.",
+      "이 문제를 해결하기 위하여 귀사가 생각하고 있는 할인액을 알려주시기 바랍니다. → We would be glad to hear of the allowance you consider in settling this matter."
+    ],
+    "answer": 1,
+    "explanation": "[43 다른 문장/같은 문장 찾기 문제]\n해설: 주어진 문장과 다른 내용을 찾는 유형이다. 불편은 disconvenience가 아닌 inconvenience를 사용하며, 이 지연으로 말미암아 당사는 판매 기회를 잃게 될 것이라고 하였으므로, 'you would lose much of your chance'가 아닌 'We would lose much of our chance'가 적절하다. 따라서 답은 ②번이다.\n어휘: disconvenience 부적합, 부조화 / put off 미루다 / reasonableness 타당성 / allowance 할인액 / settle 해결하다"
+  },
+  {
+    "id": 44,
+    "subject": 2,
+    "passage": "<strong>[43-46] Which is the most INACCURATE translation in English?</strong>",
+    "stem": "44 Which is the most INACCURATE translation in English?",
+    "options": [
+      "당사는 영국에 거래처가 없으므로 귀사께서 당사가 이 특수 분야의 영업을 할 수 있는 기회를 얻도록 협력해 주신다면 감사하겠습니다. → We have no contacts in England, so we would be highly appreciated all the assistance you could render in let us have a chance of doing a business in this particular area.",
+      "우리들 상호의 이익을 도모하기 위하여 빠른 시일 내에 귀사와 거래를 시작하기를 바랍니다. → We hope that we can soon enter into business relations with you which we are sure will lead to our mutual profit.",
+      "당사는 서울에 위치한 무역회사로 세계의 주요 무역 중심지에 지점들을 두고 있으며 광범위하고 다양한 상품을 취급하고 있습니다. → We are a trading firm in Seoul with branches covering the world's principal trade centers handling a wide range of various goods.",
+      "당사는 일반 상품, 기계류 및 장비의 수출입상으로 20년이 넘는 역사를 가지고 있습니다. → We have a proud record of more than 20 years in our business as an exporter-importer dealing in general goods, machinery and equipment."
+    ],
+    "answer": 0,
+    "explanation": "[44 다른 문장/같은 문장 찾기 문제]\n해설: 주어진 문장과 다른 내용을 찾는 유형이다. 전치사 in 다음에는 명사 형태가 와야 하므로, 'let'이 아닌 'letting'이 와야 한다(또한 we would appreciate). 따라서 답은 ①번이다.\n어휘: enter into 시작하다 / equipment 장비, 용품"
+  },
+  {
+    "id": 45,
+    "subject": 2,
+    "passage": "<strong>[43-46] Which is the most INACCURATE translation in English?</strong>",
+    "stem": "45 Which is the most INACCURATE translation in English?",
+    "options": [
+      "보증에 대한 정보도 받아보고 싶습니다. → We are also interested in receiving information about the warranty.",
+      "귀하의 주문품을 오늘 신속히 항공 속달편으로 발송하였습니다. → We have today promptly shipped your order by air express.",
+      "선적이 지연된 이유는 최근 오클랜드 항구 직원들의 파업 때문입니다. → The shipping delay is due to the recent strike of port workers in Oakland.",
+      "거듭된 시도에도 불구하고, 귀사로부터 아무런 답변도 받지 못했습니다. → Despite of repeated attempts, we have unable to receive an answer from you."
+    ],
+    "answer": 3,
+    "explanation": "[45 다른 문장/같은 문장 찾기 문제]\n해설: 주어진 문장과 다른 내용을 찾는 유형이다. '~하지 못하다'라는 표현은 be unable to이다. 받지 못했다라는 과거형이 와야 하므로, 'have unable to'가 아닌 'were unable to'(또는 have been unable to, 그리고 Despite 뒤에는 of가 불필요)가 와야 한다. 따라서 답은 ④번이다.\n어휘: warranty 보증 / promptly 신속히 / air express 항공 속달편 / strike 파업 / attempt 시도"
+  },
+  {
+    "id": 46,
+    "subject": 2,
+    "passage": "<strong>[43-46] Which is the most INACCURATE translation in English?</strong>",
+    "stem": "46 Which is the most INACCURATE translation in English?",
+    "options": [
+      "귀사가 2개월 전 당사에 공급한 배터리에 문제가 있었습니다. → There has been a problem with the batteries you had supplied us two months ago.",
+      "당사 기록을 철저하게 검토한 결과, 추가 금액이 실수로 청구된 것이 확실합니다. → Having made a thorough check of our records, I am certain that the extra charge was made in error.",
+      "귀사의 22-A01번 주문에 대한 청구서를 보내드린 지 2주가 되었습니다. → It was two weeks since we have sent you the billing for your order 22-A01.",
+      "사무실 책상과 의자 품목의 사진을 보내주시겠습니까? → Would you mind sending me pictures of your line of office desks and chairs?"
+    ],
+    "answer": 2,
+    "explanation": "[46 다른 문장/같은 문장 찾기 문제]\n해설: 주어진 문장과 다른 내용을 찾는 유형이다. 청구서를 보내드린 지 2주가 되었다는 뜻이 되어야 하므로 'was'가 아니라 'has been'이 와야 하며, 'have sent'가 아니라 'sent'가 와야 한다. 또한, 'billing'은 청구서의 발행 행위를 의미하므로 청구서를 의미하는 'bill'이 와야 한다. 따라서 답은 ③번이다.\n어휘: thorough 철저하게 / billing 청구서 발행(행위)"
+  },
+  {
+    "id": 47,
+    "subject": 2,
+    "passage": "If the payment should not be made, then I am afraid that we shall have no choice but to <u>start proceedings</u> for dishonor.",
+    "stem": "47 Choose the one which does NOT have the same meaning with the underlined.",
+    "options": [
+      "resume negotiation",
+      "take a legal step",
+      "sue",
+      "bring an action"
+    ],
+    "answer": 0,
+    "explanation": "[47 다른 문장/같은 문장 찾기 문제]\n해석: 밑줄 친 부분과 같은 의미를 가지지 않은 것을 고르시오. 결제가 되지 않은 경우, 당사는 유감스럽지만 부도에 대해 소송절차를 시작할 수밖에 없습니다.\n① 협상을 재개하다. ② 법적 절차를 밟다. ③ 고소하다. ④ 소송을 제기하다.\n해설: 주어진 문장과 다른 내용을 찾는 유형이다. 소송절차를 시작하는 것과 협상을 재개하는 것은 다른 내용이다. 따라서 답은 ①번이다.\n어휘: have no choice but to ~할 수밖에 없다 / proceedings (소송)절차 / dishonor (어음의) 부도 / resume 재개하다 / sue 고소하다 / bring an action 소송을 제기하다"
+  },
+  {
+    "id": 48,
+    "subject": 2,
+    "passage": "",
+    "stem": "48 Which is LEAST proper in explanation of Transhipments?",
+    "options": [
+      "Transhipments are usually made where there is no direct air, land, or sea link between the consignor's and consignee's countries.",
+      "Transhipments can be made where the intended port of entry is blocked.",
+      "Transhipments are not allowed in L/C operation, unless the goods are containerised.",
+      "Transhipments exposes the shipment to a lower probability of damage."
+    ],
+    "answer": 3,
+    "explanation": "[48 Not/True 문제]\n해석: 환적에 대한 설명으로 가장 적절하지 않은 것은 무엇인가?\n① 환적은 보통 송하인과 수하인의 국가 간에 직접적인 항공, 육지 또는 해상 연결이 없는 곳에서 이루어진다.\n② 예정된 입국항이 차단된 경우 환적할 수 있다.\n③ 물품이 컨테이너로 운송되지 않는 한, 신용장 업무에서 환적이 허용되지 않는다.\n④ 환적은 운송품의 피해율을 낮춘다.\n해설: 주어진 설명 중 틀린 것을 찾는 유형이다. 환적 시에 화물이 손상을 입을 확률이 증가한다. 따라서 답은 ④번이다.\n어휘: transhipment 환적 / consignor 송하인 / consignee 수하인 / containerise 컨테이너로 수송되다"
+  },
+  {
+    "id": 49,
+    "subject": 2,
+    "passage": "<u>Underlying transaction</u> is a deal between the account party and beneficiary of a letter of credit(L/C). An L/C is said to be independent of the underlying transaction.",
+    "stem": "49 What does the underlined mean?",
+    "options": [
+      "sales contract",
+      "carriage contract",
+      "negotiation contract",
+      "payment terms"
+    ],
+    "answer": 0,
+    "explanation": "[49 추론 문제]\n해석: 밑줄 친 부분이 의미하는 것은 무엇인가? 원인 거래는 신용장의 개설의뢰인과 수익자 사이의 거래이다. 신용장은 원인 거래와 관계없다고 여겨진다.\n① 매매계약 ② 운송계약 ③ 협상계약 ④ 결제조건\n해설: 주어진 지문에서 추론할 수 있는 것을 찾는 유형이다. 신용장은 매매계약과는 독립된 별개의 거래라는 독립성의 원칙을 가지고 있다. 따라서 답은 ①번이다.\n어휘: deal 거래 / account party 개설의뢰인 / independent of ~와 관계없이"
+  },
+  {
+    "id": 50,
+    "subject": 2,
+    "passage": "One of the ways how to deal with the negotiation is that the exporter can get a discount from negotiating bank through <span class=\"blank-line\" style=\"min-width:130px;\">( )</span> for discrepant documents presented under the Documentary Credit.",
+    "stem": "50 Which is right for the blank?",
+    "options": [
+      "under reserve negotiation",
+      "forfaiting",
+      "factoring",
+      "confirmation"
+    ],
+    "answer": 0,
+    "explanation": "[50 빈칸에 적절한 것 찾기 문제]\n해석: 빈칸에 적절한 것은 무엇인가? 매입을 다루는 방법 중 하나는 수출자가 신용장에 의해 제시된 조건에 불일치하는 서류에 대해 (유보부매입)을 통해 매입은행에서 할인을 받을 수 있다는 것이다.\n① 유보부매입 ② 포페이팅 ③ 팩터링 ④ 확인\n해설: 주어진 지문의 빈칸에 적절한 것을 찾는 유형이다. 수출자가 제시한 서류에 하자가 있더라도 개설은행에서 지급거절 시 매입은행에 상환을 전제로 매입하는 것으로, 유보부매입이 와야 적절하다. 따라서 답은 ①번이다.\n어휘: negotiating bank 매입은행 / exporter 수출자 / discrepant 불일치한 / present 제시하다 / documentary credit 화환신용장"
+  },
+  {
+    "id": 51,
+    "subject": 3,
+    "passage": "",
+    "stem": "51 신용장 양도 시 확인사항으로 옳지 않은 것은?",
+    "options": [
+      "2회 이상 양도가능한지 여부",
+      "원신용장에 명기된 조건대로 양도되는지 여부",
+      "당해 L/C가 양도가능(Transferable) 신용장인지 여부",
+      "양도은행이 신용장상에 지급, 인수 또는 매입을 하도록 수권 받은 은행인지 여부"
+    ],
+    "answer": 0,
+    "explanation": "[51 무역결제/양도가능신용장]\n해설: 양도가능신용장의 양도는 1회에 한하여 허용되며, 제2수익자의 요청에 의해 그 이후 수익자로의 재양도는 불가능하다."
+  },
+  {
+    "id": 52,
+    "subject": 3,
+    "passage": "",
+    "stem": "52 Incoterms 2010상의 '매도인의 의무(The seller's obligations)'에 관한 항목이 아닌 것은?",
+    "options": [
+      "Licences, authorizations, security clearance and other formalities",
+      "Transfer of risks",
+      "Assistance with information and related costs",
+      "Provision of goods in conformity with the contract"
+    ],
+    "answer": 3,
+    "explanation": "[52 무역계약/Incoterms 2010]\n해설: 'Provision of Goods in Conformity with the Contract'는 Incoterms 2010상 매도인의 의무 표제어가 아니다(Incoterms 2010에서는 General Obligations of the Seller로 변경됨).\n★더 알아보기 [Incoterms 2010상 매도인의 의무]\n• General Obligations of The Seller(매도인의 일반적 의무)\n• Licences, Authorizations, Security Clearances and Other Formalities(허가, 인가, 보안통관, 기타 절차)\n• Contracts of Carriage and Insurance(운송계약 및 보험계약)\n• Delivery(인도) / Transfer of Risks(위험이전) / Allocation of Costs(비용분담)\n• Notices to The Buyer(매수인을 위한 통지) / Delivery Document(인도서류)\n• Checking-Packaging-Marking(검사-포장-화인) / Assistance with Information and Related Costs(정보 및 관련 비용에 대한 협조)"
+  },
+  {
+    "id": 53,
+    "subject": 3,
+    "passage": "",
+    "stem": "53 무역계약이 체결된 장소 또는 국가에서 계약의 전부 또는 일부가 이행될 때 계약이 체결된 국가의 법률을 적용해야 한다는 원칙으로 옳은 것은?",
+    "options": [
+      "무명조건",
+      "계약이행지법",
+      "중재지법",
+      "계약체결지법"
+    ],
+    "answer": 3,
+    "explanation": "[53 무역계약/계약체결지법]\n해설: 계약체결지법에 대한 설명이다."
+  },
+  {
+    "id": 54,
+    "subject": 3,
+    "passage": "계약체결 시에 제출하는 것으로서 낙찰자가 약정된 계약을 이행하지 않을 경우에 대비하여 상대방(발주자)이 요구하며 보증금액은 보통 계약금액의 10% 전후이다.",
+    "stem": "54 다음 설명에 해당하는 수출보증보험의 대상이 되는 보증서는 무엇인가?",
+    "options": [
+      "bid bond",
+      "performance bond",
+      "advance payment bond",
+      "retention payment bond"
+    ],
+    "answer": 1,
+    "explanation": "[54 무역결제/계약이행보증]\n해설: Performance Bond(계약이행보증서)에 대한 설명이다.\n★더 알아보기\n• 입찰보증(Bid Bond): 입찰 시 입찰 참가자가 미리 내는 보증금으로, 낙찰자가 계약체결을 거절할 경우 그 보증금을 몰수하게 된다. 입찰보증금은 보통 총입찰액의 2% 정도이다.\n• 선수금 환급보증(Advance Payment Bond): 해외 건설공사 또는 플랜트수출 등에서 주채무자인 시공사가 계약을 불이행한 경우 발주자가 시공사에게 이미 지급한 선수금을 환급한다는 것을 내용으로 하는 보증서이다.\n• 유보금 환급보증(Retention Payment Bond): 발주자가 하자가 발생할 경우 하자보수비에 충당할 목적으로 기성고의 일부를 유보해 둔 금액(유보금)을 각 기성단계마다 지급하지 않고 유보할 경우, 시공사가 이를 지급받기 위해 유보금상당의 보증서를 제출하여 대금을 지급받는 것을 말한다. 금액은 통상 기성대금의 5~10% 정도이다."
+  },
+  {
+    "id": 55,
+    "subject": 3,
+    "passage": "1) 거래금액: JPY 3,600,000\n2) 거래조건: 120d/s\n3) 환가료율: 2.00%\n4) 우편일수: 8일\n5) 환율(장부가격): JPY 100=KRW 1,000",
+    "stem": "55 다음의 경우 환가료를 원화로 계산한 것으로 옳은 것은?",
+    "options": [
+      "128,000원",
+      "240,000원",
+      "256,000원",
+      "480,000원"
+    ],
+    "answer": 2,
+    "explanation": "[55 무역결제/환가료]\n해설: 환가료 = 매입금액 × 매매기준율 × 환가료율 × 추심일수/360\n= 3,600,000 × (1,000/100) × (2/100) × (128/360) = 256,000원\n★더 알아보기 [환가료]\n매입은행이 환어음을 매입할 경우, 대금을 선지급하고 이를 상환받는 날까지 상당 기간이 걸리는데, 이때 매입은행이 부담하는 금액에 대한 이자를 수출자에게 청구하는 수수료이다."
+  },
+  {
+    "id": 56,
+    "subject": 3,
+    "passage": "",
+    "stem": "56 해상운송에 관한 헤이그 비스비 규칙의 설명으로 옳지 않은 것은?",
+    "options": [
+      "운송인의 책임은 과실책임주의에 기초하고 있다.",
+      "선적 시로부터 양륙시까지의 기간 동안에 대해서만 적용된다.",
+      "운송인은 자신에게 과실이 없음을 입증해야만 책임을 면할 수 있다.",
+      "운송인은 항해과실에 대해서 책임을 부담하지 않는다."
+    ],
+    "answer": 2,
+    "explanation": "[56 무역운송/헤이그 비스비 규칙]\n해설: 헤이그 비스비 규칙상 운송인은 상당한 주의 의무를 다하였다는 것만 입증하면 면책된다."
+  },
+  {
+    "id": 57,
+    "subject": 3,
+    "passage": "",
+    "stem": "57 선하증권의 법적 성질로 옳지 않은 것은?",
+    "options": [
+      "요인증권",
+      "요식증권",
+      "상환증권",
+      "금전증권"
+    ],
+    "answer": 3,
+    "explanation": "[57 무역운송/선하증권의 법적 성질]\n해설: 금전증권은 선하증권의 법적 성질에 해당하지 않는다.\n★더 알아보기 [금전증권]\n금전증권은 상업거래의 목적물로 이용되는 것보다 신용의 수단 및 지급용구로 많이 이용되며, 환어음, 수표 등이 이에 속한다."
+  },
+  {
+    "id": 58,
+    "subject": 3,
+    "passage": "",
+    "stem": "58 신용장에 대한 내용으로 옳지 않은 것은?",
+    "options": [
+      "신용장은 개설은행의 조건부 지급확약으로 상업신용을 은행신용으로 전환시켜 주는 금융수단이다.",
+      "신용장상에 아무런 언급이 없는 경우 양도가 불가능하다.",
+      "무역거래에 일반적으로 사용되는 신용장은 'Documentary Credit'이다.",
+      "신용장에 의해 발행되는 환어음의 만기가 'at 90 days after sight'라면 'Sight Credit'이 된다."
+    ],
+    "answer": 3,
+    "explanation": "[58 무역결제/신용장]\n해설: 신용장에 의해 발행되는 환어음의 만기가 \"at 90 days after sight\"라면 'Usance Credit'이 된다."
+  },
+  {
+    "id": 59,
+    "subject": 3,
+    "passage": "",
+    "stem": "59 해상운송 과정 중에 발생한 해상사고로 화물손해가 발생하였고, surveyor의 조사결과 general average에 해당하지 않는 사고로 판명되었다. 이 경우 화주가 손해를 보상받을 수 있는 해상적하보험조건으로 구성된 것은?",
+    "options": [
+      "ICC(A), ICC(B)",
+      "ICC(A), ICC(C)",
+      "ICC(B), ICC(C)",
+      "ICC(A), ICC(B), ICC(C)"
+    ],
+    "answer": 0,
+    "explanation": "[59 무역결제/신협회적하약관]\n해설: General Average(공동해손)에 해당하지 않는 사고일 경우, 화주가 손해를 보상받을 수 있는 해상적하보험조건은 ICC(A)와 ICC(B)이다."
+  },
+  {
+    "id": 60,
+    "subject": 3,
+    "passage": "",
+    "stem": "60 정기선의 해상운임에 대한 설명으로 옳지 않은 것은?",
+    "options": [
+      "정기선의 해상운임은 기본운임(Basic Rates)에 할증료(Surcharges), 추가요금(Additional Charges) 등으로 구성된다.",
+      "품목별무차별운임(Freight All Kinds, FAK)은 품목에 관계없이 동일하게 적용하는 운임이다.",
+      "BAF는 유류할증료, CAF는 통화할증료로 운임 외에 부가되는 할증료(Surcharge)이다.",
+      "THC는 터미널화물처리비를 말하는데 통상적으로 해상운임에 포함되어 있다."
+    ],
+    "answer": 3,
+    "explanation": "[60 무역운송/해상운임]\n해설: THC(Terminal Handling Charge)는 터미널화물처리비로, 해상운임에 포함되어 있는 것이 아닌 컨테이너 화물의 추가운임이다."
+  },
+  {
+    "id": 61,
+    "subject": 3,
+    "passage": "",
+    "stem": "61 중재합의에 대한 설명으로 옳지 않은 것은?",
+    "options": [
+      "유효한 중재합의가 존재하는 경우에는 직소금지의 원칙에 따라 소송으로 분쟁을 해결할 수가 없다.",
+      "분쟁 발생 후에도 중재합의는 별도의 중재계약에 의해 이루어질 수 있다.",
+      "우리나라 중재법에 따르면 중재합의는 서면으로 하여야 한다.",
+      "중재합의의 한 형태로서 매매계약서상에 삽입되어 있는 중재조항은 동 계약서가 무효가 되면 동 중재조항도 그 효력을 자동적으로 상실하게 된다."
+    ],
+    "answer": 3,
+    "explanation": "[61 무역계약/무역클레임의 처리방안]\n해설: 중재조항과 같은 분쟁해결조항은 주된 계약이 무효가 된 경우에도 독립하여 유효하게 효력이 유지된다(중재조항의 독립성 원칙)."
+  },
+  {
+    "id": 62,
+    "subject": 3,
+    "passage": "",
+    "stem": "62 Incoterms 2010에 대한 설명으로 옳지 않은 것은?",
+    "options": [
+      "Incoterms 2010은 국내매매계약에도 사용가능하다.",
+      "EXW에서 매도인은 물품을 매수인의 운송수단에 적입할 의무가 없다.",
+      "컨테이너 운송에서는 FOB나 CIF 조건은 부적절하다.",
+      "FAS 조건에서 매도인은 외항에 정박한 본선까지의 부선료를 부담할 필요가 없다."
+    ],
+    "answer": 3,
+    "explanation": "[62 무역결제/Incoterms 2010]\n해설: FAS 조건에서 매도인은 본선이 외항에 정박하고 있을 때 본선이 있는 곳까지의 부선료(Lighterage)를 부담하여야 한다."
+  },
+  {
+    "id": 63,
+    "subject": 3,
+    "passage": "",
+    "stem": "63 원신용장을 견질로 하여 국내의 공급업자 앞으로 개설하는 내국신용장에 대한 설명으로 옳지 않은 것은?",
+    "options": [
+      "내국신용장상에서는 표시통화는 원화, 외화, 원화 및 외화금액 부기 중 하나이어야 한다.",
+      "유효기일은 물품의 인도기일에 최장 10일을 가산한 기일 이내이어야 한다.",
+      "부가가치세 영세율을 적용한다.",
+      "어음 형식은 개설의뢰인을 지급인으로 하고, 개설은행을 지급장소로 하는 기한부 환어음이어야 한다."
+    ],
+    "answer": 3,
+    "explanation": "[63 외국환거래법/내국신용장]\n해설: 내국신용장은 개설의뢰인을 지급인으로 하고 개설은행을 지급장소로 하는 일람출급환어음이어야 한다."
+  },
+  {
+    "id": 64,
+    "subject": 3,
+    "passage": "",
+    "stem": "64 매도인 계약위반과 매수인 권리구제에 대한 설명으로 옳지 않은 것은?",
+    "options": [
+      "매도인이 계약을 이행하지 않는 경우에 매수인은 원칙적으로 계약대로의 이행을 청구할 수 있다.",
+      "매수인은 매도인의 의무이행을 위하여 추가기간을 지정할 수 없다.",
+      "매수인이 수령당시와 동등한 상태로 반환할 수 없는 경우에는 대체물품인도 청구권을 상실한다.",
+      "계약의 해제는 정당한 손해배상의무를 제외하고는 당사자 쌍방을 모든 계약상의 의무로부터 해방시킨다."
+    ],
+    "answer": 1,
+    "explanation": "[64 무역계약/매수인의 구제]\n해설: 추가기간설정권은 매도인과 매수인 모두 청구할 수 있는 구제권이므로, 매수인은 매도인의 의무이행을 위한 추가기간을 지정할 수 있다."
+  },
+  {
+    "id": 65,
+    "subject": 3,
+    "passage": "",
+    "stem": "65 승인조건부 청약이나 보세창고도거래 등에서 품질을 결정하는데 가장 바람직한 방법은?",
+    "options": [
+      "표준품매매",
+      "상표매매",
+      "명세서매매",
+      "점검매매"
+    ],
+    "answer": 3,
+    "explanation": "[65 무역계약/품질의 결정방법]\n해설: 점검매매에 대한 설명이다.\n★더 알아보기 [점검매매(Sales by Inspection)]\n• 매수인이 상품을 직접 점검하고 구매여부를 결정하는 방식으로, 보세창고도(BWT)조건 거래나 현물상환지급방식(COD) 거래 등에서 사용될 수 있다.\n• 또한, 신상품 판매활동이나 신시장 개척 시 견본승인 조건부청약(Offer on Approval)을 할 경우 주로 사용된다."
+  },
+  {
+    "id": 66,
+    "subject": 3,
+    "passage": "",
+    "stem": "66 Incoterms 2010상 FCA 조건에 대한 설명으로 옳지 않은 것은?",
+    "options": [
+      "매도인은 매수인이 지정한 장소(수출국 내륙의 한 지점)에서 매수인이 지정한 운송인에게 물품 인도",
+      "인도장소가 매도인의 구내인 경우, 매수인의 집화용 차량에 적재하여 인도",
+      "인도장소가 매도인의 구내 이외의 장소인 경우, 물품을 적재한 차량을 매수인이 지정한 장소에 반입함으로써 인도(반입된 차량으로부터 양륙할 의무는 없음)",
+      "매도인이 지정 운송인에 인도한 물품에 대해 매수인이 수출통관의무 부담"
+    ],
+    "answer": 3,
+    "explanation": "[66 무역결제/Incoterms 2010]\n해설: Incoterms 2010 중 EXW, DDP 규칙을 제외한 나머지 규칙에서는 수출통관은 매도인이, 수입통관은 매수인이 한다."
+  },
+  {
+    "id": 67,
+    "subject": 3,
+    "passage": "",
+    "stem": "67 무역계약에서 수량조건에 대한 설명으로 옳지 않은 것은?",
+    "options": [
+      "수량을 표시하는 용어는 Piece, Length, Measurement, weight, package 등이 있다.",
+      "용적을 표시하는 용어는 CBM, TEU, Liter, Square, Drum 등이 있다.",
+      "중량 1톤을 영국계에서는 1,016kg, 미국계는 907kg이며 유럽계는 1,000kg으로 사용한다.",
+      "UCP 600에는 산화물의 과부족 용인에 대해 어음발행 금액이 신용장금액을 초과하지 않는 범위 내에서 5%의 과부족을 허용하는 규정을 두고 있다."
+    ],
+    "answer": 1,
+    "explanation": "[67 무역계약/수량조건]\n해설: Square는 용적(부피)이 아니라 넓이(면적)를 측정할 때 사용하는 수량단위이다."
+  },
+  {
+    "id": 68,
+    "subject": 3,
+    "passage": "",
+    "stem": "68 운임에 관한 설명으로 옳지 않은 것은?",
+    "options": [
+      "Port Congestion Surcharge - 도착항에 체선(滯船)이 있어 선박의 가동률이 저하되는 경우에 발생하는 선사의 손해를 화주에게 전가하기 위하여 부과하는 할증요금",
+      "Bunker Adjustment Factor - 선박의 연료인 벙커유의 가격변동에 따른 손실을 보전하기 위하여 부과하는 할증요금",
+      "Lump Sum Charge - 선적할 때에 지정하였던 양륙항을 선적 후에 변경할 경우에 추가로 부과되는 운임",
+      "Transhipment Charge - 화주가 환적을 요청하는 경우에 선사가 그에 따른 추가비용을 보전하기 위하여 부과하는 운임"
+    ],
+    "answer": 2,
+    "explanation": "[68 무역운송/해상화물 운임]\n해설: Lump-Sum Charge(총괄운임/선복운임)는 선복 또는 항해를 단위로 하여 포괄적으로 적용하는 운임으로, 용선자는 공적운임에 대해서도 계약운임의 전액을 지급해야 한다."
+  },
+  {
+    "id": 69,
+    "subject": 3,
+    "passage": "",
+    "stem": "69 Incoterms 2010의 사용법에 대한 내용으로 옳지 않은 것은?",
+    "options": [
+      "Incoterms 2010 규칙을 적용하고자 하는 경우, 그러한 취지를 계약에서 명확히 하여야 한다.",
+      "선택된 Incoterms 규칙은 당해 물품과 운송방법에 적합한 것이어야 한다.",
+      "Incoterms 규칙은 매매대금이나 그 지급방법 등과 관련 매도인과 매수인의 부담을 명확히 규정하고 있다.",
+      "Incoterms 규칙보다 국내법의 강행규정이 우선한다."
+    ],
+    "answer": 2,
+    "explanation": "[69 무역결제/Incoterms 2010]\n해설: Incoterms 규칙은 매매대금이나 그 지급 방법, 물품의 소유권 이전이나 계약위반에 따른 결과에 대한 내용도 다루지 않는다. 이런 문제는 당해 매매계약상 명시된 규칙이나 그 준거법에 따라 처리된다."
+  },
+  {
+    "id": 70,
+    "subject": 3,
+    "passage": "",
+    "stem": "70 해상화물을 컨테이너 방식으로 선적할 때 이에 대한 설명으로 옳지 않은 것은?",
+    "options": [
+      "운송계약의 청약에 해당하는 선복요청서와 승낙에 해당하는 인수확인서에 의해서 실제적인 운송계약이 성립한다.",
+      "FCL 화물인 경우에 수출상의 공장 또는 창고에서 화주의 책임하에 컨테이너에 화물을 적재한다.",
+      "구체적인 선적일정에 의해 본선이 입항하면 컨테이너는 CY에서 마샬링야드(Marshalling Yard)로 이송되어 본선적재가 이루어진다.",
+      "LCL 화물인 경우 화물인수도증을 근거로 운송주선인은 개별화주에게 Master B/L을 발급해 줄 수 있다."
+    ],
+    "answer": 3,
+    "explanation": "[70 무역운송/컨테이너운송]\n해설: 운송주선인은 선사가 발행한 집단 선하증권(Master B/L)을 근거로 개별화주에게 혼재 선하증권(House B/L)을 발급해 줄 수 있다."
+  },
+  {
+    "id": 71,
+    "subject": 3,
+    "passage": "",
+    "stem": "71 무역운송을 이해하는 데 가장 기초를 이루는 해상운송에 대한 설명으로 옳지 않은 것은?",
+    "options": [
+      "해상운송계약은 정기선에 의한 개품운송계약과 부정기선에 의한 용선운송계약으로 나눈다.",
+      "개품운송에 사용되는 운송서류로는 선하증권과 해상화물운송장이 있다.",
+      "용선자가 제3자의 화물을 운송하는 경우에 화주에게 용선계약부 선하증권을 발급해 줄 수 있다.",
+      "신용장이 용선계약부 선하증권과 관련하여 용선계약서 제시를 요구하는 경우에는 은행은 반드시 용선계약서를 심사해야 한다."
+    ],
+    "answer": 3,
+    "explanation": "[71 무역결제/해상운송]\n해설: 은행은 비록 신용장의 조건에 의해 용선계약서의 제시가 요구되더라도 용선계약서를 심사하지 않는다."
+  },
+  {
+    "id": 72,
+    "subject": 3,
+    "passage": "개별계약서에는 <span class=\"blank-line\">( ⓐ )</span> 등을 명기한다. 포괄계약서에는 <span class=\"blank-line\">( ⓑ )</span> 등이 명기된다. 포괄계약과 개별계약은 상호보완적이며, 서로 모순될 경우 <span class=\"blank-line\">( ⓒ )</span> 내용이 우선한다.",
+    "stem": "72 개별계약과 포괄계약의 내용 및 상호관계에 대한 설명이다. (ⓐ), (ⓑ), (ⓒ)안에 들어갈 용어로 올바르게 연결한 것은?",
+    "options": [
+      "ⓐ 단가, ⓑ 청약 및 주문의 방식, ⓒ 개별계약",
+      "ⓐ 청약 및 주문의 방식, ⓑ 선적일의 증명방법, ⓒ 개별계약",
+      "ⓐ 인도시기, ⓑ 수량, ⓒ 포괄계약",
+      "ⓐ 품명, ⓑ 불가항력조항, ⓒ 포괄계약"
+    ],
+    "answer": 0,
+    "explanation": "[72 무역계약/개별계약과 포괄계약]\n해설: 개별계약서에는 단가 등을 명기하고, 포괄계약서에는 청약 및 주문의 방식 등이 명기되어야 한다. 만약 포괄계약과 개별계약이 서로 모순될 경우 개별계약의 내용이 우선한다."
+  },
+  {
+    "id": 73,
+    "subject": 3,
+    "passage": "㉠ available with JAKARTA BANK by SIGHT PAYMENT\n㉡ available with JAKARTA BANK by ACCEPTANCE\n㉢ available with JAKARTA BANK by DEFERRED PAYMENT\n㉣ available with ANY BANK by NEGOTIATION\n㉤ available with JAKARTA BANK by NEGOTIATION",
+    "stem": "73 리네고(재매입)가 발생할 수 있는 신용장으로 올바르게 짝지은 것은?",
+    "options": [
+      "㉠, ㉡, ㉢",
+      "㉠, ㉡, ㉢, ㉤",
+      "㉡, ㉢, ㉣",
+      "㉢, ㉣, ㉤"
+    ],
+    "answer": 1,
+    "explanation": "[73 무역결제/신용장]\n해설: ㉠, ㉡, ㉢, ㉤은 지정은행(JAKARTA BANK)이 지정되어 있어 국내 거래은행에서 먼저 매입(Nego)한 뒤 지정은행으로 서류를 송부하여 리네고(재매입)가 발생할 수 있는 신용장이다. 반면 ㉣ \"Available with ANY BANK by NEGOTIATION\"은 자유매입 신용장으로, 매입은행에 아무런 제한이 없어 리네고(재매입)가 발생하지 않는다."
+  },
+  {
+    "id": 74,
+    "subject": 3,
+    "passage": "",
+    "stem": "74 송화인의 요구에 따라 항공사, 송화인 또는 대리인이 선불한 비용을 수화인으로부터 징수하는 금액은?",
+    "options": [
+      "THC",
+      "CFS Charge",
+      "Documentation Fee",
+      "Disbursement Fee"
+    ],
+    "answer": 3,
+    "explanation": "[74 무역운송/해상화물 운임]\n해설: 입체지불 수수료(Disbursement Fee)에 대한 설명이다.\n★더 알아보기\n• THC(Terminal Handling Charge): 항공화물이 수출 및 수입통관을 위하여 항공사 직영의 보세장치장에 반입되었을 때 화주들에게 부담시키는 화물조작료이다.\n• CFS Charge: LCL화물을 CFS에서 혼적 또는 분류하는 데 발생하는 비용이다.\n• Documentation Fee(서류발급비): 선적 서류와 관련하여 서류 작성에 따른 비용으로, 선사에서 선하증권(B/L) 및 화물 인도지시서(D/O) 발급 시 소요되는 행정 비용을 보전하기 위해 부가하는 비용이다."
+  },
+  {
+    "id": 75,
+    "subject": 3,
+    "passage": "",
+    "stem": "75 청약의 요건으로 옳지 않은 것은?",
+    "options": [
+      "1인 혹은 그 이상의 특정인에 대한 의사표시일 것",
+      "물품의 표시, 대금 및 수량에 관하여 충분히 확정적인 의사표시일 것",
+      "승낙이 있는 경우 이에 구속된다는 의사표시가 있을 것",
+      "상대방의 거래문의에 대한 응답으로 절대적이고 무조건적인 거래개설의 의사표시"
+    ],
+    "answer": 3,
+    "explanation": "[75 무역계약/청약의 요건]\n해설: 청약의 요건에는 '1인 이상의 특정인에 대한 의사표시', '계약의 내용을 결정할 수 있을 정도의 사항을 포함하는 구체적·확정적 의사표시', '승낙이 있는 경우 이에 구속된다는 의사표시'가 있다."
+  }
+];
