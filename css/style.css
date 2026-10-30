@@ -1,0 +1,815 @@
+:root {
+  --kcci-navy: #0b2545;
+  --kcci-blue: #134074;
+  --kcci-accent: #d90429;
+  --border-gray: #b8c2cc;
+  --bg-gray: #e9ecef;
+  --paper-bg: #ffffff;
+  --text-dark: #111827;
+  --font-scale: 1;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+}
+
+body {
+  font-family: "Malgun Gothic", "맑은 고딕", -apple-system, BlinkMacSystemFont, Dotum, "돋움", sans-serif;
+  background: var(--bg-gray);
+  color: var(--text-dark);
+  height: 100vh;
+  height: 100dvh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+/* 지문 및 문제 내 밑줄(Underline) 강조 스타일 (시험 공식 포맷 완벽 보존) */
+u {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+  text-decoration-color: #0f172a;
+  font-weight: 700;
+  background: rgba(254, 240, 138, 0.4);
+  padding: 0 2px;
+}
+
+.blank-line {
+  display: inline-block;
+  min-width: 90px;
+  border-bottom: 2px solid #0f172a;
+  text-align: center;
+  font-weight: 700;
+  padding: 0 6px;
+  margin: 0 2px;
+}
+
+/* 1. 시험 시작 전 대기실 (모달 화면) */
+#lobbyScreen {
+  position: fixed;
+  inset: 0;
+  background: #dfe6ed;
+  z-index: 999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  overflow-y: auto;
+}
+
+.lobby-card {
+  background: #fff;
+  width: 100%;
+  max-width: 860px;
+  border: 2px solid var(--kcci-navy);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.22);
+  display: flex;
+  flex-direction: column;
+  max-height: 94vh;
+}
+
+.lobby-header {
+  background: var(--kcci-navy);
+  color: #fff;
+  padding: 16px 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.lobby-header h1 {
+  font-size: 1.25rem;
+  font-weight: 800;
+}
+
+.lobby-body {
+  padding: 24px;
+  overflow-y: auto;
+  flex: 1;
+}
+
+/* 회차 선택 영역 */
+.exam-select-box {
+  background: #f1f5f9;
+  border: 2px solid var(--kcci-blue);
+  border-radius: 4px;
+  padding: 16px 20px;
+  margin-bottom: 20px;
+}
+
+.exam-select-label {
+  display: block;
+  font-size: 0.95rem;
+  font-weight: 800;
+  color: var(--kcci-navy);
+  margin-bottom: 8px;
+}
+
+.exam-select-dropdown {
+  width: 100%;
+  padding: 12px 14px;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--kcci-navy);
+  border: 2px solid #94a3b8;
+  border-radius: 4px;
+  background: #fff;
+  cursor: pointer;
+  outline: none;
+}
+
+.exam-select-dropdown:focus {
+  border-color: var(--kcci-blue);
+  box-shadow: 0 0 0 3px rgba(19, 64, 116, 0.2);
+}
+
+.candidate-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 18px;
+  font-size: 0.92rem;
+}
+
+.candidate-table th,
+.candidate-table td {
+  border: 1px solid #cbd5e1;
+  padding: 10px 14px;
+  text-align: left;
+}
+
+.candidate-table th {
+  background: #f1f5f9;
+  width: 18%;
+  font-weight: 700;
+  color: var(--kcci-navy);
+}
+
+.notice-box {
+  background: #f8fafc;
+  border: 1px solid #cbd5e1;
+  padding: 14px 18px;
+  font-size: 0.88rem;
+  line-height: 1.65;
+  margin-bottom: 18px;
+  max-height: 180px;
+  overflow-y: auto;
+}
+
+.notice-box ol {
+  padding-left: 20px;
+}
+
+.lobby-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 14px;
+  border-top: 1px solid #e2e8f0;
+  flex-shrink: 0;
+  gap: 12px;
+}
+
+.btn-start-exam {
+  background: var(--kcci-blue);
+  color: #fff;
+  border: none;
+  padding: 12px 28px;
+  font-size: 1rem;
+  font-weight: 800;
+  cursor: pointer;
+  border-radius: 2px;
+  transition: background 0.15s;
+}
+
+.btn-start-exam:hover:not(:disabled) {
+  background: #0f3057;
+}
+
+.btn-start-exam:disabled {
+  background: #94a3b8;
+  cursor: not-allowed;
+}
+
+.btn-history-open {
+  background: #fff;
+  color: var(--kcci-navy);
+  border: 1px solid #94a3b8;
+  padding: 11px 18px;
+  font-size: 0.92rem;
+  font-weight: 700;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.btn-history-open:hover {
+  background: #f1f5f9;
+}
+
+/* 2. 상단 공식 CBT 헤더 */
+.cbt-header {
+  background: var(--kcci-navy);
+  color: #fff;
+  height: 58px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 16px;
+  border-bottom: 3px solid #1d4ed8;
+  flex-shrink: 0;
+  z-index: 10;
+}
+
+.cbt-brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.kcci-logo {
+  background: #fff;
+  color: var(--kcci-navy);
+  font-weight: 900;
+  padding: 4px 10px;
+  font-size: 0.88rem;
+  border-radius: 2px;
+  letter-spacing: -0.5px;
+}
+
+.exam-title {
+  font-size: 1.05rem;
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+.cbt-info-bar {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 0.85rem;
+}
+
+.info-pill {
+  background: rgba(255, 255, 255, 0.12);
+  padding: 5px 10px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  white-space: nowrap;
+}
+
+.tool-group {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+}
+
+.tool-btn {
+  background: #1e3a8a;
+  color: #fff;
+  border: 1px solid #60a5fa;
+  padding: 4px 8px;
+  font-size: 0.78rem;
+  cursor: pointer;
+  border-radius: 2px;
+}
+
+.tool-btn.active {
+  background: #fff;
+  color: var(--kcci-navy);
+  font-weight: 700;
+}
+
+.official-timer {
+  background: #000;
+  color: #22c55e;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 900;
+  font-size: 1.15rem;
+  padding: 5px 12px;
+  border: 1px solid #475569;
+  letter-spacing: 1px;
+  white-space: nowrap;
+}
+
+.official-timer.warning {
+  color: #ef4444;
+  animation: timerBlink 1s infinite alternate;
+}
+
+@keyframes timerBlink {
+  from { opacity: 1; }
+  to { opacity: 0.6; }
+}
+
+/* 3. 서브 과목 바 */
+.subject-bar {
+  background: #dbe4ee;
+  border-bottom: 1px solid var(--border-gray);
+  height: 42px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 16px;
+  flex-shrink: 0;
+  z-index: 5;
+}
+
+.sub-tabs {
+  display: flex;
+  gap: 4px;
+  height: 100%;
+  align-items: flex-end;
+}
+
+.sub-tab {
+  padding: 8px 18px;
+  background: #cbd5e1;
+  border: 1px solid #94a3b8;
+  border-bottom: none;
+  font-size: 0.86rem;
+  font-weight: 700;
+  color: #334155;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.sub-tab.active {
+  background: #fff;
+  color: var(--kcci-navy);
+  border-top: 3px solid var(--kcci-blue);
+  font-weight: 800;
+}
+
+.progress-summary {
+  font-size: 0.84rem;
+  font-weight: 700;
+  color: #1e293b;
+}
+
+/* 4. 메인 시험 영역 (좌측 시험지 + 우측 OMR 답안지) */
+.cbt-workspace {
+  flex: 1;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+}
+
+.paper-pane {
+  flex: 1;
+  background: var(--paper-bg);
+  overflow-y: auto;
+  padding: 24px 32px;
+  font-size: calc(1rem * var(--font-scale));
+  -webkit-overflow-scrolling: touch;
+}
+
+.paper-inner {
+  max-width: 920px;
+  margin: 0 auto;
+}
+
+.paper-inner.split-mode {
+  max-width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 28px;
+  align-items: start;
+}
+
+.q-header-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid var(--kcci-navy);
+  padding-bottom: 10px;
+  margin-bottom: 16px;
+}
+
+.q-num-title {
+  font-size: calc(1.15rem * var(--font-scale));
+  font-weight: 800;
+  color: var(--kcci-navy);
+}
+
+.btn-flag {
+  background: #f8fafc;
+  border: 1px solid #94a3b8;
+  padding: 6px 14px;
+  font-size: 0.84rem;
+  font-weight: 700;
+  cursor: pointer;
+  border-radius: 2px;
+  transition: background 0.15s;
+}
+
+.btn-flag.flagged {
+  background: #fef08a;
+  border-color: #eab308;
+  color: #854d0e;
+}
+
+.passage-container {
+  background: #f8fafc;
+  border: 1px solid #94a3b8;
+  padding: 18px 20px;
+  margin-bottom: 18px;
+  line-height: 1.75;
+  white-space: pre-wrap;
+  font-size: calc(0.96rem * var(--font-scale));
+  user-select: text;
+}
+
+.stem-text {
+  font-weight: 700;
+  line-height: 1.65;
+  margin-bottom: 18px;
+  white-space: pre-wrap;
+  font-size: calc(1.05rem * var(--font-scale));
+  user-select: text;
+}
+
+.choices-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.choice-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 12px 16px;
+  border: 1px solid #cbd5e1;
+  background: #fff;
+  cursor: pointer;
+  line-height: 1.55;
+  font-size: calc(0.98rem * var(--font-scale));
+  border-radius: 3px;
+  transition: background 0.1s, border-color 0.1s;
+}
+
+.choice-row:hover {
+  background: #f1f5f9;
+  border-color: var(--kcci-blue);
+}
+
+.choice-row.selected {
+  background: #e0f2fe;
+  border: 2px solid var(--kcci-blue);
+  font-weight: 700;
+}
+
+.choice-circle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  border: 1.5px solid #334155;
+  font-size: 0.82rem;
+  font-weight: 700;
+  background: #fff;
+  color: #0f172a;
+  margin-top: 1px;
+  flex-shrink: 0;
+}
+
+.choice-row.selected .choice-circle {
+  background: #0f172a;
+  color: #fff;
+  border-color: #0f172a;
+}
+
+/* 우측 공식 OMR 카드 패널 */
+.omr-pane {
+  width: 295px;
+  background: #f1f5f9;
+  border-left: 2px solid var(--border-gray);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  z-index: 8;
+}
+
+.omr-header {
+  background: var(--kcci-blue);
+  color: #fff;
+  padding: 9px 12px;
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.omr-filter-bar {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  border-bottom: 1px solid var(--border-gray);
+  flex-shrink: 0;
+}
+
+.omr-filter-btn {
+  background: #e2e8f0;
+  border: none;
+  border-right: 1px solid #cbd5e1;
+  padding: 8px 4px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.omr-filter-btn:last-child {
+  border-right: none;
+}
+
+.omr-filter-btn.active {
+  background: #fff;
+  color: var(--kcci-blue);
+  font-weight: 800;
+}
+
+.omr-list {
+  flex: 1;
+  overflow-y: auto;
+  padding: 6px;
+  -webkit-overflow-scrolling: touch;
+}
+
+.omr-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 6px 8px;
+  border-bottom: 1px solid #e2e8f0;
+  background: #fff;
+  font-size: 0.84rem;
+  cursor: pointer;
+  transition: background 0.1s;
+}
+
+.omr-row:hover {
+  background: #f8fafc;
+}
+
+.omr-row.current {
+  background: #dbeafe;
+  outline: 2px solid var(--kcci-blue);
+}
+
+.omr-qnum {
+  width: 58px;
+  font-weight: 700;
+  color: #1e293b;
+  display: flex;
+  align-items: center;
+  gap: 3px;
+}
+
+.omr-bubbles {
+  display: flex;
+  gap: 8px;
+}
+
+.omr-bubble {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  border: 1px solid #64748b;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.78rem;
+  font-weight: 700;
+  background: #fff;
+  color: #334155;
+  cursor: pointer;
+  transition: all 0.1s;
+}
+
+.omr-bubble.marked {
+  background: #0f172a;
+  color: #fff;
+  border-color: #0f172a;
+}
+
+/* 5. 하단 공식 컨트롤 바 */
+.cbt-footer {
+  height: 56px;
+  background: #cbd5e1;
+  border-top: 2px solid #94a3b8;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 16px;
+  flex-shrink: 0;
+  gap: 12px;
+  z-index: 10;
+}
+
+.nav-btn-group {
+  display: flex;
+  gap: 8px;
+}
+
+.cbt-btn {
+  background: #fff;
+  border: 1px solid #475569;
+  padding: 9px 18px;
+  font-size: 0.88rem;
+  font-weight: 700;
+  cursor: pointer;
+  color: #0f172a;
+  border-radius: 2px;
+}
+
+.cbt-btn:hover:not(:disabled) {
+  background: #e2e8f0;
+}
+
+.cbt-btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.cbt-btn-submit {
+  background: var(--kcci-accent);
+  color: #fff;
+  border: 1px solid #991b1b;
+  padding: 10px 24px;
+  font-size: 0.92rem;
+  font-weight: 800;
+  cursor: pointer;
+  border-radius: 2px;
+}
+
+.cbt-btn-submit:hover {
+  background: #b91c1c;
+}
+
+/* 6. 시험 종료 후 채점 결과 및 해설 화면 */
+#reviewScreen {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: #f1f5f9;
+  z-index: 950;
+  overflow-y: auto;
+  padding: 24px;
+  -webkit-overflow-scrolling: touch;
+}
+
+.review-wrap {
+  max-width: 1020px;
+  margin: 0 auto;
+  background: #fff;
+  border: 2px solid var(--kcci-navy);
+  padding: 28px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+.review-header-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid var(--kcci-navy);
+  padding-bottom: 14px;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.score-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0 28px 0;
+  text-align: center;
+}
+
+.score-table th,
+.score-table td {
+  border: 1px solid #94a3b8;
+  padding: 12px;
+}
+
+.score-table th {
+  background: #e2e8f0;
+  font-weight: 700;
+}
+
+.sol-card {
+  border: 1px solid #cbd5e1;
+  margin-bottom: 18px;
+  padding: 18px 20px;
+  background: #fff;
+  border-radius: 2px;
+}
+
+.sol-card.correct {
+  border-left: 6px solid #16a34a;
+}
+
+.sol-card.wrong {
+  border-left: 6px solid #dc2626;
+}
+
+.pdf-sol-block {
+  margin-top: 12px;
+  background: #f8fafc;
+  border: 1px solid #cbd5e1;
+  padding: 14px 16px;
+  font-size: 0.9rem;
+  line-height: 1.65;
+  white-space: pre-wrap;
+  user-select: text;
+}
+
+/* 7. 응시 기록함 모달 (History Modal) */
+#historyModal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(15, 23, 42, 0.65);
+  z-index: 1000;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+}
+
+.history-card {
+  background: #fff;
+  width: 100%;
+  max-width: 860px;
+  max-height: 90vh;
+  border: 2px solid var(--kcci-navy);
+  display: flex;
+  flex-direction: column;
+}
+
+.history-header {
+  background: var(--kcci-navy);
+  color: #fff;
+  padding: 14px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.history-body {
+  padding: 20px;
+  overflow-y: auto;
+  flex: 1;
+}
+
+.history-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.88rem;
+  text-align: center;
+}
+
+.history-table th,
+.history-table td {
+  border: 1px solid #cbd5e1;
+  padding: 10px 8px;
+}
+
+.history-table th {
+  background: #f1f5f9;
+  font-weight: 700;
+  color: var(--kcci-navy);
+}
+
+.history-table tr:hover td {
+  background: #f8fafc;
+}
+
+
+/* Source-checked question formatting, rounds 115-119. */
+.formatted-question { overflow-wrap: break-word; }
+.passage-container.formatted-question,
+.formatted-question .passage-container,
+.stem-text.formatted-question { white-space: normal; }
+.formatted-question p { margin: 0 0 0.9em; }
+.formatted-question p:last-child { margin-bottom: 0; }
+.formatted-question u { font-weight: inherit; background: transparent; padding: 0; color: inherit; text-decoration: underline; text-underline-offset: 0.18em; text-decoration-thickness: 1.3px; text-decoration-skip-ink: none; }
+.formatted-question .choice-row > span:last-child { min-width: 0; }
+.exam-table-wrap { width: 100%; overflow-x: auto; margin: .5em 0; }
+.exam-data-table { width: 100%; border-collapse: collapse; table-layout: fixed; background: #fff; font-size: .94em; }
+.exam-data-table th, .exam-data-table td { border: 1px solid #64748b; padding: .65em .6em; vertical-align: middle; text-align: center; line-height: 1.65; word-break: normal; overflow-wrap: break-word; }
+.exam-data-table th { background: #eef2f6; font-weight: 700; }
+.exam-data-table th:first-child { width: 23%; }
+.answer-blank { display: inline-block; width: 5em; height: 1em; border-bottom: 1.3px solid currentColor; vertical-align: baseline; margin: 0 .2em; }
+@media (max-width: 480px) {
+ .exam-data-table th, .exam-data-table td { padding: .5em .35em; font-size: .9em; }
+ .formatted-question .passage-container, .passage-container.formatted-question { padding: 14px 12px; }
+ .sol-card.formatted-question > div:first-child { gap: .65em; align-items: flex-start; }
+ .sol-card.formatted-question > div:first-child > span:last-child { white-space: nowrap; }
+}
+
+.exam-letter-closing { text-align: right; }
