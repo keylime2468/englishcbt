@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>대한상공회의소 자격평가사업단 - 무역영어 1급 공식 CBT 기출문제 시스템 (제111회~제119회)</title>
+  
+  <!-- CBT Stylesheets -->
+  <link rel="stylesheet" href="css/style.css?v=20261026-text3" />
+  <link rel="stylesheet" href="css/tablet.css" />
+</head>
+<body>
+
+<!-- 1. 수험자 대기실 및 회차 선택 (모달 화면) -->
+<div id="lobbyScreen">
+  <div class="lobby-card">
+    <div class="lobby-header">
+      <h1>대한상공회의소 자격평가사업단 | 무역영어 1급 상시 CBT 시스템</h1>
+      <span id="lobbyRoundTitle" style="font-weight:700;">제111회 (2018년 제1회 기출)</span>
+    </div>
+    <div class="lobby-body">
+      <!-- 기출 시험 선택 영역 (맨 처음 스크린에서만 선택 가능) -->
+      <div class="exam-select-box">
+        <label for="examRoundSelect" class="exam-select-label">
+          📚 응시할 기출문제 회차 선택 (제111회 ~ 제119회 전수 탑재)
+        </label>
+        <select id="examRoundSelect" class="exam-select-dropdown" onchange="App.onSelectRound(this.value)">
+          <!-- manifest.js 데이터를 기반으로 동적 생성됨 -->
+        </select>
+        <div id="lobbyRoundDesc" style="font-size:0.86rem; color:#475569; margin-top:8px;">
+          대한상공회의소 무역영어 1급 공식 기출문제 및 정답
+        </div>
+      </div>
+
+      <table class="candidate-table">
+        <tr>
+          <th>검정종목 / 등급</th>
+          <td>무역영어 1급 (A형)</td>
+          <th>시험시간 / 문항수</th>
+          <td>총 90분 / 객관식 4지선다형 75문항</td>
+        </tr>
+        <tr>
+          <th>수험번호</th>
+          <td id="candidateExamNum">2020-112-00101</td>
+          <th>성 명</th>
+          <td>수험자 (본인 확인 완료)</td>
+        </tr>
+        <tr>
+          <th>과목 구성</th>
+          <td colspan="3">제1과목: 영문해석(1~25번) / 제2과목: 영작문(26~50번) / 제3과목: 무역실무(51~75번)</td>
+        </tr>
+        <tr>
+          <th>합격 기준</th>
+          <td colspan="3">매 과목 100점 만점에 과목당 40점 이상, 전 과목 평균 60점 이상 (과락 기준 준수)</td>
+        </tr>
+      </table>
+
+      <div class="notice-box">
+        <strong>[응시자 유의사항]</strong>
+        <ol>
+          <li>응시자 유의사항을 준수하지 않아 발생한 모든 책임은 응시자에게 있습니다.</li>
+          <li>기출 회차 선택은 시험 시작 전 <strong>대기실 화면에서만</strong> 가능하며, 시험이 시작되면 다른 회차로 변경할 수 없습니다.</li>
+          <li>[시험 시작] 버튼을 누르면 즉시 90분(90:00) 카운트다운이 시작되며, 제한시간 만료 시 작성한 답안이 자동 제출됩니다.</li>
+          <li>문항 풀이 중 우측 OMR 답안 표기란을 클릭하여 원하는 문항으로 즉시 이동하거나 답안을 직접 표기할 수 있습니다.</li>
+          <li>태블릿 기기(iPad, Galaxy Tab)에서는 우측 하단의 [📋 OMR 답안지] 플로팅 버튼을 눌러 슬라이드 드로어로 OMR을 열고 닫을 수 있으며, 좌우 스와이프로 문항을 이동할 수 있습니다.</li>
+          <li>다시 확인하고 싶은 문항은 문제 상단의 [☆ 다시 보기 체크] 버튼을 눌러 표시해 둘 수 있습니다.</li>
+          <li>시험 진행 중에는 정답 및 해설이 제공되지 않으며, [답안 제출] 완료 후 성적표와 함께 기출문제집 원문 정답 및 상세 해설을 확인하실 수 있습니다.</li>
+          <li>응시 결과는 웹 브라우저(localStorage)에 영구 저장되어 [응시 기록함]을 통해 언제든지 지난 성적표와 오답 노트를 열람하실 수 있습니다.</li>
+        </ol>
+      </div>
+
+      <div class="lobby-footer">
+        <div style="display:flex; align-items:center; gap:16px;">
+          <label style="font-weight:700; cursor:pointer; font-size:0.92rem; display:flex; align-items:center; gap:6px;">
+            <input type="checkbox" id="agreeChk" onchange="document.getElementById('btnStart').disabled = !this.checked" />
+            위 응시자 유의사항을 모두 확인하였으며 이에 동의합니다.
+          </label>
+          <button class="btn-history-open" onclick="UI.showHistoryModal()">
+            📂 이전 응시 기록함
+          </button>
+        </div>
+        <button class="btn-start-exam" id="btnStart" disabled onclick="App.startOfficialExam()">시험 시작 ▶</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 2. 상단 공식 CBT 헤더 -->
+<header class="cbt-header">
+  <div class="cbt-brand">
+    <span class="kcci-logo">대한상공회의소</span>
+    <span class="exam-title" id="examHeaderTitle">공인민간자격검정 무역영어 1급 (제111회 A형)</span>
+  </div>
+  <div class="cbt-info-bar">
+    <div class="info-pill">수험번호: <strong>2020-00101</strong></div>
+    <div class="tool-group">
+      <span style="font-size:0.78rem; margin-right:2px;">글자크기</span>
+      <button class="tool-btn" id="zoom85" onclick="UI.setFontScale(0.88, 'zoom85')">가-</button>
+      <button class="tool-btn active" id="zoom100" onclick="UI.setFontScale(1, 'zoom100')">100%</button>
+      <button class="tool-btn" id="zoom115" onclick="UI.setFontScale(1.15, 'zoom115')">가+</button>
+    </div>
+    <div class="tool-group">
+      <span style="font-size:0.78rem; margin-right:2px;">화면배치</span>
+      <button class="tool-btn active" id="layoutSingle" onclick="UI.setLayoutMode(false)">1단</button>
+      <button class="tool-btn" id="layoutSplit" onclick="UI.setLayoutMode(true)">2단 분할</button>
+    </div>
+    <div class="official-timer" id="countdownDisplay" title="남은 시험 시간 (90분)">남은시간 90:00</div>
+  </div>
+</header>
+
+<!-- 3. 과목 탭 및 응시 현황 바 -->
+<div class="subject-bar">
+  <div class="sub-tabs">
+    <button class="sub-tab active" id="subTab1" onclick="App.jumpToQuestion(0)">제1과목: 영문해석 (01~25)</button>
+    <button class="sub-tab" id="subTab2" onclick="App.jumpToQuestion(25)">제2과목: 영작문 (26~50)</button>
+    <button class="sub-tab" id="subTab3" onclick="App.jumpToQuestion(50)">제3과목: 무역실무 (51~75)</button>
+  </div>
+  <div class="progress-summary" id="progressStat">총 75문항 중 0문항 표기 | 미표기 75문항</div>
+</div>
+
+<!-- 4. 메인 CBT 워크스페이스 (좌측 문제지 / 우측 OMR 카드) -->
+<div class="cbt-workspace">
+  <div class="paper-pane">
+    <div class="paper-inner" id="paperInner">
+      <div id="leftCol">
+        <div class="q-header-line">
+          <span class="q-num-title" id="qHeaderTitle">제1과목 영문해석 - 문항 01</span>
+          <button class="btn-flag" id="btnFlag" onclick="App.toggleFlagCurrent()">☆ 다시 보기 체크</button>
+        </div>
+        <!-- 지문 영역 (밑줄 <u>, <span class="blank-line"> 태그 100% 보존) -->
+        <div class="passage-container" id="qPassageBox" style="display:none;"></div>
+      </div>
+      <div id="rightCol">
+        <!-- 문제 발문 -->
+        <div class="stem-text" id="qStemBox"></div>
+        <!-- 4지선다 보기 -->
+        <div class="choices-list" id="qChoicesBox"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 우측 공식 OMR 답안 표기란 -->
+  <aside class="omr-pane">
+    <div class="omr-header">답안 표기란 (OMR)</div>
+    <div class="omr-filter-bar">
+      <button class="omr-filter-btn active" id="omrFilterAll" onclick="App.setOmrFilter('all')">전체(75)</button>
+      <button class="omr-filter-btn" id="omrFilterUnanswered" onclick="App.setOmrFilter('unanswered')">미표기</button>
+      <button class="omr-filter-btn" id="omrFilterFlagged" onclick="App.setOmrFilter('flagged')">★체크</button>
+    </div>
+    <div class="omr-list" id="omrListContainer"></div>
+  </aside>
+</div>
+
+<!-- 태블릿/모바일 플로팅 OMR 버튼 및 오프캔버스 오버레이 -->
+<button class="btn-toggle-omr-floating" id="btnFloatingOmr" onclick="UI.toggleOmrDrawer()">
+  📋 OMR 답안지 (0/75)
+</button>
+<div class="omr-drawer-overlay" id="omrDrawerOverlay" onclick="UI.toggleOmrDrawer(false)"></div>
+
+<!-- 5. 하단 공식 컨트롤 바 -->
+<footer class="cbt-footer">
+  <div class="nav-btn-group">
+    <button class="cbt-btn" id="btnPrevQ" onclick="App.moveQuestion(-1)">◀ 이전 문제</button>
+    <button class="cbt-btn" id="btnNextQ" onclick="App.moveQuestion(1)">다음 문제 ▶</button>
+  </div>
+  <div style="font-size:0.84rem; color:#334155; font-weight:700;">
+    ※ 단축키: [← / →] 문항 이동, [1 ~ 4] 답안 마킹 (태블릿: 좌우 스와이프 제스처 지원)
+  </div>
+  <button class="cbt-btn-submit" onclick="App.submitOfficialExam()">답안 제출 및 시험 종료</button>
+</footer>
+
+<!-- 6. 시험 종료 후 채점 결과 및 정답·해설 확인 화면 -->
+<div id="reviewScreen">
+  <div class="review-wrap">
+    <div class="review-header-bar">
+      <h2 id="reviewHeaderRoundTitle" style="color:var(--kcci-navy); font-size:1.25rem; font-weight:800;">
+        무역영어 1급 기출시험 채점 결과 및 공식 해설
+      </h2>
+      <div style="display:flex; gap:8px; flex-wrap:wrap;">
+        <button class="cbt-btn" onclick="App.filterSolutions('all')">전 문항(75) 해설 보기</button>
+        <button class="cbt-btn" onclick="App.filterSolutions('wrong')">오답/미표기 문항만 보기</button>
+        <button class="cbt-btn" onclick="UI.showHistoryModal()">📂 응시 기록함</button>
+        <button class="cbt-btn" style="background:var(--kcci-blue); color:#fff; border-color:var(--kcci-navy);" onclick="App.restartExam()">
+          다른 회차 응시하기
+        </button>
+      </div>
+    </div>
+
+    <!-- 성적표 테이블 -->
+    <table class="score-table" id="scoreTable"></table>
+
+    <!-- 문항별 해설 카드 컨테이너 -->
+    <div id="solutionsContainer"></div>
+  </div>
+</div>
+
+<!-- 7. 이전 응시 기록함 모달 (History Modal) -->
+<div id="historyModal">
+  <div class="history-card">
+    <div class="history-header">
+      <h2 style="font-size:1.15rem; font-weight:800;">📂 무역영어 1급 기출 CBT 응시 기록함</h2>
+      <button class="cbt-btn" style="padding:4px 10px;" onclick="UI.closeHistoryModal()">✕ 닫기</button>
+    </div>
+    <div class="history-body" id="historyListContainer">
+      <!-- storage.js 데이터를 기반으로 동적 생성됨 -->
+    </div>
+  </div>
+</div>
+
+<!-- 기출 시험 데이터 파일들 (111회 ~ 119회 독립 모듈 로드) -->
+<script src="data/manifest.js?v=20261026-text3"></script>
+<script src="data/exams/exam_111.js?v=20261029-spacing"></script>
+<script src="data/exams/exam_112.js?v=20261029-spacing"></script>
+<script src="data/exams/exam_113.js"></script>
+<script src="data/exams/exam_114.js?v=20261029-spacing"></script>
+<script src="data/exams/exam_115.js?v=20261029-spacing"></script>
+<script src="data/exams/exam_116.js?v=20261026-text3"></script>
+<script src="data/exams/exam_117.js?v=20261029-spacing"></script>
+<script src="data/exams/exam_118.js?v=20261029-spacing"></script>
+<script src="data/exams/exam_119.js?v=20261029-spacing"></script>
+
+<!-- 웹 애플리케이션 스크립트 모듈들 -->
+<script src="js/storage.js"></script>
+<script src="js/ui.js"></script>
+<script src="js/app.js?v=20261026-text3"></script>
+
+<script>
+  window.addEventListener("DOMContentLoaded", () => {
+    if (window.App) {
+      window.App.init();
+    }
+  });
+</script>
+
+</body>
+</html>

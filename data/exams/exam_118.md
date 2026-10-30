@@ -1,0 +1,2102 @@
+# 무역영어 기출 제118회 - 텍스트 해설
+
+## 문항 01
+
+01 Followings are the clauses frequently used for a sales contract. Which of the following clauses LEAST represent ‘Entire Agreement’ between the seller and the buyer?
+
+
+
+- ① This Agreement together with the Plan supersedes any and all other prior understandings and agreements, either oral or in writing, between the parties with respect to the subject matter hereof and constitutes the sole and only agreement between the parties with respect to the said subject matter.
+- ② This Agreement alone fully and completely expresses the agreement of the parties relating to the subject matter hereof. There are no other courses of dealing, understanding, agreements, representations or warranties, written or oral, except as set forth herein.
+- ③ The failure of any party to require the performance of any term or obligation of this Agreement, or the waiver by any party of any breach of this Agreement, shall not prevent any subsequent enforcement of such term or obligation or be deemed a waiver of any subsequent breach.
+- ④ This Agreement is intended by the parties as a final expression of their agreement and intended to be a complete and exclusive statement of the agreement and understanding of the parties hereto in respect of the subject matter contained herein.
+
+정답: ③
+
+[해석]
+다음은 매매 계약에 자주 사용되는 조항들이 다 다음 조항 중 매도인과 매수인 간의'완전 합의(조항)'을 가장 잘 보여 주지 못하는 조항은 무엇인가?
+
+① Pan과 함께 본 합의는 이 문서의 내용과 관련된 당사자들 사이에, 구두 또는 서면으로 이루어진 이전의 모든 합의와 상호 이해를 대체하며, 언급된 내용과 관련된 당사자들 사이의 유일하고 단 하나인 합의를 이룬다.
+
+② 본 합의는 단독으로 이 문서의 내용과 관련된 당사자들의 합의를 충분하고 완전히 나타낸다. 이 문서에 명시된 경우를 제외하고 서면 또는 구두의 거래, 이해 합의, 진술 또는 보증의 다른 과정은 없다.
+
+③ 당사자가 본 합의의 어떠한 조건 혹은 의무의 이행을 요구하지 않는 것이나, 어떤 당사자의 본 합의에 대한 위반에 대한 (권리)포기가 해당 조건이나 의무의 후속적인 집행을 방해하거나 추후의 위반의 포기로 간주되어서는 안 된다.
+
+④ 본 합의는 그들의 합의의 최종적인 표현으로서 당사자들에 의해 의도되며 이 문서에 포함된 내용과 관련한 당사자들의 합의와 이해의 완전하고 배타적인 진술이 의도되었다.
+
+[해설]
+주어진 보기 중 틀린 것을 찾는 유형이다. 당사자 일방이 계약을 위반하는 경우 상대방이 이에 대해 이의를 제기하지 않았다는 것이 곧 어떠한 권리를 포기하는 것으로 해석되어서는 안 되며 권리의 포기는 서면으로 승인·확인한 경우에만 포기한 것으로 간주한다는 내용은 권리불포기조항이다. 따라서 답은 ③번이다.
+
+[어휘]
+supersede 대체하다. 대신하다 oral 구두의 hereof 이 문서의 constitute 구성하다 sole 유일한 warranty 보증 herein 이 문서에서 obligation 의무 waiver (권리)포기 breach 위반 intended 계획된 의도된 hereto 이것에, 여기에
+
+---
+
+## 문항 02
+
+02 What is the purpose of the following correspondence?
+
+<p>Dear Mr. Mike,</p>
+<p>We have organized a series of online coaching clinic for middle schools’ table tennis coaches this winter. For the virtual training, we would like to provide all registered participants with a tablet PC for interactive real-time communication. I saw a catalogue with my colleague showing your company’s ranges of tablets. We are planning to make an order for more than 1,000 sets at a time. Is there a discount package available for a bulk purchase? I will also like to know the minimum price if we order for 15 or more desktop PCs with webcam.</p>
+
+- ① Request for Proposal (RFP)
+- ② Request for Quotation (RFQ)
+- ③ Purchase Order
+- ④ Firm Offer
+
+정답: ②
+
+[해석]
+다음 서신의 목적은 무엇인가? Mr. Mike. 당사는 올 겨울 중학교 탁구 코치들을 위한 일련의 온라인 코칭 클리닉을 준비했습니다. 가상 교육을 위해. 당사는 등록된 모든 참가자들에게 대화형 실시간 의사소통을 위한 태블릿 PC를 제공하고자합니다 저는 제 동료와 함께 귀사의 태블릿 종류를 보여 주는 카탈로그를 보았습니다. 당사는 한 번에 1.000 세트 이상 주문을 할 예정입니다 대량 구매를 대상으로 이용할 수 있는 할인 패키지가 있습니까? 당사가 웹 캠이 달린 데스크톱 PC를 최소 15대 주문했을 경우의 그 최저가도 알고 싶습니다
+
+① 제안 요청
+
+② 견적 요청
+
+③ 구매 주문서
+
+④ 확정청약
+
+[해설]
+주어진 서신의 목적을 찾는 유형이다. 1,000세트 이상의 대량 구매 시 이용할 수 있는 할인 패키지의 유무와 웹캠이 달린 15대 이상의 데스크톱 PC 구매 시 최저가를 문의하고 있다. 따라서 답은 ②번이다.
+
+[어휘]
+virtual 가상의 registered 등록된 bulk 대량의 Request for Proposal(RFP) 제안 요구 Request for Quotation(RFQ) 견적 요청 Firm Offer 확정청약
+
+---
+
+## 문항 03
+
+03 Select the wrong explanation of definitions under the UCP 600.
+
+
+
+- ① Advising bank means the bank that advises the credit at the request of the issuing bank.
+- ② Applicant means the party on whose request the credit is issued.
+- ③ Beneficiary means the party in whose favour a credit is issued.
+- ④ Honour means to incur a deferred payment undertaking and pay at maturity if the credit is available by sight payment.
+
+정답: ④
+
+[해석]
+UCP 600 하에서 물린 정의 설명을 고르시오.
+
+① 통지은행은 개설은행의 요청에 따라 신용장을 통지하는 은행을 의미한다.
+
+② 개설의뢰인은 그의 요청에 의해 신용장이 개설되는 당사자를 의미한다.
+
+③ 수익자는 그를 위하여 신용장이 개설되는 당사자를 의미한다.
+
+④ 결제는 신용장이 일람 지급으로 이용이 가능하다면 연지급을 확약하고 만기에 지급하는 것을 의미한다
+
+섭
+
+[해설]
+주어진 보기 중 틀린 것을 찾는 유형이다. 결제(Honour)에서 신용장이 일람지급으로 이용이 가능하다면 일람출급으로 지급하며 연지급으로 확약하고 만기에 지급하는 것은 신용장이 연지급으로 이용 가능한 경우에 해당한다. 따라서 답은 ④번이다.
+
+[어휘]
+advlsing bank 지은행 issuing bank 개설은행 applicant 개설의뢰인 deferred payment 연지급 undertake 확약하다 pay at maturity 만기일이 지급하다 sight payment 일람 지급
+
+---
+
+## 문항 04
+
+04 Which documentary credit enables a beneficiary to obtain pre-shipment financing without impacting his banking facility?
+
+
+
+- ① Standby L/C
+- ② Red clause L/C
+- ③ Revolving L/C
+- ④ Back-to-back L/C
+
+정답: ②
+
+[해석]
+수익자가 자신의 금융 편의(혜택)에 영향을 미치지 않고 선적 전 자금 조달을 받을 수 있는 신용장은 무엇인가?
+
+① 보증 신용장 ②선대신용장
+
+③ 회전 신용장 ④동시 개설 신용장
+
+[해설]
+주어진 보기 중 적절한 것을 찾는 유형이다. 선대신용장은 수출자가 해당 상품의 선적 전에 대금을 선 지급 받을 수 있도록 수권하고 있는 신용장이다. 따라서 답은 ②번이다.
+
+[어휘]
+documentary credit 화환 신용장 beneficiary 수익자 financing 자금 조달 impact 영향을 미치다 facility:(금융상의)편의. 헤택. 상품 Standby L/C 보증 신용장 Red clause L/C 선대신용장 Revolving L/C 회전 신용장 Back-to-back L/C 동시 개설 신용장
+
+---
+
+## 문항 05
+
+05 Under the UCP 600, which of the below shipments will be honoured on presentation?
+
+<p>A documentary credit for USD 160,000 calls for instalment ships of fertilizer in February, March, April and May. Each shipment is to be for about 500 tonnes. Shipments were effected as follows: a. 450 tonnes sent 24 February for value USD 36,000. b. 550 tonnes sent 12 April for value USD 44,000. c. 460 tonnes sent 30 April for value USD 36,800. d. 550 tonnes sent 04 June for value USD 44,000.</p>
+
+- ① a only
+- ② a and b only
+- ③ a, b, and c only
+- ④ none
+
+정답: ①
+
+[해석]
+UCP 6O0에 따라, 아래 선적 중 서류 제시 시 결제될 것은 무엇인가?
+
+미화 160.000달러에 대한 신용장은 2,3, 4, 5월에 비료를 분할 선적할 것을 요구한다 각 선적은 약 500톤이 될 예정이다. 선적은 다음과 같이 이행되었다: a. 미화 36,000달러로 2월 24일 발송된 450톤 D. 미화 44,000달러로 4월 12일 발송된 550톤 C. 미화 36,800달러로 4월 30일 발송된 460톤 d. 미화 44,000달러로 6월 4일 발송된 550톤
+
+① a ②a, b
+
+③ a.b.c ④해당 없음
+
+[해설]
+주어진 보기 중 적절한 것을 찾는 유형이다. 2, 3, 4, 5월에 분할하여 선적한다고 했으므로 할부선적임을 알 수 있다. 또한 수량 앞에 "about"을 사용했으므로 수량에 대해 ±10%의 과부족이 허용된다. a의 경우 약(about) 500톤으로 500의 ±10%(450~550톤)까지 선적할 수 있어 유효한 계약이행이 된다. 그러나 b의 선적은 3월에 이루어져야 하는데, 3월에 이루어지지 않고 c와 함께 4월에 2번 이루어졌기 때문에, b는 계약위반이 된다. UCP 600상에서 분할선적에 대한 신용장에 대해서는 해당 위반된 할부분과 그 이후의 할부분 모두 무효가 된다고 규정하고 있으므로 b 이후의 신용장은 모두 사용할 수 없게 된다. 따라서 답은 ①번이다.
+
+[어휘]
+call for 요구하다 instalment 분함 fertilizer 비료 effect (계약 선적 등음) 이행하다
+
+---
+
+## 문항 06
+
+06 Which of the following statement about a B/L is LEAST correct?
+
+
+
+- ① A straight B/L is a NEGOTIABLE DOCUMENT.
+- ② An order B/L is one of the most popular and common form of bill of lading issued.
+- ③ When a straight bill of lading is issued, the cargo may be released ONLY to the named consignee and upon surrender of at least 1 of the original bills issued.
+- ④ A straight B/L could be used in international transaction between headquarter and branch.
+
+정답: ①
+
+[해석]
+선하증권에 대한 다음 설명 중 가장 적절하지 않은 것은 무엇인가?
+
+① 기명 식 선하증권은 양도 가능한(유통성의) 서류이다.
+
+② 지시 식 선하증권은 발행되는 가장 일반적이고 흔한 형태의 선하증권 중 하나이다.
+
+③ 기명 식 선하증권이 발행되었을 때. 화물은 기명된 수하인에게만 인도되며 발행된 선하증권 원본 중 적어도 1부가 제시되었을 때 인도된다.
+
+④ 기명 식 선하증권은 국제 거래에서 본사와 지사 사이에서 사용될 수 있다.
+
+[해설]
+주어진 보기에서를 린 것을 찾는 유형이 다 기명 식 선하증권은 유통 및 배서· 양도가 불가능한 비유통성으로 간주된다. 따라서 답은 ①번이다.
+
+[어휘]
+straight B/L 기명 식 선하증권 order B/ 지시 식 선하증권
+
+---
+
+## 문항 07
+
+07 Select the best answer suitable for the blank.
+
+<p>Premium means the ( A ) or sum of money, paid by the ( B ) to the ( C ) in return for which the insurer agrees to indemnify the assured in the event of loss from an insured peril. The insurer is not bound to issue a ( D ) until the premium is paid. (A) (B) (C) (D)</p>
+
+- ① consideration assured insurer policy
+- ② consideration insurer assured policy
+- ③ fees insurer assured certificate
+- ④ fees assured insured certificate
+
+정답: ①
+
+[해석]
+빈 칸에 알맞은 정답을 고르시오
+
+보험료는 피보험 위험으로 인한 손실이 있는 경우 보험자가 피보험자에게 배상하기로 동의하는 대가로(B 피보험자)가( C 보험자)에게 지급한(A 약인)또는 금액을 의미한다. 보험자는 보험료가 납부되기 전에(D 보험 증권)을 발행할 의무가 없다
+
+(A) (B) (C) (D)
+
+① 약인 피보험자 보험자 보험 증권
+
+② 약인 보험자 피보험자 보험 증권
+
+③ 수수료 보험자 피보험자 증명서
+
+④ 수수료 피보험자 보험자 증명서
+
+[해설]
+주어진 지문의 빈칸에 적절한 단어를 찾는 유형이다. 보험료는 보험자가 위험을 담보하는 대가로 보험자에게 지급하는 대금을 말하며, 보험증권은 보험에 가입했다는 증빙으로 계약의 내용을 기재하고 보험자가 기명날인하여 피보험자에게 발급하는 증서이다. 따라서 답은 ①번이다.
+
+[어휘]
+premium 보험료 insurer 보험자 indemnify 배싱하다 peril 위험 be bound to ~할 의무가 있다 consideration 대가 the assured 보험자 policy 보험 증권 fee 수수료 certificate 증명서
+
+---
+
+## 문항 08
+
+08 Select the best answer suitable for the following passage.
+
+<p>Chartering term whereby the charterer of a vessel under voyage charter agrees to pay the costs of loading and discharging the cargo.</p>
+
+
+- ① FI
+- ② FO
+- ③ FIO
+- ④ FIOST
+
+정답: ③
+
+[해석]
+다음 지문에 가장 적절한 답을 고르시오
+
+항해 용선계약 하에 선박의 용선자가 화물의 선적 및 양 륙의 비용을 지불하는 데 동의하는 용선 조건이다
+
+① FI ② FO
+
+③ FIO ④ FIOST
+
+[해설]
+주어진 지문에서 추론할 수 있는 용어를 찾는 유형이다. 화물의 선적 비용과 양 륙 비용을용 선자(화주)가 부담하는 조건은 FlO(Free In and Out)이다. 따라서 답은 ③번이다.
+
+[어휘]
+chartering 용선 charterer 용선자 voyage charter 항해용 선(계약)discharge 양 륙하다
+
+---
+
+## 문항 09
+
+09 Select the best answer suitable for the blank under letter of credit operation.
+
+<p>The beneficiary usually <span class="answer-blank" aria-label="빈칸">&nbsp;</span> after loading the goods on board to tender documentary drafts to the negotiating bank within expiry date.</p>
+
+- ① looks for business connection abroad
+- ② dispatches to the importer Trade Circulars including catalogue
+- ③ applies for the issuance of a Letter of Credit
+- ④ prepares shipping documents and draws a draft for negotiation
+
+정답: ④
+
+[해석]
+아래 신용장 업무의 빈 칸에 가장 적절한 답을 고르시오
+
+수익자는 보통 유효 기한 내에 매입은행에 화환어음을 제출하기 위해 물품을 선적한 후(선적서류를 준비하고 매입을 위한 환어음을 발행한다).
+
+① 해외 사업 연계를 찾는다
+
+② 카탈로그를 포함하여 수입자에게 거래 제의 안내문을 발송한다.
+
+③ 신용장 개설을 신청한다.
+
+④ 선적서류를 준비하고 매입을 위한 환어음을 발행한다
+
+[해설]
+주어진 지문의 빈칸에 적절한 것을 찾는 유형이다. 수익자는 물품을 선적한 후 매입은행에 선적서류를 송부하여 환어음의 매입을 요청한다. 따라서 답은 ④번이다.
+
+[어휘]
+beneficiary 수익자 tender 제출하다 documentary draft 화환어음 dispatch 발송하다 Trade Circular 거래제의 안내문 issuance 발행
+
+---
+
+## 문항 10
+
+10 Select the best one which explains well the following passage.
+
+<p>The shipping documents are surrendered to the consignee by the presenting bank upon acceptance of the time draft. The consignee obtaining possession of the goods is thereby enabled to dispose of them before the actual payment falls due.</p>
+
+- ① D/A
+- ② D/P
+- ③ Collection
+- ④ Open Account
+
+정답: ①
+
+[해석]
+다음 지문을 가장 잘 설명하는 것을 고르시오.
+
+선적서류는 기한부 환어음이 인수되었을 때 제시 은행에 의해 수하인에게 양도된다 그로써 물품의 점유권을 얻은 수하인은 지급 기일의 만기 전에 물품을 처분할 수 있다
+
+① 서류 인수 인도 조건
+
+② 서류 지급 인도 조건
+
+③ 추심
+
+④ 사후송금방식
+
+[해설]
+주어진 지문에서 추론할 수 있는 것을 찾는 유형이다. (D/A) 서류인수인도조건에서는 매수인(수하인)이 기한부어음을 인수하는 때에 서류를 인수받고 대금은 만기에 지급한다. 따라서 답은 ①번이다.
+
+[어휘]
+surrender 양도하다 consignee 수하인 presenting bank 제시 은행 acceptance (어음의) 인수 time draft 기한부 환어음 possession 점유(권) 소유(권) dispose 처분하다 fall due 만기가 되다
+
+---
+
+## 문항 11
+
+11 Which of the followings is APPROPRIATE for (A)?
+
+<p>( A ) transaction is a sale where the goods are shipped and delivered before payment is due. This option is the most advantageous for the importer in terms of cash flow and cost, but it is consequently the highest risky option for an exporter. However, the exporter can offer competitive ( A ) terms while substantially mitigating the risk of non-payment by using one or more of the appropriate trade finance techniques, such as export credit insurance.</p>
+
+- ① Telegraphic transfer
+- ② Cash with order
+- ③ Open account
+- ④ Letter of credit
+
+정답: ③
+
+[해석]
+다음 중 (A)에 적절한 것은 무엇인가?
+
+(A 사후송금방식) 거래는 결제의 만기 전에 물품이 선적 및 인도되는 거래이다. 이 옵션은 현금 유동성과 비용 면에서 수입자에게 가장 유리하지만 결과적으로 수출자에게는 가장 위험성이 높은 옵션이다. 그러나. 수출자는 수출 신용 보험과 같은 하나 이상의 적절한 거래 금융 기법을 사용함으로써 지급 거절의 위험을 상당히 완화하면서 경쟁력 있는(A 사후송금방식)조건을 제공할 수 있다
+
+① 전신 송금 ②주문 불
+
+③ 사후송금방식 ④신용장
+
+[해설]
+주어진 지문의 빈칸에 적절한 것을 찾는 유형이다. 30일에서 90일 정도의 비교적 단기의 기간을 설정하고, 물품을 먼저 인도한 후 사후에 송금을 통해 대금을 지급하기로 하는 사후송금방식에 대한 설명이다. 따라서 답은 ③번이다.
+
+[어휘]
+advantageous 유리한 importer 수 입자 cash flow 현금 흐름 exporter 수출자 competitive 경쟁력 있는 mitigate 완화하다 export credit insurance 수출 신용 보험 telegraphic transfer 전신 송금 cash with order 주문불 open account 사후송금방식 letter of credit 신용장
+
+---
+
+## 문항 12
+
+12 Followings are the replies to customer complaints. Which of the following is NOT appropriate?
+
+<p>A. Thank you for taking time out of your busy schedule to write us and express your grievances on how our products and services do not meet up with your expectations.<br/><br/>B. This is to confirm that I have seen your email.</p>
+<p>I look forward to receiving my consignment next week as you promised.<br/><br/>C. However, we can neither receive the return nor refund you as you demanded. This is because of our company’s policy. We make refunds only for orders whose complaints are received within two weeks of purchase.<br/><br/>D. Despite our effort to deliver your order on time using Skynet Express Delivery Service, it’s quite unfortunate that we didn’t meet up with the time allotted for the delivery of those products.</p>
+
+- ① A
+- ② B
+- ③ C
+- ④ D
+
+정답: ②
+
+[해석]
+다음은 고객 불만에 대한 답신이다 다음 중 적절하지 않은 것 무엇인가?
+
+A 바쁜 일정 중 시간을 내어 저희의 제품과 서비스가 고객님의 기대에 미치지 못한 것에 대한 불만을 표현해 주셔서 감사합니다. B. 이는 제가 귀사의 이메일을 보았음을 확인하기 위한 것입니다 저는 귀사가 약속한 대로 다음 주에 화물을 수령하기를 기대합니다 C. 그러나, 당사는 고객님께서 요구하신 대로 반품도 환불도 해 드릴 수 없습니다. 이는 당사의 방침 때문입니다. 당사는 구매 후 2주 이내에 불만 사항이 접수된 주문에 대해서만 환불을 해 드립니다 D. Skynet Express Delivery Service를 이용하여 고객님의 주문을 제때 배송하려 노력했음에도 불구하고 당사가 그 제품들의 배송에 정해진 시간을 맞추지 못한 것은 매우 유감스럽습니다
+
+① A ②B ③ C ④ D
+
+[해설]
+고객 불만에 대한 답신으로 적절하지 않은 것을 추론하는 유형이다. 다음 주에 화물을 수령하기를 기대한다는 내용은 고객 불만에 대한 답신으로 적절하지 않음을 추론할 수 있다. 따라서 답은 ②번이다.
+
+[어휘]
+grievance 붉민. 고 consignment 회 allot 정하디. 힘딩하디
+
+---
+
+## 문항 13
+
+13 Select the best answer suitable for the blank.
+
+<p>We are ( A ) of being able to send you the ( B ) by the end of this week. We shall do ( C ) in our power to see that such an irregularity is not ( D ). (A) (B) (C) (D)</p>
+
+- ① convinced substitute all replace
+- ② convinced substitution all replace
+- ③ confident substitution everything replaced
+- ④ confident substitute everything repeated
+
+정답: ④
+
+[해석]
+빈 간에가 징 적절한 정답 음 고르시오
+
+이번 주말까지(B 대체 품)을 보내 드릴 수 있음을 (A 확신합니다). 당사는 이러한 불규칙한 일이(D 반복되지) 않도록(C 모든 것)을 다하겠습니다 (A) (B) (C) (D)
+
+① 확신하는 대체 품 모든 대체하다
+
+② 확신하는 대리 모든 대체하다
+
+③ 확신하는 대리 모든 것 대체된
+
+④ 확신하는 대체 품 모든 것 반복된
+
+[해설]
+주어진 빈 칸에 적절한 것을 찾는 유형이다.convinced와 confident 모두'~을 확신하다'의 의미를 가지고 있지만 convinced는 누군가에게 설득되어 확신하는 경우에 사용되므로 문맥상 어색하며'대체 품, 대용품'을 의미할 때 보통 substitute를 사용한다.substitution은 주로'대용, 대리'의 의미를 나타낼 때 쓰이며,al은 단독으로'모든 것'의 의미로 쓰이지 않고 보통 뒤에 관 계절이 함께 사용된다. 문맥상 불규칙적인 일이 재발하지 않도록하겠다는 내용이 되어야하므로 repeated가 적절하다. 따라서 답은 ④번이다.
+
+[어휘]
+irregularity 불규칙한 일 convinced 확신하는 substitute 대체 품 substitution 대리. 대용 confident 확신하는
+
+---
+
+## 문항 14
+
+14 Which of the following is LEAST correct according to the discourse?
+
+<p>Lee : Hello, Mr. Jung. Jack Lee speaking.<br/><br/>Jung: Hello, Mr. Lee. I'm with SRG Electronics. And I was hoping to talk to you about our line of electronic parts.<br/><br/>Lee : Oh, yes, I've heard of SRG. How are things going in Korea?<br/><br/>Jung: Good, thanks. In fact, recently there's been a lot of demand for our parts, so we've been very busy.<br/><br/>Lee : Glad to hear that. I'd certainly be interested in your prices.<br/><br/>Jung: Well, I'm going to be in San Francisco next week and wondering if you have time to get together.<br/><br/>Lee : When will you be here?<br/><br/>Jung: Next Wednesday and Thursday. What does your schedule look like?<br/><br/>Lee : Um... Let me check my calendar. Let's see, I have a meeting on Wednesday morning. How about Wednesday afternoon at about two o'clock?<br/><br/>Jung: That is fine.</p>
+
+- ① Jung works for SRG Electronics.
+- ② Jung and Lee will meet in San Francisco.
+- ③ Jung and Lee already know each other before this phone call.
+- ④ There are few customers in SRG Electronics.
+
+정답: ④
+
+[해석]
+다음 중 담화에 따라 가장 올바르지 않은 것은 무엇인가?
+
+Lee: 안녕하세요, Mr. Jung. Jack Lee입니다 Jung: 안녕하세요. Mr. Lee. 저는 SRG 일렉트로닉 스 사에서 근무하고 있습니다. 그리고 저는 당사의 전자 부품 라인에 대해 이야기하고 싶었습니다 Lee: 아. 네, SRG에 대해 들어 본 적 있습니다. 한국 상황은 어떻습니까? Jung: 좋아요 감사합니다. 사실, 최근에 당사 부품에 대한 수요가 많아 매우 바쁩니다 Lee: 잘 됐군요. 저는 귀사의 가격에 확실히 관심이 있습니다 Jung: 음 제가 다음 주에 샌프란시스코에 있을 예정인데, 혹시 저와 만날 시간이 있으실까요? Lee: 언제 이 곳에 계신가요? Jung: 다음 주 수요일과 목요일입니다. 일정이 어떻게 되시나요? Lee: 음 제 달력을 한 번 확인해 봅 게요 어디 보자 수요일 오전에 미팅이 하나 있네요 수요일 오후 2시는 어떠신가요? Jung: 좋습니다
+
+① Jung은 SRG 일렉트로니스사에서 근무한다
+
+② Jung과 Lee는 샌프란시스코에서 만날 예정이다.
+
+③ Jung과 Lee는 이미 통화 전부터 아는 사이이다.
+
+④ SRG 일렉트로니스사에는 거의 고객이 없다.
+
+[해설]
+주어진 지문과 일치하지 않은 것을 찾는 유형이다. 최근에 당사 부품에 대한 수요가 많아 매우 바쁘다고 하였으므로 SRG 일렉트로닉스사 고객이 많다는 것을 알 수 있다. 따라서 답은 ④번이다.
+
+[어휘]
+demand 수요
+
+---
+
+## 문항 15
+
+15 Who is doing export credit insurance agencies in Korea?
+
+<p>In international trade, export credit insurance agencies sometimes act as bridges between the banks and exporters. In emerging economies where the financial sector is yet to be developed, governments often take over the role of the export credit insurance agencies.</p>
+
+- ① Korea International Trade Association
+- ② K-Sure
+- ③ Kotra
+- ④ Korcham
+
+정답: ②
+
+[해석]
+한국에서 수출 신용 보험 기관 역할은 누가 하는가?
+
+국제 거래에서, 수출 신용 기관들은 종종 은행과 수출업자 사이에서 다리와 같은 역할을 한다. 금융 부문이 아직 발달되지 않은 개발도상국에서는. 정부가 종종 이 수출 신용 보험 기관의 역할을 맡는다.
+
+① 한국무역협회
+
+② 한국무역보험공사
+
+③ 대한무역투자진흥공사
+
+④ 대한상공회의소
+
+[해설]
+주어진 지문에서 추론할 수 있는 것을 찾는 유형이다. 수출 신용 보험 기관은 수입국의 신용 위험과 비상 위험으로 인해 수출 대금을 받지 못할 자국의 수출자의 위험에 대비하는 보험 상품 등을 제공한다. 한국에서는 한국무역보험공사 (K-Sure)에서 해당 역할을 한다. 따라서 답은 ②번이다.
+
+[어휘]
+export credit insurance agency 수출 신용 보험 기관 emerging economies 개발도상국
+
+---
+
+## 문항 16
+
+16 Select the best answer suitable for the blank.
+
+<p><span class="answer-blank" aria-label="빈칸">&nbsp;</span> letter of credit states : "Credit available with any bank, by negotiation for payment of beneficiary's draft at sight. The L/C is subject to UCP600".</p>
+
+- ① Irrevocable Open
+- ② Revocable Open
+- ③ Irrevocable Special
+- ④ Revocable Special
+
+정답: ①
+
+[해석]
+(취소 불능 자유 매입)신용장은 다음과 같이 명시한다 "모든 은행에서 매입에 의해 이용 가능한 수익자의 일람불 환어음의 지급을 위한 신용장. 이 신용장은 UCP 600에 따른다.'
+
+① 취소 불능 자유 매입 ②취소 가능 자유 매입
+
+③ 취소 불능 매입 제한 ④취소 가능 매입 제한
+
+[해설]
+주어진 빈 칸에 적절한 것을 찾는 유형이다. 모든 은행에서 가능하므로 매입은행에 대한 지정이 없는 자유 매입 신용장임을 알 수 있으며, UCP 600에 따르면 기본적으로 신용장은 취소 불능이다 따라서 답은 ①번이다.
+
+[어휘]
+beneficlary 수익자 draft at sight 일람 물 환어음 irrevocable 취소 불능의 revocable 취소 가능한
+
+---
+
+## 문항 17
+
+17 Which of the followings is NOT appropriate for the reply to a claim letter?
+
+
+
+- ① Upon investigation, we have discovered that defective goods sometimes filter despite rigorous inspection before shipment.
+- ② Ten cases of T.V. Set for our order No. 10 per m/s "Chosun" have reached here, but we immensely regret to have to inform you that six units in C/N 10 are different in quality from the specifications of our Order.
+- ③ As a settlement, we have arranged to reship the whole goods by the first ship available, with a special discount of 3% off the invoice amount.
+- ④ After careful investigation, we could not find any errors on our part, because we took every effort to fill your order as evident from the enclosed certificate of packing inspection.
+
+정답: ②
+
+[해석]
+다음 중 클레임 서신에 대한 답신으로 적절하지 않은 것은 무엇인가?
+
+① 조사에서, 선적 전에 철저한 조사에도 불구하고 당사는 종종 결함이 있는 물품들이 통과된다는 것을 발견했습니다.
+
+② m/s"Chosun"을 통한 당사의 주문 번호 10의 T.V. 세 ㄷ10개가 이 곳에 도착했지만 당사는 C/N 10중 6개가 당사 주문의 사양과 품질 면에서 상이하다는 점을 귀사에 알리게 되어 매우 유감입니다
+
+③ 해결책으로서. 당사는 송장 금액의 특별 3퍼센트 할인 과, 물품 전체를 이용 가능한 첫 선박에 다시 실을 준비를 했습니다.
+
+④ 신중한 조사를 거친 후에, 당사는 당사 측의 실수를 발견할 수 없었습니다. 동봉한 포장 검사 증명서에서 분명히 알 수 있듯이 귀하의 주문을 이행하기 위해 최선을 다했기 때문입니다.
+
+[해설]
+클레임 서신에 대한 답신으로 적절하지 않은 것을 고르는 유형이다 주문한 사양과 받은 물품의 품질이 상이하여 유감이라는 내용은 클레임 서신에 대한 답신으로 적절하지 않다. 따라서 답은 ②번이다
+
+[어휘]
+investigation 조사 defective 결함이 있는 filter 통과하다 rigorous 철저한 regret 유감이다 inform 알리다 specification 사양 settlement (분쟁의) 해결(방안), 합의, 결제 reship 다시 싣다 evident 분명한
+
+---
+
+## 문항 18
+
+18 Select the right one in regard to the situation.
+
+<p>Documents presented under an L/C issued by Roori Bank are fully complied. The applicant has already made payment to his bank and then the issuing bank pays the negotiating bank. Some days after, the applicant finds that the goods are not in good quality. He goes to the issuing bank and requests the bank to refund such payment for him.</p>
+
+- ① Roori Bank has to refund payment to the applicant.
+- ② Roori Bank has to ask for the opinion of the beneficiary.
+- ③ Roori Bank shall ask refund of money to the beneficiary.
+- ④ Roori Bank has no obligation to refund payment.
+
+정답: ④
+
+[해석]
+상황에 맞는 것을 고르시오.
+
+Roori 은행에 의해 개설된 신용장에 제시된 선적서류는 완전히 일치한다. 개설의뢰인은 이미 자신의 은행에 결제하였고 이후 개설은행은 매입은행에 지급(상환)한다 며칠 후 개설의뢰인은 상품의 품질이 좋지 않다는 것을 알게 된다. 그는 개설은행에 가서 은행에 그에 대한 환불을 요청한다.
+
+① Roori 은행은 개설의뢰인에게 결제 금액을 환불해야한다
+
+② Roori 은행은 수익자의 의견을 요청해야한다
+
+③ Roori 은행은 수익자에게 금액의 환불을 요청할 것이다
+
+④ Roori 은행은 금액을 환불할 의무가 없다
+
+[해설]
+주어진 지문에서 추론할 수 있는 것을 찾는 유형이다. 신용장은 독립성의 원칙에 의해 매매계약과는 독립적인 별개의 거래이며 서류로만 대금 지급의 여부를 판단한다. 그러므로 개설의뢰인은 서류상의 불일치가 없는 한 물품이 계약에 일치하는지 여부와는 관계없이 개설은행에 신용장 대금을 지급해야 하며, 위의 상황에서 개설은행이나 수익자는 환불 요구에 응할 의무가 없다. 따라서 답은 ④번이다.
+
+[어휘]
+comply 일치하다. 준수하다 applicant 개설의뢰인 Issuing bank 개설은행. 발행은행 negotiating bank 매입은행 obligation 의무
+
+---
+
+## 문항 19
+
+19 A credit requires an 'invoice' without further definition. Which of the following MUST be considered to be a discrepancy under UCP600?
+
+<p>A commercial invoice:<br/><br/>A. that appears to have been issued by the beneficiary.<br/><br/>B. that is made out in the name of the applicant.<br/><br/>C. that is made out in the different currency as the credit.<br/><br/>D. for which the beneficiary did not sign.</p>
+
+- ① A only
+- ② A+B only
+- ③ C only
+- ④ D only
+
+정답: ③
+
+[해석]
+신용장에 추가 정의 없이'송장'을 필요로 한다. 다음 중 UCP6OO 하에서 반드시 불일치로 간주되어야하는 것은 무엇인가? 상업 송장
+
+A 수익자에 의해 발행된 것으로 보인다. B. 개설의뢰인의 명의로 작성되었다. C. 신용장과 다른 통화로 작성되었다 D. 수익자가 서명하지 않았다
+
+① A ②A,B ③C ④ D
+
+[해설]
+주어진 보기 중 틀린 것을 찾는 유형이다. 상업송장은 개설의뢰인 앞으로 수익자가 발행하며, 서명될 필요가 없고 신용장과 동일한 통화로 작성되어야 하므로 C가 틀린 내용이다. 따라서 답은 ③번이다.
+
+[어휘]
+definition 정의 discrepancy 불일치하자 commercial invoice 상업 송장 beneficiary 수익자 applicant 개설의뢰인 currency 통화
+
+---
+
+## 문항 20
+
+20 Who is likely to be the writer?
+
+<p>[20~21] Read the following and answer.</p>
+<p>Thank you for your letter regarding opening an account with our company for trading our goods. Please fill in the enclosed <u>financial information</u> form for 3 years and provide us with two or more trade references as well as one bank reference.</p>
+<p>Of course, all information will be kept in strict confidence.</p>
+<p>Thank you very much for your cooperation.</p>
+<p>Your sincerely,</p>
+
+- ① banker
+- ② seller
+- ③ buyer
+- ④ collector
+
+정답: ②
+
+[공통 지문 해석: 20~21번]
+당사의 제품 거래를 위해 당사와의 거래 시작에 문의를 주신 것에 감사 드립니다. 동봉된 금융 정보 양식을 3년에 대해 작성해 주시고 하나의 은행 신용조회처와 둘 이상의 동업자 신용조회처를 알려 주십시오 물론, 모든 정보는 엄격한 기밀로 유지될 것입니다 협조에 대단히 감사 드립니다
+
+[해석]
+? 작성자는 누구인가?
+
+① 은행가 ②매도인
+
+③ 매수인 ④징수 원
+
+[해설]
+주어진 지문에서 추론할 수 있는 것을 찾는 유형이다. 거래 문의에 대한 신용조회를 위해 재무정보를 요청하고 있으므로, 매도인이 작성자임을 알 수 있다. 따라서 답은 ②번이다.
+
+---
+
+## 문항 21
+
+21 What would NOT be included in the financial information?
+
+<p>[20~21] Read the following and answer.</p>
+<p>Thank you for your letter regarding opening an account with our company for trading our goods. Please fill in the enclosed <u>financial information</u> form for 3 years and provide us with two or more trade references as well as one bank reference.</p>
+<p>Of course, all information will be kept in strict confidence.</p>
+<p>Thank you very much for your cooperation.</p>
+<p>Your sincerely,</p>
+
+- ① cash flow
+- ② profit and loss account
+- ③ balance sheet
+- ④ draft
+
+정답: ④
+
+[공통 지문 해석: 20~21번]
+당사의 제품 거래를 위해 당사와의 거래 시작에 문의를 주신 것에 감사 드립니다. 동봉된 금융 정보 양식을 3년에 대해 작성해 주시고 하나의 은행 신용조회처와 둘 이상의 동업자 신용조회처를 알려 주십시오 물론, 모든 정보는 엄격한 기밀로 유지될 것입니다 협조에 대단히 감사 드립니다
+
+[해석]
+금융 정보에 포함되지 않는 것은 무엇인가?
+
+① 현금 흐름 ②손익 계정
+
+③ 대차 대조표 ④환어음
+
+[해설]
+주어진 지문에서 추론할 수 있는 것을 찾는 유형이다. 매수인이 매도인의 신용상태를 확인하기 위해 요구되는 금융정보로는 재무제표(Financial Statements)에 해당하는 대차대조표, 손익계산서, 자본변동표, 현금흐름표 등이 포함될 수 있겠으나, 환어음은 이에 포함되지 않는다. 따라서 답은 ④번이다.
+
+[어휘]
+open account with ~외거래시직하다 trade reference 동업자 신용조회처 bank reference 은행 신용조회처 confidence 기밀. 비밀 cash flow 현금 흐름 profit and loss account 손익 계정 balance sheet 대차 대조표 draft 환어음
+
+---
+
+## 문항 22
+
+22 Which is LEAST similar to settled promptly?
+
+<p>[22~23] Read the following and answer.</p>
+<p>Dear Peter Park,</p>
+<p>I intend to place a substantial order with you in the next few months.</p>
+<p>As you know, over the past two years I have placed a number of orders with you and settled promptly, so I hope this has established my reputation with your company. Nevertheless, if necessary, I am willing to supply references.</p>
+<p>I would like, if possible, to settle future accounts every three months with payments against quarterly statements.</p>
+
+- ① debited per schedule
+- ② paid punctually
+- ③ cleared punctually
+- ④ paid on schedule
+
+정답: ①
+
+[공통 지문 해석: 22~23번]
+Peler Park께
+
+당사는 앞으로 몇 달 안에 귀사에 상당한 양의 주문을 할 예정입니다 아시다시피, 지난 2년간 당사는 귀사에 많은 주문을 해 왔으며 신속하게 결제했으므로. 이 점이 귀사에 당사의 평판을 쌓았기를 바랍니다. 그럼에도 불구하고 필요하시다면, 당사는 기꺼이 신용조회처를 제공하겠습니다 가능하다면, 추후의 계정을 분기별 명세서에 대한 결제로 3개월마다 정산하고 싶습니다.
+
+[해석]
+신속하게 결제했다와 가장 비슷하지 않은 것을 고르시오
+
+① 예정대로 차변에 기입했다
+
+② 기한을 엄수하여 결제했다
+
+③ 기한을 엄수하여 결제했다
+
+④ 예정대로 결제했다
+
+[해설]
+주어진 부분과 다른 내용을 찾는 유형이다. 신속하게 처리했다는 의미는 기한 혹은 예정된 시간에 맞춰 지불 혹은 결제를 했다는 의미이며 debit은'차변에 기입하다'또는'차김하다'라는 의미이다. 따라서 답은 ①번이다
+
+---
+
+## 문항 23
+
+23 What can be inferred from the above?
+
+<p>[22~23] Read the following and answer.</p>
+<p>Dear Peter Park,</p>
+<p>I intend to place a substantial order with you in the next few months.</p>
+<p>As you know, over the past two years I have placed a number of orders with you and settled promptly, so I hope this has established my reputation with your company. Nevertheless, if necessary, I am willing to supply references.</p>
+<p>I would like, if possible, to settle future accounts every three months with payments against quarterly statements.</p>
+
+- ① Peter Park is a buyer.
+- ② The writer wants to place an initial order with the seller.
+- ③ References are to be provided if the buyer is afraid of seller’s credit.
+- ④ The seller may send invoices for settlement on a quarterly basis provided that the request is accepted.
+
+정답: ④
+
+[공통 지문 해석: 22~23번]
+Peler Park께
+
+당사는 앞으로 몇 달 안에 귀사에 상당한 양의 주문을 할 예정입니다 아시다시피, 지난 2년간 당사는 귀사에 많은 주문을 해 왔으며 신속하게 결제했으므로. 이 점이 귀사에 당사의 평판을 쌓았기를 바랍니다. 그럼에도 불구하고 필요하시다면, 당사는 기꺼이 신용조회처를 제공하겠습니다 가능하다면, 추후의 계정을 분기별 명세서에 대한 결제로 3개월마다 정산하고 싶습니다.
+
+[해석]
+위 지문에서 추론할 수 있는 것은 무엇인가?
+
+① Peler Park은 매수인이다.
+
+② 작성자는 매도인과 첫 주문을 하고자한다
+
+③ 매수인이 매도인의 신용을 우려하는 경우 신용조회처가 제공된다.
+
+④ 요청이 승인되면 매도인은 분기별 기준으로 결제를 위한 송장을 보낼 것이다.
+
+[해설]
+주어진 지문에서 추론할 수 있는 것을 찾는 유형이다 매수인인 작성자는 가능하다면, 추후의 계정을 분기별 명세서에 대한 지불로 3개월마다 정산하고 싶다고 했으므로, 요청이 승인되면 매도인은 분기별 기준으로 결제를 위한 청구서를 매수인에게 보낼 것이다. 따라서 답은 ④번이다.
+
+[어휘]
+subgtantial 상당한 settle 지봄하다 promptly 신속하게 reputation 명만 necessary 밀요한 reference 신용조회처 account 계정 quarterly 분기별의 debit 차변에 기입하다. 차감하다 punctually 기한을 엄수 히 여 buyer 매수인 seller 매도인 credit 신용
+
+---
+
+## 문항 24
+
+24 Choose the awkward one from the following underlined parts.
+
+<p>I am sorry to inform you that, due to an (A) <u>expected price increase from our manufacturers in USA</u>, (B) <u>we have no option but to raise the prices of</u> all our imported shoes by 4% from 6 May, 2020. However (C) <u>orders received before this date will be invoiced</u> at the present price levels. (D) <u>We sincerely regret the need for the increase.</u> However, we know you will understand that this increase is beyond our control.</p>
+
+- ① (A)
+- ② (B)
+- ③ (C)
+- ④ (D)
+
+정답: ①
+
+[해석]
+다음믿 줄 친 부분들에서 어색한 것을 고르시오
+
+(A) 미국에 위치한 당사의 제조사들에 의한 예상된 가격 인상으로 인해, 당 사의 모든 수입 신발의(B)가격을 2020년 5월 6일부터 4퍼센트 인상할 수밖에 없다는 점을 알려 드리게 되어 죄송합니다. 그러나 (C) 이 날짜 전에 받은 주문들은 현재 가격 수준으로 송장이 작성될 것입니다.(D) 당사는 진심으로 이러한 인상의 필요에 대해 유감스럽게 생각합니다. 하지만 당사는 귀사가 이 인상이 당 사의 통제 밖에 있다는 점을 이해해 주실 것이라고 생각합니다
+
+① (A) ② (B) ③ (C) ④ (D)
+
+[해설]
+주어진 지문에서 흐름에 맞지 않는 문장을 찾는 유형이다. 예상하지 못 했던 제조사들의 가격 인상으로 제품 가격 인상이 불가피하게 되었다는 점에 대해 사과하고 있으므로 가격 인상이 예상되었다는 내용은 흐름과 맞지 않는다. 따라서 답은 ①번이다.
+
+[어휘]
+expected 예상된 manufacturer 제조사 imported 수입된
+
+---
+
+## 문항 25
+
+25 Choose the right one for the next underlined part.
+
+<p>Protection and Indemnity (P&amp;I) insurance contained in an ocean marine policy covers:</p><p><span aria-label="빈칸" class="answer-blank"> </span></p>
+
+- ① Ordinary loss or damage in the voyage
+- ② Loss of the shipper fees
+- ③ Marine legal liability for third party damages caused by the ship
+- ④ Damage to another vessel caused by collision
+
+정답: ③
+
+[해석]
+다음믿 줄 친 부분에 적절한 것을 고르시오
+
+해상 보험 계약에 포함된 선주 상호보험은(다음을)보상한다 선박에 의해 발생한 제3자의 손해에 대한 해상 법상 책임
+
+① 항해 중의 통상적인 손실 또는 손상
+
+② 송하인 비용의 손해
+
+③ 선박에 의해 발생한 제3자의 손해에 대한 해상 법상 책임
+
+④ 충돌에 의해 발생한 다른 선박의 피해
+
+[해설]
+주어진 지문의 빈칸에 적절한 것을 찾는 유형이다. 선주 상호보험(P &amp;l:Protection and Indemnity)은 선박의 운항과 관련하여 발생한 사고로 인해 제3자가 입은 손해에 대한 선주의 배상 책임에 대비하여 선주 상호 간 자체적으로 운영하는 보험이다. 따라서 답은 ③번이다
+
+[어휘]
+Protection and Indemnity(P &amp;l) insurance 선주 상호보험 voyage 항해 legal 법적인 collision 충돌
+
+---
+
+## 문항 26
+
+26 Which of the following words is not suitable for the blank below?
+
+<p>The more geographic reach your company has, the more important this clause will become. For example, if you’re a small local business dealing 100% exclusively with locals, you may not really need a clause telling your customers which law applies. Everyone will expect it to be the law of whatever state that little local business is in. Now, take a big corporation with customers and offices in numerous countries around the world. If a customer in Korea wants to sue over an issue with the product, would Korean law apply or would the law from any of the other countries take over? Or, what if you’re an American business that has customers from Europe. In both cases, a/an <span class="answer-blank" aria-label="빈칸">&nbsp;</span> clause will declare which laws will apply and can keep both companies from having to hire international lawyers.</p>
+
+- ① controlling law
+- ② governing law
+- ③ applicable law
+- ④ proper law
+
+정답: ①
+
+[해석]
+다음 중 아래 빈 칸에 적절하지 않은 단어를 고르시오
+
+귀사가 지리적으로 더 뻗어 나갈수록, 이 조항은 더 중요해질 것이다, 예름 들어. 귀사가 100퍼센트 독점적으로 현지인들과만 거래하는 작은 지역 사업체라면, 귀사는귀시의 고객들에게 어떤 법이 적용되는지를 알려 주는 조항이 정말로 필요하지 않을 수도 있다. 모든 사람들은 그것이 그 작은 지역 사업체가 위치한 어떤 국가의 법이 되기를 기대할 것이다
+
+자. 세계의 수많은 나라에 고객과 사무실이 있는 대기업을 예로 들어 보자. 한국에 있는 한 고객이 제품의 문제에 대해 소송을 제기하고 싶어한다면 한국 법이 적용될 것인가 아니면 다른 어떤 나라의 법이 이를 넘겨받을 것인가? 아니면, 귀사가 유럽의 고객들을 보유한 미국의 사업체라면 어떻게 되는가? 두 가지 경우에서,(준거법)조항이 어떤 법이 적용될 것인지 분명하게 할 것이고 두 회사 모두 국제 변호사를 고용하지 않도록할 수 있다.
+
+① 통제 법 ②준거법
+
+③ 준거법 ④준거법
+
+[해설]
+지문의 빈칸에 적절하지 않은 것을 찾는 유형이다. 국제물품매매계약의 당사자들은 법체계와 상관습이 상이한 서로 다른 국가에 소재하고 있으므로, 큰 혼란이 생길 수 있으며 이를 해결하기 위해 준거법을 합의하고 결정해 두는 것이 중요하다. 준거법은 Governing law, Applicable law, Proper law 등으로 표현되며, Conflict Law(저촉법률, 충돌법)도 준거법의 의미로 사용될 수 있다. 따라서 답은 ①번이다.
+
+[어휘]
+geographic 지리적인 clause 조항 exclusively 독점적으로 numerous 수많은 take over (지위를) 넘겨 받다, 인수하다 declare 분명하게 하다 선언하다
+
+---
+
+## 문항 27
+
+27 What is nature of straight bill of lading?
+
+<p>[27~28] Read the following and answer.</p>
+<p>The most common negotiable document is the bill of lading. The bill of lading is a receipt given by the shipping company to the shipper. A bill of lading serves as a document of title and specifies who is to receive the merchandise at the designated port. In a straight bill of lading, the seller consigns the goods directly to the buyer. This type of bill is usually not desirable in a letter of credit transaction, because <span class="answer-blank" aria-label="빈칸">&nbsp;</span>.</p>
+<p>With an order bill of lading the shipper can consign the goods to the bank. This method is preferred in letter of credit transactions. The bank maintains control of the merchandise until the buyer pays the documents.</p>
+
+- ① non-negotiable bill of lading
+- ② negotiable bill of lading
+- ③ foul bill of lading
+- ④ order bill of lading
+
+정답: ①
+
+[공통 지문 해석: 27~28번]
+기장 일반적인 유통 성서류는 선하증권이다. 선하증권은 선사에 의해 회 주에게 주어지는 수령 증이다. 선하증권은 권리 증권의 역할을 하며 지정된 항구에서 물품을 수령할 사람이 누구인지를 명시한다. 기명 식 선하증권에서, 매도인은 물품을 매수인에게 바로 송부한다. 이 유형의 증권은 보통 신용장 거래에는적 힙하지 않은데. (이는 매수인이 물품의 점유(권)을 바로 얻게 하기) 때문이다
+
+지시 식 선하증권에서 회 주는 물품을 은행으로 송부할 수 있다 이 방식은 신용장 거래에서 선호되어진다 은행은 매수인이 서류에 대해 결제할 때까지 물품에 대한 통제를 유지한다.
+
+[해석]
+기명 식 선하증권의 특성은 무엇인가?
+
+① 비유통성 선하증권
+
+② 유통성 선하증권
+
+③ 사고부선화 증권
+
+④ 지시 식 선하증권
+
+[해설]
+주어진 보기 중 적절한 것을 찾는 유형이다. 기명식 선하증권은 유통의 의사가 없는 매도인이 특정 수하인에게 바로 물품을 인도하려고 하는 경우에 사용되며, 비유통성 증권으로 간주된다. 따라서 답은 ①번이다.
+
+---
+
+## 문항 28
+
+28 What is best for the blank?
+
+<p>[27~28] Read the following and answer.</p>
+<p>The most common negotiable document is the bill of lading. The bill of lading is a receipt given by the shipping company to the shipper. A bill of lading serves as a document of title and specifies who is to receive the merchandise at the designated port. In a straight bill of lading, the seller consigns the goods directly to the buyer. This type of bill is usually not desirable in a letter of credit transaction, because <span class="answer-blank" aria-label="빈칸">&nbsp;</span>.</p>
+<p>With an order bill of lading the shipper can consign the goods to the bank. This method is preferred in letter of credit transactions. The bank maintains control of the merchandise until the buyer pays the documents.</p>
+
+- ① it allows the buyer to obtain possession of the goods directly.
+- ② the shipper can consign the goods to the bank.
+- ③ the bank maintains control of goods until the buyer pays the documents.
+- ④ the bank can releases the bill of lading to the buyer.
+
+정답: ①
+
+[공통 지문 해석: 27~28번]
+기장 일반적인 유통 성서류는 선하증권이다. 선하증권은 선사에 의해 회 주에게 주어지는 수령 증이다. 선하증권은 권리 증권의 역할을 하며 지정된 항구에서 물품을 수령할 사람이 누구인지를 명시한다. 기명 식 선하증권에서, 매도인은 물품을 매수인에게 바로 송부한다. 이 유형의 증권은 보통 신용장 거래에는적 힙하지 않은데. (이는 매수인이 물품의 점유(권)을 바로 얻게 하기) 때문이다
+
+지시 식 선하증권에서 회 주는 물품을 은행으로 송부할 수 있다 이 방식은 신용장 거래에서 선호되어진다 은행은 매수인이 서류에 대해 결제할 때까지 물품에 대한 통제를 유지한다.
+
+[해석]
+빈 칸에 가장 적절한 것은 무엇인가?
+
+① 이는 매수인이 물품의 점유(권)을 바로 얻게한다.
+
+② 송하인은 물품을 은행으로 송부할 수 있다.
+
+③ 은행이 물품에 대한 통제를 매수인이 서류에 대해 결제할 때까지 유지한다.
+
+④ 은행은 매수인에게 선하증권을 내어 줄 수 있다.
+
+[해설]
+주어진 지문의 빈칸에 적절한 것을 찾는 유형이다. 만약 선하증권이 매수인의 기명식으로 발행되면 개설은행에 대한 신용장 대금의 상환과는 관계없이 매수인이 물품을 수령할 수도 있기 때문에 보통 신용장 거래에 적합하지 않다. 따라서 답은 ①번이다.
+
+[어휘]
+negotiable 유통 성의. 유통 기능한 bill of lading 선하증권 receipt 수령증 document of title 권리 증권 straight bill of lading 기명 식 선하증권 consign 송부하다. 보내다 order bill of lading 지시 식 선하증권 foul bill of lading 사고부 선하증권
+
+---
+
+## 문항 29
+
+29 Which of the followings has a different meaning with others?
+
+
+
+- ① We will give you a special discount if you order by May 12.
+- ② You will be given a special discount if you take order until May 12.
+- ③ If you order on or before May 12, you will get a special discount.
+- ④ A special discount is available for your order being received on or before May 12.
+
+정답: ②
+
+[해석]
+다음 중 다른 의미를 가지고 있는 것은 무엇인가?
+
+① 귀사가 5월 12일까지 주문을 하신다면. 당사는 특별 할인을 제공하겠습니다
+
+② 귀사는 5월 12일까지 주문을 받으면 특별 할인을 받게 될 것입니다
+
+③ 5월 12일 전까지 귀사가 주문을 하면. 특별 할인을 받을 것입니다
+
+④ 5월 12일 혹은 그 이전의 주문은 특별 할인이 가능합니다
+
+[해설]
+주어진 문장과 다른 내용을 찾는 유형이다. 'take order'는 '주문을 받다'라는 의미이므로, '주문을 하다'라는 의미의 'place order' 또는 'make order'를 사용해야 한다. 따라서 답은 ②번이다.
+
+[어휘]
+take order 주문을 받다
+
+---
+
+## 문항 30
+
+30 Which of the following is appropriate for the blank?
+
+<p>In comparison with lawsuit case in a court, arbitration has advantages of the speedy decision, lower costs, nomination of specialized arbitrators, and <span class="answer-blank" aria-label="빈칸">&nbsp;</span>.</p>
+
+- ① international effect of judgement
+- ② mandatory publication of arbitral award
+- ③ legal approach by government
+- ④ higher legal stability
+
+정답: ①
+
+[해석]
+[ 다음 중 빈칸에 적절한 것은 무엇인가?
+
+법원에서의 소송의 경우와 비교했을 때. 증재는 신속한 결정 저비용, 전문적인 중재인의 지명 그리고(판결의 국제적인 효력 )의 이점을 가진다.
+
+① 판결의 국제적인 효력
+
+② 중재판정의 의무적 공개
+
+③ 정부에 의한 법적 접근
+
+④ 더 높은 법적 안정성
+
+허섭
+
+[해설]
+주어진 지문의 빈칸에 적절한 것을 찾는 유형이다. 소송과 달리 중재판정은 뉴욕 협약에 의거하여 국제적 집행이 가능하다. 따라서 답은 ①번이다.
+
+[어휘]
+lewsuit 소. 고소 arbitration 중재 nomination 지명, 임명 arbitrator 중재인 mandatory 의무의, 강행적인 publication 공개 arbitral award 중재판정
+
+---
+
+## 문항 31
+
+31 Which of the following is NOT appropriate for the blank below?
+
+<p>Types of marine insurance can be differentiated as follows:<br><br>( A ) caters specifically to the marine cargo carried by ship and also pertains to the belongings of a ship's voyagers.<br><br>( B ) is mostly taken out by the owner of the ship to avoid any loss to the vessel in case of any mishaps occurring.<br><br>( C ) is that type of marine insurance where compensation is sought to be provided to any liability occurring on account of a ship crashing or colliding and on account of any other induced attacks.<br><br>( D ) offers and provides protection to merchant vessels’ corporations which stand a chance of losing money in the form of freight in case the cargo is lost due to the ship meeting with an accident.</p>
+
+- ① (A) : voyage insurance
+- ② (B) : hull insurance
+- ③ (C) : liability insurance
+- ④ (D) : freight insurance
+
+정답: ①
+
+[해석]
+다음 중 아래 빈 칸에 적절하지 않은 것은 무엇인가?
+
+해상 보험의 종류들은 다음과 같이 구분될 수 있다
+
+A 항해 보험)은 선박에 의해 운송되는 해상 화물에 특정하여 적용되며 또한 선박의 항해자들의 소지품에 관련한다 (B 선박 보험)은 발생할 수 있는 어떠한 사고의 경우에 선박에 손실을 피하기 위해 주로 선주에 의해 부보된다 (C 책임보험)은 선박의 사고나 충돌 그리고 다른 유도된 공격 때문에 발생하는 모든 책임에 대해 보상이 제공되는 해상 보험의 종류이다. (D 운임 보험)은 사고를 당한 선박으로 인해 화물이 멸실된 경우 운임 손실의 가능성이 있는 무역 선 회사에 보호책을 제공한다
+
+① (A): 항해 보험
+
+② (B): 선박 보험 (C): 책임보험
+
+④ (D): 운임 보험 위
+
+[해설]
+주어진 지문의 빈칸에 적절하지 않은 것을 찾는 유형이다. 해상운송 중에 있는 화물을 보험의 목적물로 하는 해상보험은 적하보험으로, 선박에 의해 운반되는 해상화물에 적용되며 선박의 항해자들의 소지품에 관련한 해상보험을 항해보험이라고 하는 것은 적절하지 않다. 따라서 답은 ①번이다.
+
+[어휘]
+marine insurance 해상 보험 pertain 관련하다 mishap 사고 liabillty 임 induced 유도된 merchant 상인 voyage insurance 팅해보럼 hull insurance 선박 보험 liability insurance 책임보험 freight insurance 운임 보험
+
+---
+
+## 문항 32
+
+32 Which is NOT grammatically correct?
+
+<p>Thank you for your order of February 23, 2020. We are pleased to inform you that (A)<u>your order No.3634 has been loaded on the M/S Ventura</u>, (B)<u>leaving for Busan on March 10, 2020</u>, and (C)<u>arriving at Genoa around April 3, 2020</u>. (D)<u>The packing was carefully carried out</u> according to your instructions, and we are sure that all goods will reach you in good condition.</p>
+
+- ① (A)
+- ② (B)
+- ③ (C)
+- ④ (D)
+
+정답: ②
+
+[해석]
+문법적으로 옳지 않은 것은 무엇인가?
+
+2020년 2입 23 일자의 귀사의 주문에 감사 드립니다. 당사는(A)귀사의 추문 번호 363l가 M/SVenlura이 선적되었음을 알리게 되어 기쁘며, 이는() 2020년 310일에 부산을 떠나(C)2020년 4 ㅁ 3일경에 제노바에 도착합니다.(D) 또장은귀사의 설명에 따라 조심스럽게 이행되었으며, 당사는모든몸품이줄은상태로귀시에 도착할 것을 확신합니다.
+
+① (A) ② (B) ③ (C) ④ (D)
+
+[해설]
+주어진 지문에서 틀린 것을 찾는 유형이다. 출발지인 부산에서 떠나 제노바에 도착하는 것으로 동사 leave는 타동사로 뒤에 전치사 없이 목적어가 바로 와 '(출발지)를 떠나다'라는 의미로 쓰여야 하며 자동사 leave가 전치사 for를 동반하는 경우 '(목적지)를 향해 떠나다, 출발하다'라는 의미를 가진다. 따라서 답은 ②번이다.
+
+[어휘]
+packing 포장 condition 상태
+
+---
+
+## 문항 33
+
+33 Select the wrong part in the following passage.
+
+<p>(A)<u>Average adjuster is an expert in loss adjustment in marine insurance, particular with regard to hulls and hull interest.</u> (B)<u>He is more particularly concerned with all partial loss adjustments.</u> (C)<u>He is usually appointed to carry out general average adjustments for the shipowner on whom falls the onus to have the adjustment drawn up.</u> (D)<u>His charges and expenses form part of the adjustment.</u></p>
+
+- ① (A)
+- ② (B)
+- ③ (C)
+- ④ (D)
+
+정답: ②
+
+[해석]
+다음 지문에서 잘못된 부분을 고르시오.
+
+(A) 해 손 정산 인은 해상 보험이 서 손실 정산 특히 선체와 선체 이익에 관련한 전문가이다.(B)그는 특히나 더욱 모든 분손 정산과 관계가 있다.(C)그는 보통 정산을 해야할 책임이 있는 선주들을 위한 공동해손 정산을 수행하기 위해 지명된다.(D) 그의 책임과 비용은 정신의 일부를 형성한다
+
+① (A) ②(B) ③ (C) ④ (D)
+
+[해설]
+주어진 지문에서 틀린 것을 찾는 유형이다. 해손정산인은 해난에 의해 선체 또는 적재화물이 손상되거나 멸실되는 손해가 발생한 경우, 특히 공손해손 및 공동해손 정산금을 사정하여 이해관계자의 부담액을 정해진 규정에 따라 공정히 산정하는 전문가이다. 따라서 답은 ②번이다.
+
+[어휘]
+average adjuster 해손 정신인 adjustment 신 partial loss  general average 공동 o 손 onus 식임
+
+---
+
+## 문항 34
+
+34 Select the wrong part in the following passage.
+
+<p>(A)<u>Sea Waybill is a transport document for maritime shipment, which serves as prima-facie evidence of the contract of carriage</u> (B)<u>and as a receipt of the goods being transported, and a document of title.</u> (C)<u>To take delivery of the goods, presentation of the sea waybill is not required;</u> (D)<u>generally, the receiver is only required to identify himself, doing so can speed up processing at the port of destination.</u></p>
+
+- ① (A)
+- ② (B)
+- ③ (C)
+- ④ (D)
+
+정답: ②
+
+[해석]
+다음 지문에서 잘못된 부분을 고르시오
+
+(A) 해상화물운송장은 해상 운송을 위한 운송 서류로 운송 계약의 추정적 증거로 역할을 하며 (B) 운송되는 화물의 수 럼 증 및 권리 증권의 역할을 한다. (C) 화물의 인수를 받기 위해서 해상화물운송장의 제시가 불필요하다.(D) 일반적으로 수령인은 자신의 신원을 증명하기만하면 되며, 그렇게 함으로써 목적항에서의 처리를 빠르게할 수 있다
+
+① (A) ②(B) ③ (C) ④ (D)
+
+[해설]
+주어진 지문에서 틀린 것을 찾는 유형이다. 해상화물운송장은 기명식으로 발행되어 유통성이 없으며, 물품인도 요구 시 원본 제시가 필요치 않으므로 권리증권성을 가지지 않는다. 따라서 답은 ②번이다.
+
+[어휘]
+SeaWaybill 해상운송장 prima-Taoie evidence 추정적 증거 document of title 권리권
+
+---
+
+## 문항 35
+
+35 Which is NOT grammatically correct?
+
+<p>(A)<u>All disputes, controversies or differences</u> <u>which may raise</u> (B)<u>between the parties out of or in relation to or</u> (C)<u>in connection with contract, for the breach thereof</u> (D)<u>shall be finally settled by arbitration in Seoul.</u></p><u>
+</u>
+
+- ① (A)
+- ② (B)
+- ③ (C)
+- ④ (D)
+
+정답: ①
+
+[해석]
+문법적으로 옳지 않은 것은 무엇인가? (B) 계약 외의 혹은 계약에 관한 혹은(C) 계약과 관련된 당사자들 사이에 계약의 위반에 있어서(A) 제기될 수 있는 모든 분쟁 논쟁 혹은 차이는(D) 서 을에서의 중재에 의해 최종적으로 해결될 것이다
+
+① (A) ②(B) ③ (C) ④(D)
+
+[해설]
+주어진 지문에서 틀린 것을 찾는 유형이다.raise 뒤에 목적어가 따라 나오지 않으므로 자 동사가 쓰여야하며 '제기될 수 있는. 발생할 수 있는'의 의미가 되어야 문맥상 자연스러우므로 타동사 raise를 자 동사 arise로 고쳐야한다. 따라서 답은 ①번이다.
+
+[어휘]
+dispute 분쟁 controversy 논쟁 breach 위반 thereof 그것의 settle 해결하다 arbitration 중재
+
+---
+
+## 문항 36
+
+36 Which of the following is LEAST correctly written in English?
+
+
+
+- ① 당사는 귀사에게 당사의 늦은 답장에 대해 사과드리고 싶습니다. - We would like to apologize you to our late reply.
+- ② 귀사의 담당자는 당사의 어떤 이메일에도 답을 하지 않았습니다. - The person in charge at your company did not respond to any of our emails.
+- ③ 귀사의 제안은 다음 회의에서 다루어질 것입니다. - Your suggestion will be dealt with at the next meeting.
+- ④ 신상품 라인에 대하여 설명해 주시겠습니까? - Would you account for the new product line?
+
+정답: ①
+
+[해석]
+[ 다음 중 영어로 가장 올바르지 않게 작문한 것을 고르시오
+
+① 당사는귀사에당사의 늦은 답장에 대해 사과 드리고 싶습니다. -당사는귀사에당사의 늦은 답장에 대해 사과 드리고 싶습니다
+
+② 귀사의 담당자는 당사의 어떤 이메일에도 답을 하지 않았습니다 -귀사의 책임자는 당사의 어떤 이메일에도 답변하지 않았습니다
+
+③ 귀사의 제안은 다음 회의에서 다루어질 것입니다 -귀사의 제안은 다음 회의에서 다뤄질 것입니다.
+
+④ 신상품 라인에 대하여 설명해 주시겠습니까? -새로운 상품 라인에 대해 설명해 주시겠습니까?
+
+[해설]
+주어진 문장과 같지 않은 내용을 찾는 유형이다. '사과하다'라는 뜻을 가진 동사 apologize는 사과를 하는 이유 앞에 전치사 for를 사용해야 한다. 따라서 답은 ①번이다.
+
+[어휘]
+in charge 담 딩인
+
+---
+
+## 문항 37
+
+37 Which of the following is LEAST correctly written in English?
+
+
+
+- ① 이 계약서의 조건을 몇 가지 수정하고 싶습니다. - I'd like to amend some of the terms of this contract.
+- ② 가격을 원래보다 20달러 더 낮출 수 있을 것 같네요. - I think I can lower the price of $20.
+- ③ 계약 기간은 2년입니다. - The contract is valid for two years.
+- ④ 3년간 이 소프트웨어 독점 사용권을 제공해 드릴 수 있습니다. - We can offer you an exclusive license to this software for three years.
+
+정답: ②
+
+[해석]
+헤석다음증영어로 가장 올바르지 않게 작문한 것을 고르시오
+
+① 이 계약서의 조건을 몇 가지 수정하고 싶습니다 -이 계약의 몇 가지 조건을 수정하고 싶습니다
+
+② 가격을 원래보다 20달러 더 낮출 수 있을 것 같네요 -20달러의 가격을 낮출 수 있을 것 같네요
+
+③ 계약 기간은 2년입니다 -계약은 2년 동안 유효합니다
+
+④ 3년간 이 소프트웨어 독점 사용권을 제공해 드릴 수 있습니다 -당사는 이 소프트웨어를 귀사에 3년간 독점 사용권을 제공할 수 있습니다
+
+[해설]
+주어진 문장과 같지 않은 내용을 찾는 유형이다. 가격을 원래 가격에서 20달러만큼 더 낮출 수 있다는 내용이므로‘~ 만큼 낮추다'라는 의미가 될 수 있도록 전치사 of가 아닌 by로 써야한다. 따라서 답은 ②번이다
+
+[어휘]
+amend 수정하다 lower 낮추다 exclusive 독점의 license 사용
+
+---
+
+## 문항 38
+
+38 Which of the following is LEAST correctly written in English?
+
+
+
+- ① 제품 No.105와 106호의 즉시 선적이 불가능하다면, 제품 No.107과 108호를 대신 보내주십시오. - If Nos.105 and 106 are not available for immediate shipment, please send Nos.107 and 108 instead.
+- ② 이 가격이 귀사에게 괜찮다면 우리는 주문양식을 보내 드리고자 합니다. - If this price is acceptable to you, we would like to send you an order form.
+- ③ 귀사가 제품을 공급해줄 수 없다면, 이유를 알려주시기 바랍니다. - If you cannot supply us with the products, please let us have your explanation.
+- ④ 당사의 송장은 주문한 안락의자들을 7월 12일 오후 5시 까지 설치해줄 것을 구체적으로 명시하고 있습니다. - Our invoice specifically is stated that the armchairs ordering should be furnished until 5:00 p.m. on July 12.
+
+정답: ④
+
+[해석]
+다음 중 영어로 가장을 바르지 않게 작문한 것을 고르시오
+
+① 제품 N0.105와 106호의 즉시 선적이 불가능하다면 제품 No.107과 108호를 대신 보내 주십시오 -제품 N0.105호와 106호가 즉시 선적이 불가능하다면. 제품 N0.107호와 108호를 대신 보내 주십시오
+
+② 이 가격이 귀사에게 괜찮다면 우리는 주문 양식을 보내 드리고자합니다 -이 가격이 귀사에 만족스럽다면. 당사는 귀사에 주문 양식을 보내 드리고 싶습니다
+
+③ 귀사가 제품을 공급해 줄 수 없다면. 이유를 알려 주시기 바랍니다 -귀사가 그 제품을 당사에 공급할 수 없다면. 귀사의 이유를 당사에 알려 주시기 바랍니다
+
+④ 당사의 송장은 주문한 안락 의자들을 7월 12일 오후 5시까지 설치해 줄 것을 구체적으로 명시하고 있습니다. -당사의 송장은 주문하는 안락 의자들이 7월 12일 오후 5시까지 설치되도록 구체적으로 명시하고 있습니다
+
+[해설]
+주어진 문장과 같지 않은 내용을 찾는 유형이다. 안락의자들(armchairs)은 주문이 된 대상이므로 능동 태가 아닌 수동태로 수식해야하므로 ordering을 ordered로 고쳐야하며. 당사의 송장이 명시하는 주체이므로 수동태 is stated를 능동태 states로 고쳐야한다. 따라서 답은 ④번이다.
+
+[어휘]
+immediate 즉시의 explanation 이유. 설명 specifically 구체적으로 furmish 설치하다. 제공하다
+
+---
+
+## 문항 39
+
+39 Select the best answer suitable for the blank.
+
+<p><span class="answer-blank" aria-label="빈칸">&nbsp;</span> are taxes assessed for countering the effect of subsidies provided by exporting governments on goods that are exported to other countries.</p>
+
+- ① Retaliatory duties
+- ② Countervailing duties
+- ③ Dumping duties
+- ④ Anti-dumping duties
+
+정답: ②
+
+[해석]
+빈 칸에 가장 적절한 답을 고르시오
+
+(상계관세)는 수출국 정부가 다른 국가로 수출되는 상품들에 대해 제공하는 보조금의 효과를 상쇄하기 위해 부과된 세금이다
+
+① 보복 관세
+
+② 상계 관세
+
+③ 덤핑 관세
+
+④ 덤핑 방지 관세
+
+[해설]
+주어진 지문의 빈칸에 적절한 것을 찾는 유형이다. 상계관세는 외국에서 제조· 생산 또는 수출에 관하여 보조금 등을 받은 물품의 수입으로 인하여 국내 산업이 실질적인 피해를 받거나 우려가 있는 경우 혹은 국내 산업의 발전이 실질적으로 지연된 경우에 물가 안정 및 국내 산업을 보호하기 위한 세율이다 따라서 답은 ②번이다
+
+[어휘]
+tax 세금 assess 부과하다 counter 상쇄하다 subsidy 보조금 Retaliatory duties 보복 관세 Countervailing duties 상계관세 Anti-dumping duties 덤핑 방지 관세
+
+---
+
+## 문항 40
+
+40 What situation is excused in the above letter?
+
+<p>[40~41] Read the following and answer.</p>
+<p>As we wrote you previously about the delays in the delivery of your order, the situation is still the same, the trade union strike is on-going. We apologize for this occurrence, but there is not much that we can do to <span class="answer-blank" aria-label="빈칸">&nbsp;</span> this, as it is out of our hands.</p>
+<p>We again apologize and regret the delay in delivery of your order.</p>
+<p>Yours faithfully,</p>
+
+- ① late payment
+- ② force majeure
+- ③ non payment
+- ④ early delivery
+
+정답: ②
+
+[공통 지문 해석: 40~41번]
+당사가 이전에 귀사의 주문 배송 지연에 대해 서신에 작성했듯 상황은 여전히 동일하며 노동조합 파업이 진행 중입니다. 당사는 이 일에 대해 사과 드리지만 이는 당사의 소관 밖이므로 이를(바로잡기) 위해 당사가 할 수 있는 일이 많지 않습니다 귀 사의 주문 배송이 지연되어 다시 한 번 사과 드리며 유감입니다
+
+[해석]
+위 서신에서 설명되고 있는 상황은 무엇인가?
+
+① 연체 ②불가항력
+
+③ 지급 거절 ④조기 인도
+
+[해설]
+주어진 서신에서 설명하고 있는 상황을 추론하는 유형이다. 노동조합 파업 진행으로 배송이 지연되고 있는데, 자신들의 소관 밖이므로 할 수 있는 일이 없다고 했으므로, 불가항력에 대한 설명임을 추론할 수 있다. 따라서 답은 ②번이다.
+
+---
+
+## 문항 41
+
+41 Fill in the blank with suitable word.
+
+<p>[40~41] Read the following and answer.</p>
+<p>As we wrote you previously about the delays in the delivery of your order, the situation is still the same, the trade union strike is on-going. We apologize for this occurrence, but there is not much that we can do to <span class="answer-blank" aria-label="빈칸">&nbsp;</span> this, as it is out of our hands.</p>
+<p>We again apologize and regret the delay in delivery of your order.</p>
+<p>Yours faithfully,</p>
+
+- ① rectify
+- ② examine
+- ③ arrange
+- ④ file
+
+정답: ①
+
+[공통 지문 해석: 40~41번]
+당사가 이전에 귀사의 주문 배송 지연에 대해 서신에 작성했듯 상황은 여전히 동일하며 노동조합 파업이 진행 중입니다. 당사는 이 일에 대해 사과 드리지만 이는 당사의 소관 밖이므로 이를(바로잡기) 위해 당사가 할 수 있는 일이 많지 않습니다 귀 사의 주문 배송이 지연되어 다시 한 번 사과 드리며 유감입니다
+
+[해석]
+빈 칸에 적절한 단어를 채우시오
+
+① 바로잡다 ② 조사하다
+
+③ 준비하다 ④보관하다
+
+[해설]
+주어진 서신의 빈칸에 적절한 것을 찾는 유형이다 노동조합 파업이라는 문제가 아직 해결되지 않은 채 진행 중이라고 했으므로 빈 칸에는 이 문제를 바로잡는다는 내용이 와야 적절하다 따라서 답은 ①번이다.
+
+[어휘]
+trade union 노동조합 strlke 파업 out of one's hands 자기의 소관 밖인 force majeure 불기 nonpayment 미지 rectify 바로 집 다
+
+---
+
+## 문항 42
+
+42 Which is the right match for A and B?
+
+<p>[42~43] Below is part of shipping letter of guarantee. Answer to each question.</p>
+<p>Whereas (A)<u>you</u> have issued a bill of lading covering the above shipment and the above cargo has been arrived at the above port of discharge, we hereby request you to give delivery of the said cargo to the above mentioned party without presentation of the original bill of lading.</p>
+<p>In consideration of your complying with our above request, we hereby agree to indemnify you as follows:</p>
+<p>Expenses which you may sustain by reason of delivering the cargo in accordance with our request, provided that the undersigned Bank shall be exempt from liability for freight, demurrage or expenses in respect of the contract of carriage.</p>
+<p>As soon as the original bill of lading corresponding to the above cargo comes into our possession, we shall surrender the (B)<u>same</u> to you, whereupon our liability hereunder shall cease.</p>
+
+- ① (A)carrier - (B)Letter of Guarantee
+- ② (A)carrier - (B)Bill of Lading
+- ③ (A)buyer - (B)Bill of Lading
+- ④ (A)seller - (B)Letter of Guarantee
+
+정답: ②
+
+[공통 지문 해석: 42~43번]에 답하시오 (A)귀사가 상기 선적 물에 대한 선하증권을 발행한 것에 대해여 상기 화물이 위의 양 하 항에도 칙하였고. 당사는 이로써 귀사가 원본의 선하증권 제시 없이 위에서 언급한 당사자에게 상기 화물을 인도할 것을 요청합니다. 당사의 위와 같은 요청을 귀사가 수락하시는 것에 대한 약인으로 당사는 다음과 같이 보상할 것을 합의합니다: 아래에 서명하는 당 행은 운송 계약과 관련하는 운임. 체화료 또는 기타 경비와는 무관하다는 것을 전제로 귀사가 당사의 요청에 따라 화물을 인도하는 것을 이유로 발생하게 될 경비 상기 화물과 관련하는 원본 선하증권이 당 행의 수중에 들어오는 즉시 당사는(B) 동일한 것을 귀사에 양도할 것이며 그 이후 당사의 하기 책임은 종료될 것입니다
+
+[해석]
+다음 중 A와 B에 적절한 짝은 무엇인가?
+
+① (A) 운송인 -(B) 수입 화물 선취 보증서
+
+② (A)운송인 -(B) 선하증권
+
+③ (A) 매수인 -(B) 선하증권
+
+④ (A) 매도인 -(B) 수입 화물 선취 보증서
+
+[해설]
+주어진 보기 중 적절한 것을 찾는 유형이다. 선하증권은 본선에 화물 적재 완료 후 운송인이 송하인에게 발행하므로 (A)귀사는 운송인이고, 원본 선하증권이 당 행의 수중에 들어오는 즉시 귀사에 동일한 것을 양도한다고 했으므로(B) 동일한 것은 선하증권이 적절하다. 따라서 답은 ②번이다.
+
+---
+
+## 문항 43
+
+43 Which is similar to the word indemnify?
+
+<p>[42~43] Below is part of shipping letter of guarantee. Answer to each question.</p>
+<p>Whereas (A)<u>you</u> have issued a bill of lading covering the above shipment and the above cargo has been arrived at the above port of discharge, we hereby request you to give delivery of the said cargo to the above mentioned party without presentation of the original bill of lading.</p>
+<p>In consideration of your complying with our above request, we hereby agree to indemnify you as follows:</p>
+<p>Expenses which you may sustain by reason of delivering the cargo in accordance with our request, provided that the undersigned Bank shall be exempt from liability for freight, demurrage or expenses in respect of the contract of carriage.</p>
+<p>As soon as the original bill of lading corresponding to the above cargo comes into our possession, we shall surrender the (B)<u>same</u> to you, whereupon our liability hereunder shall cease.</p>
+
+- ① register
+- ② reimburse
+- ③ recourse
+- ④ surrender
+
+정답: ②
+
+[공통 지문 해석: 42~43번]에 답하시오 (A)귀사가 상기 선적 물에 대한 선하증권을 발행한 것에 대해여 상기 화물이 위의 양 하 항에도 칙하였고. 당사는 이로써 귀사가 원본의 선하증권 제시 없이 위에서 언급한 당사자에게 상기 화물을 인도할 것을 요청합니다. 당사의 위와 같은 요청을 귀사가 수락하시는 것에 대한 약인으로 당사는 다음과 같이 보상할 것을 합의합니다: 아래에 서명하는 당 행은 운송 계약과 관련하는 운임. 체화료 또는 기타 경비와는 무관하다는 것을 전제로 귀사가 당사의 요청에 따라 화물을 인도하는 것을 이유로 발생하게 될 경비 상기 화물과 관련하는 원본 선하증권이 당 행의 수중에 들어오는 즉시 당사는(B) 동일한 것을 귀사에 양도할 것이며 그 이후 당사의 하기 책임은 종료될 것입니다
+
+[해석]
+단어 보상하다와 비슷한 것은 무엇인가?
+
+① 등록하다
+
+② 상환하다
+
+③ 상환 청구
+
+④ 제출하다
+
+[해설]
+주어진 단어와 같은 단어를 찾는 유형이다.indemnify (보상하다)와 비슷한 의미는 reimburse(배상하다)이다. 따라서 답은 ②번이다.
+
+[어휘]
+Letter of Guarantee 수입 화물 선취 보증서 bill of lading 선하증권 cargo 화물 port of discharge 양육 demurrage 체화료, 체선료 in accordance with ~에따라 surrender 제출하다양도하다 whereupon (바로) 그 이후에, 그 결과 liability 책임 hereunder 하기에. 아래에 indemnity 보상하다 배상하다 reimburse 배상하다 recourse 상환 청구(권). 소구(권)
+
+---
+
+## 문항 44
+
+44 Which is WRONG in the explanation of blank endorsement?
+
+<p>[44~45] Read the following and answer.</p>
+<p>Blank endorsement is an act that the (A)<u>endorser</u> signs on the back of Bill of Lading (B)<u>with</u> bearing a specific person when a bill of lading is made out (C) <u>to order or shipper’s order</u>. The bill of lading then becomes a bearer instrument and the (D)<u>holder</u> can present it to the shipping company to take delivery of the goods.</p>
+
+- ① (A)
+- ② (B)
+- ③ (C)
+- ④ (D)
+
+정답: ②
+
+[공통 지문 해석: 44~45번]
+백지식배서는선히층권이(C) 지시식또는송히인지시 식으로 작성된 경우에 특정인을 기재(B)하여 그 뒷면에(시)배서인이 서명하는 행위이다, 선하증권은 그 후 소지 인식 증권이 되고 (D) 소지인은 물품을 수령하기 위해 선사에 그것을 제시할 수 있다.
+
+[해석]
+백지식배서의 설명으로 잘못된 것은 무엇인가?
+
+① (A) ② (B) ③ (C) ④ (D)
+
+[해설]
+주어진 보기 중 틀린 것을 찾는 유형이다. 백 지식 배서는 송하인이 피배서인을 기재하지 않고(without)본인 서명만 하기 때문에 특정인을 기재하지 않는다 따라서 답은 ②번이다
+
+---
+
+## 문항 45
+
+45 What is correct about the bearer?
+
+<p>[44~45] Read the following and answer.</p>
+<p>Blank endorsement is an act that the (A)<u>endorser</u> signs on the back of Bill of Lading (B)<u>with</u> bearing a specific person when a bill of lading is made out (C) <u>to order or shipper’s order</u>. The bill of lading then becomes a bearer instrument and the (D)<u>holder</u> can present it to the shipping company to take delivery of the goods.</p>
+
+- ① Bearer is someone who owns or possesses a B/L.
+- ② Bearer is not able to assign the B/L to others.
+- ③ Bearer is normally bank in negotiable B/L operation.
+- ④ Bearer can not hold the B/L but endorse it to third party for assignment.
+
+정답: ①
+
+[공통 지문 해석: 44~45번]
+백지식배서는선히층권이(C) 지시식또는송히인지시 식으로 작성된 경우에 특정인을 기재(B)하여 그 뒷면에(시)배서인이 서명하는 행위이다, 선하증권은 그 후 소지 인식 증권이 되고 (D) 소지인은 물품을 수령하기 위해 선사에 그것을 제시할 수 있다.
+
+[해석]
+소지인에 대해 올바른 것은 무엇인가?
+
+① 소지인은 선하증권을 소유하거나 보유한 사람이다
+
+② 소지인은 선하증권을 타인들에게 양도할 수 없다.
+
+③ 유통성 선하증권 업무에서 소지인은 보통 은행이다.
+
+④ 소지인은 선하증권을 보유할 수 없지만, 제삼 자에게 배서할 수 있다.
+
+[해설]
+소지인은 해당 증권을 보유하고 있는 권리자를 말한다. 유통성 증권의 소지인은 해당 증권을 양도하거나 자신이 그 증권상의 권리를 직접 행사할 수도 있다. 따라서 답은 ①번이다.
+
+[어휘]
+blank endorsement 백지식배서 endorser 배서인 bearer instrument 소지 인식 증권 holder 소지인 own 소유하다 possess 보유하다 negotiable 유통 기능한 endorse 배서하다
+
+---
+
+## 문항 46
+
+46 Which is NOT suitable in the explanation of all risks insurance?
+
+<p>[46~47] Read the following and answer.</p>
+<p>All risks is an insurance term to denote the conditions covered by the insurance.</p>
+<p>(A) <u>It is to be construed that the insurance covers each and every loss all the times.</u> In cargo insurance, the term embraces all fortuitous losses such as <span class="answer-blank" aria-label="빈칸">&nbsp;</span> occurring during transit and (B) <u>the term incorporates a number of excluded perils.</u></p>
+<p>In other words, all risks insurance is a type of property or casualty insurance policy that (C) <u>covers any peril, as long as the contract does not specifically exclude it from coverage.</u> This means that, (D) <u>as long as a peril is not listed as an exclusion, it is covered.</u></p>
+
+- ① (A)
+- ② (B)
+- ③ (C)
+- ④ (D)
+
+정답: ①
+
+[공통 지문 해석: 46~47번]
+전 위험 담보는 보험에 의해 보장되는 조건들을 의미하는 보험 용어이다. (A) 보험이 모든 손해에 항상 적용된다는 의미로 해석되어야한다. 적하 보험에서, 이 용어는 운송 중에 발생하는()와 같은 모든 우연한 손해를 모함하고(B) 많은 면책 위험을 포함한다.
+
+다시 말해서, 모든 전 위험 담보 보험은(C) 계약이 특별히 보상 범위에서 제외하지 않는 한, 모든 위험을 보상하는 일종의 재산 혹은 사고 보험 증권이다. 이는.(D) 위험 요소가 제외 항목으로 나열되지 않는 한. 그것이 보장된다는 것이다.
+
+[해석]
+전 위험 담보 보험의 설명에서 적절하지 않은 것은 무엇인가?
+
+① (A) ②(B) ③ (C) ④(D)
+
+[해설]
+주어진 보기 중 적절하지 않은 것을 찾는 유형이다. 전 위험 담보의 보험이라도 면책 위험은 담보하지 않으며 보험자의 책임은 보험 기간 동안에만 유효하므로 보험이 모든 손해에 대해 항상 보상한다고 할 수는 없다. 따라서 답은 ①번이다.
+
+---
+
+## 문항 47
+
+47 Which is NOT appropriate for the blank?
+
+<p>[46~47] Read the following and answer.</p>
+<p>All risks is an insurance term to denote the conditions covered by the insurance.</p>
+<p>(A) <u>It is to be construed that the insurance covers each and every loss all the times.</u> In cargo insurance, the term embraces all fortuitous losses such as <span class="answer-blank" aria-label="빈칸">&nbsp;</span> occurring during transit and (B) <u>the term incorporates a number of excluded perils.</u></p>
+<p>In other words, all risks insurance is a type of property or casualty insurance policy that (C) <u>covers any peril, as long as the contract does not specifically exclude it from coverage.</u> This means that, (D) <u>as long as a peril is not listed as an exclusion, it is covered.</u></p>
+
+- ① inherent vice
+- ② fire
+- ③ earthquake
+- ④ jettison
+
+정답: ①
+
+[공통 지문 해석: 46~47번]
+전 위험 담보는 보험에 의해 보장되는 조건들을 의미하는 보험 용어이다. (A) 보험이 모든 손해에 항상 적용된다는 의미로 해석되어야한다. 적하 보험에서, 이 용어는 운송 중에 발생하는()와 같은 모든 우연한 손해를 모함하고(B) 많은 면책 위험을 포함한다.
+
+다시 말해서, 모든 전 위험 담보 보험은(C) 계약이 특별히 보상 범위에서 제외하지 않는 한, 모든 위험을 보상하는 일종의 재산 혹은 사고 보험 증권이다. 이는.(D) 위험 요소가 제외 항목으로 나열되지 않는 한. 그것이 보장된다는 것이다.
+
+[해석]
+빈칸이 적절하지 않은 것은 무엇인가?
+
+① 고유의하자 ②화재
+
+③ 지진 ④투하
+
+[해설]
+주어진 지문의 빈칸에 적절하지 않은 것을 찾는 유형이다. 전 위험 담보 조건은 지연, 보험 목적물의 고유의 하자 또는 성질, 피보험자의 고의에 의한 불법 행위, 통상의지연소모통상의누손과파손, 쥐나 해충에 의한 손해. 전쟁 위험 및 동맹 파업 위험의 면책 위험을 제외하고 보험 목적물의 멸실이나 손상의 일체의 위험을 담보한다. 따라서 답은 ①번이다.
+
+[어휘]
+all risks 전 위험 담보 term 용어 denote 의미하다 construe 해석하다 cargo insurance 적하 보험 embrace 포함하다 fortuitous 우연한. 뜻밖의 incorporate 포함하다 excluded peril 면책 위험 casualty 사고 exclusion 제외 inherent vice 고 유의하자 jettison 투하
+
+---
+
+## 문항 48
+
+48 What expression is normally stated for nominated bank in L/C?
+
+<p>[48~49] Read the following and answer.</p>
+<p>Compared to other payment type, the role of banks is substantial in documentary Letter of Credit (L/C) transactions.</p>
+<p>The banks provide additional security for both parties in a trade transaction by playing the role of intermediaries. The banks assure the seller that he would be paid if he provides the necessary documents to the issuing bank through the nominated bank.</p>
+
+<p>The banks also assure the buyer that their money would not be released unless the shipping documents such as <span class="answer-blank" aria-label="빈칸">&nbsp;</span> are presented.</p>
+
+
+- ① available with
+- ② available for
+- ③ available by
+- ④ claims at
+
+정답: ①
+
+[공통 지문 해석: 48~49번]
+다른 결제 유형과 비교하여 화환 신용장 거래에서 은행의 역할은 중요하다 은행들은 매개자의 역할을 수행함으로써 거래의 당사자 양측에 추가적인 보장을 제공한다. 은행들은 매도인이 지정은행을 통해 개설은행에 필요한 서류를 제공하면 결제 받을 것을 보장한다 은행들은 또한 매수인에게( )와 같은 선적서류가 제시도 지 않는 한 매수인의 돈이 지급되지 않을 것임을 보장한다.
+
+[해석]
+신용장에서 지정은행에 보통 어떤 표현이 명시되는가?
+
+① ~에서 이용 가능
+
+② ~에 이용 가능
+
+③ ~에 의해 이용 가능
+
+④ ~에 청구함
+
+[해설]
+주어진 보기 중 적적한 것을 찾는 유형이다. 신용장에서 보 지정은행을 표시하기 위해'available with'라는 표현을 명시한다. 따라서 답은 ①번이다.
+
+---
+
+## 문항 49
+
+49 Which is NOT suitable for the blank?
+
+<p>[48~49] Read the following and answer.</p>
+<p>Compared to other payment type, the role of banks is substantial in documentary Letter of Credit (L/C) transactions.</p>
+<p>The banks provide additional security for both parties in a trade transaction by playing the role of intermediaries. The banks assure the seller that he would be paid if he provides the necessary documents to the issuing bank through the nominated bank.</p>
+
+<p>The banks also assure the buyer that their money would not be released unless the shipping documents such as <span class="answer-blank" aria-label="빈칸">&nbsp;</span> are presented.</p>
+
+
+- ① packing list
+- ② bill of exchange
+- ③ invoice
+- ④ inspection certificate
+
+정답: ②
+
+[공통 지문 해석: 48~49번]
+다른 결제 유형과 비교하여 화환 신용장 거래에서 은행의 역할은 중요하다 은행들은 매개자의 역할을 수행함으로써 거래의 당사자 양측에 추가적인 보장을 제공한다. 은행들은 매도인이 지정은행을 통해 개설은행에 필요한 서류를 제공하면 결제 받을 것을 보장한다 은행들은 또한 매수인에게( )와 같은 선적서류가 제시도 지 않는 한 매수인의 돈이 지급되지 않을 것임을 보장한다.
+
+[해석]
+빈 칸에 적절하지 않은 것은 무엇인가?
+
+① 포장 명세서
+
+② 환어음
+
+③ 송장
+
+④ 검사 증명서
+
+[해설]
+주어진 지문의 빈칸에 적절하지 않은 것을 찾는 유형이다. 별도의 정의 없이 선적서류라는 용어가 사용된 경우 환어음 전송 보고서, 서류의 발송을 증빙하는 특송 영수증, 우편 영수증 및 우편 증명서를 제외한 신용장에서 요구하는 모든 서류를 의미한다. 따라서 답은 ②번이다
+
+[어휘]
+substantial 중요힌 documentary Letter of Credit(L/C) 신용 intermediary 중개인 issuing bank 개선 은행 nominated 지정된
+
+---
+
+## 문항 50
+
+50 Fill in the blanks with right words.
+
+<p>It must be remembered that the Letter of Credit is a contract between the issuing bank and the ( A ), regardless of any intermediary facilitating banks. Therefore, regardless of a place of presentation different from that of the issuing bank as stated on the Letter of Credit, the beneficiary is at liberty to make a ( B ) presentation to the issuing bank and the issuing bank is obliged to honour if the presentation is compliant.</p>
+
+- ① (A)beneficiary - (B)direct
+- ② (A)applicant - (B)direct
+- ③ (A)beneficiary - (B)indirect
+- ④ (A)applicant - (B)indirect
+
+정답: ①
+
+[해석]
+빈칸들을 올바른 단어들로 채우시오
+
+신용장은 중간의 거래를 용이하게하는 어떠한 은행들과 관계없이 개설은행과(A 수익자) 사이의 계약임을 명심해야한다. 따라서, 신용장에 명시된 제시 장소가 개설은행의 위치와 다르더라도, 수익자는 개설은행에 (B 직접적인)제시를 할 자유가 있으며 개설은행은 만약 제시가 일치한다면 결제할 의무가 있다
+
+① (A) 수익자 -(B) 직접적인
+
+② (A) 개설의뢰인 -(B) 직접적인
+
+③ (A) 수익자 -(B) 간접적인
+
+④ (A) 개설의뢰인 - (B) 간접적인
+
+[해설]
+지문의 빈칸에 적절한 것을 찾는 유형이다. 신용장은 신용장 개설은행이 수출자인 수익자(beneficiary)에게 대금지급을 확약하는 개설은행의 조건부 지급확약서이다. 또한 지정은행은 수출국에서의 제시 및 신용장의 결제/매입을 용이하게 하기 위한 은행일 뿐이며 개설은행에 일치하는 제시가 직접 제시된 경우에도 개설은행은 결제하여야 한다. 따라서 답은 ①번이다.
+
+[어휘]
+issuing bank 개설은행 intermediary 중간의 facilitate 즉 진하다 beneficiary 수익자 oblige to ~힐 의무가 있다 compliant 준수하는
+
+---
+
+## 문항 51
+
+51 UN 국제물품매매에 관한 협약(CISG)의 적용 대상인 것은?
+
+
+
+- ① sales of goods bought for personal, family and household use
+- ② sales by auction
+- ③ sales of ships, vessels, hovercraft or aircraft
+- ④ contracts for the supply of goods to be produced
+
+정답: ④
+
+[해설]
+CISG는 계약 체결 후 제조/ 생산되어 공급될 물품(선물)의 매매 계약에도 적용되나, 개인용, 가정용, 가사용 물품, 경매나 강제 집행에 의한 매매, 선박/ 항공기 등의 매매에는 적용되지 않는다
+
+---
+
+## 문항 52
+
+52 계약형태의 진출방식인 국제라이센스(international license)에 대한 설명으로 옳지 않은 것은?
+
+
+
+- ① 해외시장에서 특허나 상표를 보호하는 동시에 크로스 라이센스를 통해 상호교환을 기대할 수 있다.
+- ② 노하우가 라이센스의 대상이 되기 위해서는 공공연히 알려진 유용한 경영상의 정보이어야 한다.
+- ③ 현지국에서 외환통제를 실시할 경우, 해외자회사에서 라이센스를 통해서 본국으로 과실송금이 어느 정도 가능하다.
+- ④ 비독점적 라이센스는 기술제공자가 특정인에게 허락한 것과 동일한 내용의 권리를 제3자에게 허락할 수 있는 조건이다.
+
+정답: ②
+
+[해설]
+라이센스의 대상이 되는 노하우는 공중에게 알려지지 않은 것이며, 상당한 노력에 의해 비밀로 유지되고 독립된 경제적 가치를 지닌 것이어야한다.
+
+---
+
+## 문항 53
+
+53 인코텀즈(Incoterms) 2020의 CIF조건에 대한 설명으로 옳지 않은 것은?
+
+
+
+- ① 매도인이 부담하는 물품의 멸실 또는 손상의 위험은 물품이 선박에 적재된 때 이전된다.
+- ② 물품이 컨테이너터미널에서 운송인에게 교부되는 경우에 사용하기 적절한 규칙은 CIF가 아니라 CIP이다.
+- ③ 매도인은 물품이 제3국을 통과할 때에는 수입관세를 납부하거나 수입통관절차를 수행할 의무가 있다.
+- ④ 매도인은 목적항에 물품이 도착할 때까지 운송 및 보험 비용을 부담하여야 한다.
+
+정답: ③
+
+[해설]
+C 규칙의 매도인은 수출통관을 이행해야할 의무가 있으나 인도 이후에 제3 국을 통과하기 위한 절차는 매수인이 이행하여야한다
+
+---
+
+## 문항 54
+
+54 관세법 상 외국물품으로 보기 어려운 것은?
+
+
+
+- ① 수출신고 수리된 물품
+- ② 우리나라 선박이 공해에서 채집한 수산물
+- ③ 외국에서 우리나라에 반입된 물품으로서 수입신고 수리 되기 전의 물품
+- ④ 보세구역으로부터 우리나라에 반입된 물품으로서 수입 신고 수리되기 전의 물품
+
+정답: ②
+
+[해설]
+관세법상 우리나라의 선박 등이 공해(외국의 영해가 아닌 경제 수역을 포함)에서 채집하거나 포획한 수산물 등은 내국 물품으로 본다.
+
+---
+
+## 문항 55
+
+55 한국의 ㈜Haiyang은 베트남의 Hochimin Co., Ltd.로 Chemical 제품 15톤을 수출하기로 하였다. 거래조건은 CIP, 결제조건은 sight L/C이다. Hochimin Co., Ltd.가 거래은행을 통하여 발행한 신용장 상에 다음과 같은 문구가 있다. 이에 대한 설명으로 옳지 않은 것은?
+
+<p>+Insurance Policy in duplicate issued to Beneficiary's order and blank endorsed for the invoice value plus 10 pct.</p>
+
+- ① 보험증권의 피보험자란에 ㈜Haiyang이 기재된다.
+- ② 보험증권 상에 Hochimin Co., Ltd.의 백지배서가 필요 하다.
+- ③ 보험부보금액은 송장금액의 110%이다.
+- ④ 보험증권은 총 2부가 발행된다.
+
+정답: ②
+
+[해설]
+주어진 조건에서 보험증권의 피보험자는 수익자인 ㈜Haiyang의 지시식으로 발행하도록 하였고 백지배서할 것이 요구되었으므로 개설의뢰인인 Hochimin Co., Ltd.의 백지배서는 요구되지 않는다.
+
+---
+
+## 문항 56
+
+56 신용장 양도 시 확인사항으로 옳지 않은 것은?
+
+
+
+- ① 당해 신용장이 양도가능(Transferable) 신용장인지의 여부
+- ② 개설은행이 신용장 상에 지급, 인수 또는 매입을 하도록 수권받은 은행인지의 여부
+- ③ 분할양도의 경우 원수출신용장 상에 분할선적을 허용 하고 있는지의 여부
+- ④ 제시된 원수출신용장에 의하여 기 취급한 금융이 없는지의 여부
+
+정답: ②
+
+[해설]
+신용장의 양도 시에는 해당 양도은행이 개설은행으로부터 양도하도록 지정 또는 수권을 받은 은행인지가 문제되며 UCP 규정상 개설은행은 양도은행이 될 수 있으므로 개설은행 이수권을 받았는지를 확인할 필요는 없다.
+
+---
+
+## 문항 57
+
+57 신용장의 기능에 대한 설명으로 옳지 않은 것은?
+
+
+
+- ① 개설은행의 지급 확약을 임의로 취소 또는 변경할 수 없으므로 대금회수의 확실성을 높일 수 있다.
+- ② 수출업자는 대금지급에 대한 은행의 약속에 따라 안심 하고 상품을 선적할 수 있다.
+- ③ 수출업자는 신용장을 담보로 하여 대도(T/R)에 의해 수출금융의 혜택을 누릴 수 있다.
+- ④ 수입업자는 선적서류를 통해 계약 물품이 선적기간 및 신용장 유효기간 내에 선적되었는지를 알 수 있다.
+
+정답: ③
+
+[해설]
+수입화물대도란 개설의뢰인이 신용장 대금을 개설은행에 지급하지 않고 선적서류를 먼저 수령하여 해당 물품을 처분하여 신용장 대금을 상환하도록 하는 은행의 신탁인도를 의미하므로 그러한 금융혜택을 누리는 당사자는 개설의뢰인인 수입자이다.
+
+---
+
+## 문항 58
+
+58 화물의 형태나 성질에 관계없이 컨테이너1개당 얼마라는 식으로 운송거리를 기준으로 일률적으로 책정된 운임은?
+
+
+
+- ① ad valorem freight
+- ② minimum all kinds rate
+- ③ freight all kinds rate
+- ④ revenue ton
+
+정답: ③
+
+[해설]
+화물의 품목과 관계 없이 컨테이너 등의 운송 용구 하나를 기준으로 일률적으로 부과하는 운임인 품목 무차별 운임 (FAK, Freight All Kinds rate)에 대한 설명이다.
+
+---
+
+## 문항 59
+
+59 성격이 다른 계약서의 조항을 고르면?
+
+
+
+- ① 품질조건
+- ② 수량조건
+- ③ 결제조건
+- ④ 중재조건
+
+정답: ④
+
+[해설]
+중재 조건(조항)은 계약서상의 다른 조건들과 달리 서면으로 체결될 것이 요구되며 중재 지, 준거법(중재 규칙), 중재 기관 등의 일정 요건이 기재되어야 인정된다.
+
+---
+
+## 문항 60
+
+60 추심결제방식에 대한 설명으로 옳지 않은 것은?
+
+
+
+- ① 환어음의 지급인이 선적서류를 영수함과 동시에 대금을 결제하는 것은 지급도(D/P)방식이다.
+- ② 추심결제는 수출상이 환어음을 발행하여 선적서류를 첨부하여 은행을 통해 송부하는 방식이다.
+- ③ 은행에 추심업무를 위탁하는 자는 지급인(drawee)이다.
+- ④ ‘URC’라는 국제규칙이 적용되며 신용장거래와 비교하면 은행수수료 부담이 적다.
+
+정답: ③
+
+[해설]
+은행에 추심 업무를 위탁하는 자는 추심 의뢰인(Principal) 이다.
+
+---
+
+## 문항 61
+
+61 전자선하증권이 사용될 경우 사용이 감소될 문서는?
+
+
+
+- ① Letter of Indemnity
+- ② Manifest
+- ③ Letter of Guarantee
+- ④ Delivery Order
+
+정답: ③
+
+[해설]
+전자식 선하증권은 분실 또는 송부지연이 발생될 확률이 낮으므로 물품은 양륙항에 도착했으나 선하증권이 도착하지 않아 물품의 인도가 지연되는 선하증권의 위기에 대한 해결책이 되며, 전자식 선하증권의 사용으로 L/G를 이용한 보증도가 줄어들 수 있다.
+
+---
+
+## 문항 62
+
+62 선하증권의 기능에 대한 설명으로 옳지 않은 것은?
+
+
+
+- ① 선하증권은 권리증권의 기능이 있기 때문에 정당한 소지인이 화물인도를 청구할 수 있다.
+- ② 선하증권은 수취증 기능을 하므로 목적지에서 동일한 물품이 인도되어야 한다.
+- ③ 선하증권이 일단 양도되면 그 기재내용은 양수인에 대해 확정적 증거력을 가진다.
+- ④ 선하증권은 운송계약의 추정적 증거가 되며 운송계약서 라고 할 수 있다.
+
+정답: ④
+
+[해설]
+선하증권은 운송 조건이 기재되어 운송 계약의 추정적 증빙의 역할을 하나 그 자체가 운송 계약서가 되는 것은 아니다.
+
+---
+
+## 문항 63
+
+63 항해용선계약에 대한 설명으로 옳지 않은 것은?
+
+
+
+- ① GENCON 1994 서식이 이용되고 있다.
+- ② 선복에 대하여 일괄하여 운임을 결정하는 용선계약을 lumpsum charter라고 한다.
+- ③ 약정된 정박기간 내에 하역을 완료하지 못한 경우에 demurrage가 발생한다.
+- ④ 용선자는 약정된 정박기간을 전부 사용할 수 있도록 하역작업을 수행하는 것이 바람직하다.
+
+정답: ④
+
+[해설]
+약정된 정박 기간 이전에 하역 작업을 완료한 경우용 선자는 선주로부터 조 출 료(Despatch Money)를 지급 받을 수 있다.
+
+---
+
+## 문항 64
+
+64 보험에 대한 설명으로 옳지 않은 것은?
+
+
+
+- ① 일부 보험의 경우 보험금액의 보험가액에 대한 비율로 비례보상한다.
+- ② 초과보험은 초과된 부분에 대해서는 무효이다.
+- ③ 피보험이익은 보험계약 체결 시에 존재하여야 한다.
+- ④ 해상적하보험의 보험가액은 보험기간 중 불변인 것이 원칙이다.
+
+정답: ③
+
+[해설]
+피보험 이익은 적법성. 경제성. 확정성의 요건을 갖추어야한다. 그 중 확정성과 관련하여 피보험 이익은 반드시 계약 체결 당시에 현존하고 그 귀속이 확정되어 있어야하는 것은 아니며 보험 사고가 발생할 때까지 확정될 수 있는 것이면 족하다
+
+---
+
+## 문항 65
+
+65 청약의 효력이 소멸되는 경우가 아닌 것은?
+
+
+
+- ① 피청약자의 청약거절
+- ② 유효기간 경과
+- ③ 당사자의 사망
+- ④ 청약조건의 조회
+
+정답: ④
+
+[해설]
+청약 조건에 대해 단순히 조회(문의)하는 것은 청약의 효력에 아무런 영향을 미치지 않는다
+
+---
+
+## 문항 66
+
+66 청약의 유인에 대한 설명으로 옳지 않은 것은?
+
+
+
+- ① 피청약자가 승낙하여도 청약자의 확인이 있어야 계약이 성립한다.
+- ② 청약자는 피청약자의 승낙만으로는 구속되지 않으려는 의도를 가진다.
+- ③ 불특정인, 불특정집단을 대상으로 이루어진다.
+- ④ Sub-con Offer와는 전혀 다른 성격을 지닌다.
+
+정답: ④
+
+[해설]
+Sub-con Offer(Offer subject to our final con firmation)는 대표적인 청약의 유인이다.
+
+---
+
+## 문항 67
+
+67 해상보험에 대한 설명으로 옳지 않은 것은?
+
+
+
+- ① 해상보험은 가입대상에 따라 선박보험과 적하보험 으로 나눌 수 있다.
+- ② 해상적하보험은 우리나라 상법 상 손해보험에 해당된다.
+- ③ 추정전손은 현실전손이 아니지만 현실적, 경제적으로 구조가 어려운 상태이다.
+- ④ 현실전손인 경우에는 반드시 위부통지를 해야 한다.
+
+정답: ④
+
+[해설]
+해상보험에서 위부(Abandonment)는 추정 전손이 발생한 경우 현실 전손으로 보상 받기 위한 전제 조건이 되나 현실 전손이나 분손의 경우에는 요구되지 않는다
+
+---
+
+## 문항 68
+
+68 매도인이 계약을 위반했을 때 매수인의 권리구제 방법으로 볼 수 없는 것은?
+
+
+
+- ① 매도인이 계약을 이행하지 않는 경우에 매수인은 원칙적 으로 계약대로의 이행을 청구할 수 있다.
+- ② 매수인은 매도인의 의무이행을 위하여 합리적인 추가 기간을 지정할 수 있다.
+- ③ 계약상 매도인이 합의된 기일 내에 물품의 명세를 확정 하지 아니한 때에는 매수인이 물품 명세를 확정할 수 있다.
+- ④ 물품이 계약에 부적합한 경우에 모든 상황에 비추어 불합리하지 않는 한, 매수인은 매도인에 대하여 하자 보완을 청구할 수 있다.
+
+정답: ③
+
+[해설]
+물품명세확정권은 매도인만이 행사할 수 있는 권리이다.
+
+---
+
+## 문항 69
+
+69 우리나라 중재법 상 임시적 처분의 주요 내용으로 옳지 않은 것은?
+
+
+
+- ① 분쟁의 해결에 관련성과 중요성이 있는 증거의 보전
+- ② 본안(本案)에 대한 중재판정이 있을 때까지 현상의 유지 또는 복원
+- ③ 중재판정의 집행 대상이 되는 부채에 대한 보전 방법의 제공
+- ④ 중재절차 자체에 대한 현존하거나 급박한 위험이나 영향을 방지하는 조치 또는 그러한 위험이나 영향을 줄 수 있는 조치의 금지
+
+정답: ③
+
+[해설]
+중재법상 임시적 처분은 중재판정부가 중재판정이 내려지기 전에 어느 한쪽 당사자에게 다음 각 호의 내용을 이행하도록 명하는 잠정적 처분으로 한다.
+1. 본안에 대한 중재판정이 있을 때까지 현상의 유지 또는 복원
+2. 중재절차 자체에 대한 현존하거나 급박한 위험이나 영향을 방지하는 조치 또는 그러한 위험이나 영향을 줄 수 있는 조치의 금지
+3. 중재판정의 집행대상이 되는 자산에 대한 보전방법의 제공
+4. 분쟁의 해결에 관련성과 중요성이 있는 증거의 보전
+
+---
+
+## 문항 70
+
+70 비용의 분기가 선적지에서 이뤄지는 Incoterms 2020 조건으로 옳은 것은?
+
+
+
+- ① FOB
+- ② DAP
+- ③ DDP
+- ④ CIF
+
+정답: ①
+
+[해설]
+인코텀즈 규칙 중 D 규칙들은 목적지에서 인도가 이루어지고 위험이 이전되는 양 륙 지 인도 조건에 속하며, 그 외 E,F. C 규칙들은 선적 지 인도 조건이다
+
+---
+
+## 문항 71
+
+71 중재계약에 대한 설명으로 옳지 않은 것은?
+
+
+
+- ① 중재조항은 직소금지의 효력이 있다.
+- ② 중재계약은 주된 계약에 대하여 독립성을 갖는다.
+- ③ 중재계약에는 계약자유의 원칙이 적용되지 않는다.
+- ④ 중재는 단심제이다.
+
+정답: ③
+
+[해설]
+중재 계약(합의)는 서면으로 체결될 것과 중재 지, 준거법(중재 규칙), 중재 기관 등의 일정 요건이 기재되어야할 것이 요구되므로 계약 체결의 방식을 선택할 자유는 일부분 제한된다. 그러나 그렇다고 해서 스스로의 판단으로 자유로이 계약 체결의 여부를 결정하고. 계약 상대방을 선택하며 준거법을 결정할 수 있는 계약 자유의 원칙이 적용되지 않는 것은 아니다.
+
+---
+
+## 문항 72
+
+72 대리점의 권한과 관련 본인으로부터 권한을 부여받지는 못하였으나 법률의 규정에 의하여 본인의 동의 여부를 불문하고 대리점이 권한을 소유하는 것을 무슨 권한이라 고 하는가?
+
+
+
+- ① actual authority
+- ② apparent authority
+- ③ presumed authority
+- ④ doctrine of ratification
+
+정답: ②
+
+[해설]
+표현대리(Apparent Authority)란 대리인에게 대리권이 없음에도 불구하고 외관상 대리권이 있는 것으로 보이는 경우 본인이 그러한 외관의 발생에 일정 정도 책임이 있다면 대리행위의 효과를 본인에게 귀속시키는 것을 말한다.
+
+---
+
+## 문항 73
+
+73 신용장 조건 점검 시 성격이 다른 하나는?
+
+
+
+- ① 검사증명서에 공식검사기관이 아닌 자의 서명을 요구 하는 경우
+- ② 화주의 책임과 계량이 표시된 운송서류는 수리되지 않는 다는 조건
+- ③ 개설의뢰인의 수입승인을 신용장 유효조건으로 하는 경우
+- ④ 매매계약의 내용과 불일치한 조건이 있는지의 여부
+
+정답: ④
+
+[해설]
+공식 검사기관이 아닌 자가 발행한 검사증명서를 요구하는 경우 해당 검사증명서가 공정하게 발행될지 여부를 수익자 측에서 확신할 수 없고, 통상적으로 운송서류에 기재되는 화주의 책임과 계량(Shipper's Load and Count) 부지약관(Unknown Clause)을 수리하지 않는 것 그리고 신용장의 이용조건으로 다른 조건 특히 개설의뢰인 측에 발생하는 사건을 조건으로 하는 것은 신용장상의 독소조항에 해당된다. 이들과 달리 신용장의 조건이 매매계약과 일치하는지의 여부는 신용장을 통지받은 수익자가 통상적으로 검토해야 하는 사항에 해당한다.
+
+---
+
+## 문항 74
+
+74 전자무역에 대한 설명으로 옳지 않은 것은?
+
+
+
+- ① 무역의 일부 또는 전부가 전자무역문서로 처리되는 거래를 말한다.
+- ② 전자무역은 글로벌B2C이다.
+- ③ 신용장에서 전자서류가 이용될 때 eUCP가 적용될 수 있다.
+- ④ 선하증권의 위기를 해결하기 위해 CMI에서 해상운송 장과 전자선하증권에 관한 규칙을 각각 제정하였다.
+
+정답: ②
+
+[해설]
+전자무역은 지역에 제한 없이 전 세계와 거래 가능하며 B2C(Business to Customer)에 한정되지 않고 B2B(Business to Business), B2G(Business to Government), C2C(Customer to Customer) 등의 여러 유형으로 이루어진다.
+
+---
+
+## 문항 75
+
+75 다음은 일반거래조건협정서의 어느 조건에 해당하는가?
+
+<p>All the goods sold shall be shipped within the time stipulated in each contract. The date of bills of lading shall be taken as a conclusive proof of the date of shipment. Unless specially arranged, the port of shipment shall be at Seller's option.</p>
+
+- ① 품질조건
+- ② 선적조건
+- ③ 정형거래조건
+- ④ 수량조건
+
+정답: ②
+
+[해석]
+판매된 모든 물품은 각각의 계약서에 명시된 기간 내에 선적되어야한다. 선하증권의 일자는 선적일의 확정적 증거로서 간주된다. 특별히 합의된 경우를 제외하고 선적항은 매도인이 선택한다
+
+[해설]
+선적일과 선적일의 증명 그리고 선적항의 선택에 대한 내용으로 보아 선적조건에 해당하는 조항이다.
+
+---
